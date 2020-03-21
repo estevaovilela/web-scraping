@@ -1,10 +1,13 @@
 
-# bibliotecas
+
+# Library -----------------------------------------------------------------
+
 library(data.table)
 library(tidyverse)
 library(zoo)
 
-# leitura do arquivo
+# Reading -----------------------------------------------------------------
+
 df <- fread("trabalhos_rbep.csv", header = TRUE, encoding = "UTF-8")
 # o output não é exatamente como previsto... a ideia era
 # que a coluna de "link" e "edicao" estivessem toda preenchida
@@ -19,6 +22,8 @@ df_tibble <- tibble("link" = df$link,
                     "autor" = df$autor,
                     "resumo" = df$resumo)
 
+# Cleaning ----------------------------------------------------------------
+
 # removendo os caracteres "\n" e "\t". o caracter "\" é um "escape caracter", 
 # portanto, para removê-lo precisamos das barras invertidas duplas "\\"
 # a função map_df é usada para aplicar esse procedimento em todas as colunas
@@ -31,13 +36,12 @@ df_tibble[df_tibble==''] <- NA
 
 df_tibble %>% map_dbl(~sum(is.na(.)))
 
-# temos dois casos:
-# 1) links que não direcionam para nenhuma página, pois na sequência
+# links que não direcionam para nenhuma página, pois na sequência
 # https://rebep.org.br/revista/article/view/i
 # i [2, 1544) não há todos os trabalhos
 
 df_tibble <- df_tibble %>% 
-  # caso 1, esses links não tem autor pois não há publicação
+  # esses links não tem autor pois não há publicação
   filter(!is.na(autor)) %>% 
   # agora substituindo todos os NA pela célula logo acima
   # "replace na with last non na in R"
@@ -48,7 +52,7 @@ df_tibble <- df_tibble %>%
          tipo_trabalho = zoo::na.locf(tipo_trabalho),
          titulo = zoo::na.locf(titulo))
 
-# publição
+# publicação
 df_publicacao <- df_tibble %>% 
   select(-autor, -resumo) %>% 
   distinct()
@@ -62,6 +66,8 @@ df_resumo <- df_tibble %>%
   select(link, resumo) %>% 
   filter(!is.na(resumo))
 
+# publicação completa com link, edição, tipo do trabalho,
+# autor, título e resumo
 df_publicacao_completo <- df_publicacao %>% 
   left_join(df_autor, by = c("link")) %>% 
   group_by(link, edicao, tipo_trabalho, titulo) %>% 
@@ -87,8 +93,8 @@ write_delim(x = df_publicacao,
             path = "publicacao.txt",
             delim = "|")
 
-# publicação completo
-write_delim(x = df_publicacao,
+# publicações completas
+write_delim(x = df_publicacao_completo,
             path = "publicacao_completo.txt",
             delim = "|")
 
