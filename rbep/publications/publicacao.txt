@@ -1,0 +1,820 @@
+link|edicao|tipo_trabalho|titulo
+https://rebep.org.br/revista/article/view/2|v. 1 n. 1/2 (1984)|Editorial|Apresentação
+https://rebep.org.br/revista/article/view/3|v. 1 n. 1/2 (1984)|Artigos originais|Fluxo e Refluxo da Fronteira agrícola no Brasil: ensaio de interpretação estrutural e espacial
+https://rebep.org.br/revista/article/view/4|v. 1 n. 1/2 (1984)|Artigos originais|União dos sexos e estratégias reprodutivas no Brasil
+https://rebep.org.br/revista/article/view/5|v. 1 n. 1/2 (1984)|Artigos originais|Crescimento e distribuição da população brasileira: tendências recentes
+https://rebep.org.br/revista/article/view/6|v. 1 n. 1/2 (1984)|Artigos originais|Aumento do diferencial por sexo da mortalidade no estado de São Paulo
+https://rebep.org.br/revista/article/view/7|v. 1 n. 1/2 (1984)|Artigos originais|Avanços metodológicos recentes na medição dos diferenciais da mortalidade
+https://rebep.org.br/revista/article/view/8|v. 1 n. 1/2 (1984)|Resenha|Médicos e curandeiros: conflito social e saúde
+https://rebep.org.br/revista/article/view/9|v. 1 n. 1/2 (1984)|Resumo de Pesquisas Concluídas|Informe sobre o perfil estatísitco de crianças e mães no Brasil: situação de saúde em 1981
+https://rebep.org.br/revista/article/view/10|v. 30 n. 1 (2013)|Editorial|Nota da Editora
+https://rebep.org.br/revista/article/view/12|v. 30 n. 1 (2013)|Artigos originais|Dinâmica intraurbana e redes sociais na Baixada Santista
+https://rebep.org.br/revista/article/view/13|v. 30 n. 1 (2013)|Artigos originais|Crescimento urbano e áreas de risco  no litoral norte de São Paulo
+https://rebep.org.br/revista/article/view/14|v. 30 n. 1 (2013)|Artigos originais|Da rotatividade migratória à baixa migração: uma análise dos padrões da  mobilidade populacional no  Brasil de 1995-2000
+https://rebep.org.br/revista/article/view/15|v. 30 n. 1 (2013)|Artigos originais|A politização das migrações internacionais: direitos humanos e soberania nacional
+https://rebep.org.br/revista/article/view/16|v. 30 n. 1 (2013)|Artigos originais|Estimativas dos emigrantes internacionais do Brasil entre 1995 e 2000: uma aplicação do método das razões intercensitárias de sobrevivência
+https://rebep.org.br/revista/article/view/17|v. 30 n. 1 (2013)|Artigos originais|Contraceptivo de emergência no Chile: estruturação da sua demanda em função das variáveis socioeconômicas
+https://rebep.org.br/revista/article/view/20|v. 30 n. 1 (2013)|Artigos originais|Efeitos tempo, parturição e quantum no Brasil:indicadores de período e evidências empíricas
+https://rebep.org.br/revista/article/view/21|v. 30 n. 1 (2013)|Artigos originais|Revendo estudos sobre famílias: um breve comentário sobre tópicos selecionados
+https://rebep.org.br/revista/article/view/22|v. 30 n. 1 (2013)|Artigos originais|Privacidade intradomiciliar: um estudo sobre as necessidades de ampliações em residências
+https://rebep.org.br/revista/article/view/23|v. 30 n. 1 (2013)|Artigos originais|Mercado de trabalho, informalidade e comércio ambulante em São Paulo
+https://rebep.org.br/revista/article/view/24|v. 30 n. 1 (2013)|Artigos originais|Seguro-desemprego e formalidade no mercado de trabalho brasileiro
+https://rebep.org.br/revista/article/view/25|v. 30 n. 1 (2013)|Artigos originais|Reconstruindo Babel: comparando o bem-estar multidimensional de diferentes contextos culturais em busca de soluções comuns para o desenvolvimento
+https://rebep.org.br/revista/article/view/26|v. 30 n. 1 (2013)|Artigos originais|Uma metodologia para explicar diferenças entre dados administrativos e pesquisas amostrais, com aplicação para o Bolsa Família e o Benefício de Prestação Continuada na PNAD
+https://rebep.org.br/revista/article/view/27|v. 30 n. 1 (2013)|Notas de pesquisa|Dinâmica migratória dos senegaleses no norte do Rio Grande do Sul
+https://rebep.org.br/revista/article/view/28|v. 30 n. 1 (2013)|Resenha|Población y sustentabilidad en la era de los cambios ambientales globales: tendiendo puentes entre conocimiento científico y acción en Brasil
+https://rebep.org.br/revista/article/view/29|v. 30 n. 1 (2013)|Resenha|Gênero e comportamento eleitoral
+https://rebep.org.br/revista/article/view/30|v. 29 n. 2 (2012)|Editorial|Editorial
+https://rebep.org.br/revista/article/view/31|v. 29 n. 2 (2012)|Artigos originais|O que os dados de mortalidade do Censo de 2010 podem nos dizer?
+https://rebep.org.br/revista/article/view/32|v. 29 n. 2 (2012)|Artigos originais|A escolarização das pessoas com deficiência no Brasil: atendimento, atraso e progressão no ensino fundamental segundo o Censo 2000
+https://rebep.org.br/revista/article/view/33|v. 29 n. 2 (2012)|Artigos originais|Estrutura social e transmissão intergeracional de status: uma análise hierárquica
+https://rebep.org.br/revista/article/view/34|v. 29 n. 2 (2012)|Artigos originais|Desigualdades de oportunidades educacionais dos adolescentes no Brasil e no México
+https://rebep.org.br/revista/article/view/35|v. 29 n. 2 (2012)|Artigos originais|Sistemas públicos de ensino fundamental e a perpetuação da desigualdade: democracia e qualidade educacional como promotoras de justiça social
+https://rebep.org.br/revista/article/view/36|v. 29 n. 2 (2012)|Artigos originais|Dinâmica demográfica da pobreza e da desigualdade de renda: o caso do Brasil
+https://rebep.org.br/revista/article/view/37|v. 29 n. 2 (2012)|Artigos originais|Perfil socioeconômico-demográfico do beneficiário do Instituto Nacional do Seguro Social aposentado por invalidez e suas causas, no Estado da Paraíba, no quinquênio 2007-2011
+https://rebep.org.br/revista/article/view/38|v. 29 n. 2 (2012)|Artigos originais|Padrões de casamento dos imigrantes brasileiros residentes em Portugal
+https://rebep.org.br/revista/article/view/39|v. 29 n. 2 (2012)|Artigos originais|Autonomia, gênero e gravidez na adolescência: uma análise comparativa da experiência de adolescentes e mulheres jovens provenientes de camadas médias e populares em Belo Horizonte
+https://rebep.org.br/revista/article/view/40|v. 29 n. 2 (2012)|Artigos originais|Fatores associados ao aborto induzido entre jovens pobres na cidade de São Paulo, 2007
+https://rebep.org.br/revista/article/view/41|v. 29 n. 2 (2012)|Artigos originais|Demografia do consumo urbano: um estudo sobre a geração de resíduos sólidos domiciliares no município de Belo Horizonte
+https://rebep.org.br/revista/article/view/42|v. 29 n. 2 (2012)|Artigos originais|População, recursos naturais e poder territorializado: uma perspectiva teórica supratemporal
+https://rebep.org.br/revista/article/view/43|v. 29 n. 2 (2012)|Artigos originais|Exposições ambientais e leucemias na infância no Brasil: uma análise exploratória de sua associação
+https://rebep.org.br/revista/article/view/44|v. 29 n. 2 (2012)|Notas de pesquisa|On the issue of homophily in respondent-driven sampling: notes based on the case of men who have sex with men in Belo Horizonte, Brazil
+https://rebep.org.br/revista/article/view/45|v. 29 n. 2 (2012)|Notas de pesquisa|Perfil dos indivíduos diagnosticados com depressão maior no Estado de Minas Gerais, Brasil
+https://rebep.org.br/revista/article/view/46|v. 29 n. 2 (2012)|Resenha|A saúde dos trabalhadores da saúde em foco
+https://rebep.org.br/revista/article/view/47|v. 29 n. 2 (2012)|Resenha|Novos olhares sobre a imigração boliviana
+https://rebep.org.br/revista/article/view/48|v. 29 n. 1 (2012)|Editorial|População e família no Brasil contemporâneo: muitas mudanças e algumas reflexões
+https://rebep.org.br/revista/article/view/49|v. 29 n. 1 (2012)|Artigos originais|Percepção dos perigos ambientais urbanos e os efeitos de lugar na relação população-ambiente
+https://rebep.org.br/revista/article/view/50|v. 29 n. 1 (2012)|Artigos originais|Padrões espaciais dos comportamentos de risco na cidade de Córdoba (Argentina) – 2001
+https://rebep.org.br/revista/article/view/51|v. 29 n. 1 (2012)|Artigos originais|Metodologia qualitativa na demografia: uma proposta a partir da fecundidade
+https://rebep.org.br/revista/article/view/52|v. 29 n. 1 (2012)|Artigos originais|O impacto da reforma da previdência social rural brasileira nos arranjos familiares: uma análise para entender a composição dos domicílios dado o aumento da renda dos idosos
+https://rebep.org.br/revista/article/view/53|v. 29 n. 1 (2012)|Artigos originais|Estimação de sub-registros de óbitos em pequenas áreas com os métodos bayesiano empírico e algoritmo EM
+https://rebep.org.br/revista/article/view/54|v. 29 n. 1 (2012)|Artigos originais|Do método para estimar o tamanho médio das redes pessoais e o tamanho de populações difíceis de contar
+https://rebep.org.br/revista/article/view/55|v. 29 n. 1 (2012)|Artigos originais|Fatores comportamentais associados ao sobrepeso e à obesidade em escolares do Estado de Santa Catarina
+https://rebep.org.br/revista/article/view/56|v. 29 n. 1 (2012)|Artigos originais|Fatores associados ao risco para doenças não transmissíveis em adultos brasileiros: estudo transversal de base populacional
+https://rebep.org.br/revista/article/view/57|v. 29 n. 1 (2012)|Artigos originais|Vulnerabilidades ocupacionais e percepção de saúde em trabalhadores do SUS
+https://rebep.org.br/revista/article/view/58|v. 29 n. 1 (2012)|Artigos originais|Padrões de nupcialidade na economia cafeeira de São Paulo (1860-1930)
+https://rebep.org.br/revista/article/view/59|v. 29 n. 1 (2012)|Ponto de Vista|Contraceptive use dynamics research needs post fertility transition
+https://rebep.org.br/revista/article/view/60|v. 29 n. 1 (2012)|Notas de pesquisa|A poluição na bacia aérea da região metropolitana de Belo Horizonte e sua repercussão na saúde da população
+https://rebep.org.br/revista/article/view/61|v. 29 n. 1 (2012)|Notas de pesquisa|Família e demografia em Minas Gerais, séculos XVIII, XIX e XX
+https://rebep.org.br/revista/article/view/62|v. 29 n. 1 (2012)|Resenha|Imigração e contextos culturais
+https://rebep.org.br/revista/article/view/63|v. 29 n. 1 (2012)|Resenha|População, ambiente e mudanças climáticas: reflexões sobre o desenvolvimento do Centro-Oeste brasileiro
+https://rebep.org.br/revista/article/view/64|v. 29 n. 1 (2012)|Resenha|Single-parenting: a case of class division on ideas of marriage and motherhood
+https://rebep.org.br/revista/article/view/65|v. 28 n. 2 (2011)|Editorial|A transdisciplinaridade em perspectiva
+https://rebep.org.br/revista/article/view/66|v. 28 n. 2 (2011)|Artigos originais|População e desenvolvimento além da primeira transição demográfica: discussão da  experiência de países do Leste e Sudeste da Ásia
+https://rebep.org.br/revista/article/view/67|v. 28 n. 2 (2011)|Artigos originais|Diferenciais de mortalidade:  níveis e padrões segundo o sexo no  município de São Paulo de 1920 a 2005
+https://rebep.org.br/revista/article/view/68|v. 28 n. 2 (2011)|Artigos originais|A evolução do sub-registro de mortes e causas de óbitos mal definidas em Minas Gerais: diferenciais regionais
+https://rebep.org.br/revista/article/view/69|v. 28 n. 2 (2011)|Artigos originais|A redução da mortalidade infantil a partir da ótica dos direitos: uma comparação entre Argentina e Brasil
+https://rebep.org.br/revista/article/view/70|v. 28 n. 2 (2011)|Artigos originais|Incorporando a variabilidade no processo de identificação do modelo de máximo global no Grade of Membership (GoM): considerações metodológicas
+https://rebep.org.br/revista/article/view/71|v. 28 n. 2 (2011)|Artigos originais|Comparação entre metodologias de idade-período-coorte para o estudo de uma medida da progressão escolar no Brasil
+https://rebep.org.br/revista/article/view/72|v. 28 n. 2 (2011)|Artigos originais|As amenidades naturais influenciam a escolha locacional dos trabalhadores? Evidências para as regiões metropolitanas brasileiras
+https://rebep.org.br/revista/article/view/73|v. 28 n. 2 (2011)|Artigos originais|As dimensões demográficas das mudanças climáticas: cenários de mudança do clima e as tendências do crescimento populacional
+https://rebep.org.br/revista/article/view/74|v. 28 n. 2 (2011)|Artigos originais|Von Thünen e o abastecimento madeireiro de centros urbanos pré-industriais
+https://rebep.org.br/revista/article/view/76|v. 28 n. 2 (2011)|Artigos originais|Demografia de um povo indígena da Amazônia brasileira: os sateré-mawé
+https://rebep.org.br/revista/article/view/77|v. 28 n. 2 (2011)|Artigos originais|Classificação dos domicílios “indígenas” no Censo Demográfico 2000: subsídios para a análise de condições de saúde
+https://rebep.org.br/revista/article/view/78|v. 28 n. 2 (2011)|Notas de pesquisa|Análise do nível, padrão e  determinantes dos fluxos populacionais entre Bahia  e São Paulo
+https://rebep.org.br/revista/article/view/79|v. 28 n. 2 (2011)|Notas de pesquisa|Aspectos práticos na identificação de um modelo Grade of Membership (GoM) de máximo global: o uso da moda das probabilidades estimadas
+https://rebep.org.br/revista/article/view/80|v. 28 n. 2 (2011)|Resenha|Contemporaneidade, escalas e lugares – panoramas dos estudos de população e ambiente na atualidade
+https://rebep.org.br/revista/article/view/81|v. 28 n. 2 (2011)|Resenha|Encontro marcado entre demografia e religião
+https://rebep.org.br/revista/article/view/82|v. 28 n. 1 (2011)|Editorial|Primeiros resultados do Censo Demográfico 2010
+https://rebep.org.br/revista/article/view/83|v. 28 n. 1 (2011)|Artigos originais|Diferenças intertemporais na média e distribuição do desempenho escolar no Brasil: o papel do nível socioeconômico, 1997 a 2005
+https://rebep.org.br/revista/article/view/84|v. 28 n. 1 (2011)|Artigos originais|Reforma da Previdência Social: simulações e impactos sobre os diferenciais de sexo
+https://rebep.org.br/revista/article/view/85|v. 28 n. 1 (2011)|Artigos originais|A relação entre parturição e trabalho feminino no Brasil
+https://rebep.org.br/revista/article/view/86|v. 28 n. 1 (2011)|Artigos originais|Migrações e a dispersão espacial da população nas Regiões de Influência das principais metrópoles brasileiras
+https://rebep.org.br/revista/article/view/87|v. 28 n. 1 (2011)|Artigos originais|A dinâmica migratória do Paraná: o caso da região Sudoeste ao longo do século XX
+https://rebep.org.br/revista/article/view/88|v. 28 n. 1 (2011)|Artigos originais|Polígonos de Voronoi como alternativa aos problemas das Áreas Mínimas Comparáveis: uma análise das mudanças populacionais na Região Norte do Brasil
+https://rebep.org.br/revista/article/view/89|v. 28 n. 1 (2011)|Artigos originais|Aplicação da análise exploratória espacial na identificação de configurações territoriais
+https://rebep.org.br/revista/article/view/90|v. 28 n. 1 (2011)|Artigos originais|Proposta metodológica para o cálculo e análise espacial do IDH intraurbano de Viçosa – MG
+https://rebep.org.br/revista/article/view/91|v. 28 n. 1 (2011)|Artigos originais|Explicações para a influência da religião no comportamento sexual de adolescentes no Brasil: efeitos diretos e indiretos
+https://rebep.org.br/revista/article/view/92|v. 28 n. 1 (2011)|Artigos originais|Fatores associados aos óbitos neonatais e pós-neonatais em Moçambique
+https://rebep.org.br/revista/article/view/93|v. 28 n. 1 (2011)|Artigos originais|Idoso, família e domicílio: uma revisão narrativa sobre a decisão de morar sozinho
+https://rebep.org.br/revista/article/view/94|v. 28 n. 1 (2011)|Notas de pesquisa|Ciclo de vida domiciliar, ciclo do lote e mudança no uso da terra na Amazônia brasileira: revisão crítica da literatura
+https://rebep.org.br/revista/article/view/95|v. 28 n. 1 (2011)|Resenha|Self-expression and family values: how are they related to marriage, divorce, and remarriage?
+https://rebep.org.br/revista/article/view/96|v. 28 n. 1 (2011)|Resenha|Migração e Geografia
+https://rebep.org.br/revista/article/view/97|v. 28 n. 1 (2011)|Resenha|Por uma demografia das mudanças climáticas
+https://rebep.org.br/revista/article/view/98|v. 28 n. 1 (2011)|Resenha|População, ambiente e sustentabilidade – desafio à demografia ambiental
+https://rebep.org.br/revista/article/view/99|v. 27 n. 2 (2010)|Editorial|Editorial
+https://rebep.org.br/revista/article/view/100|v. 27 n. 2 (2010)|Artigos originais|A hierarquia urbana na Amazônia
+https://rebep.org.br/revista/article/view/101|v. 27 n. 2 (2010)|Artigos originais|Saúde e crescimento econômico entre 1991 e 2000: uma análise empírica para os Estados brasileiros
+https://rebep.org.br/revista/article/view/102|v. 27 n. 2 (2010)|Artigos originais|Problemas no preenchimento da Declaração de Óbito: estudo exploratório
+https://rebep.org.br/revista/article/view/103|v. 27 n. 2 (2010)|Artigos originais|Da atividade à invalidez permanente: um estudo utilizando dados do Regime Geral de Previdência Social (RGPS) do Brasil no período 1999-2002
+https://rebep.org.br/revista/article/view/104|v. 27 n. 2 (2010)|Artigos originais|Construção de tábuas de mortalidade de inválidos por meio de modelos estatísticos bayesianos
+https://rebep.org.br/revista/article/view/105|v. 27 n. 2 (2010)|Artigos originais|Uma investigação sobre a aplicação de bônus adicional como política de ação afirmativa na Universidade Federal de Minas Gerais (UFMG)
+https://rebep.org.br/revista/article/view/106|v. 27 n. 2 (2010)|Artigos originais|Nascer e garantir-se no Reino de Deus; Curitiba, séculos XVIII e XIX
+https://rebep.org.br/revista/article/view/107|v. 27 n. 2 (2010)|Artigos originais|“Ageismo” no Brasil: O que significa ? Quem pratica? O que fazer com isto?
+https://rebep.org.br/revista/article/view/108|v. 27 n. 2 (2010)|Artigos originais|Ser migrante: implicações territoriais e existenciais da migração
+https://rebep.org.br/revista/article/view/109|v. 27 n. 2 (2010)|Artigos originais|Domínios de saúde e raça nas medidas genéricas de qualidade de vida associada à saúde na literatura dos Estados Unidos
+https://rebep.org.br/revista/article/view/110|v. 27 n. 2 (2010)|Ponto de Vista|Taking advantage of the 2010 population census round to strengthen the global evidence base on the health workforce
+https://rebep.org.br/revista/article/view/111|v. 27 n. 2 (2010)|Notas de pesquisa|Processos de constituição, organização e manutenção da vida doméstico-familiar na Cidade do Salvador
+https://rebep.org.br/revista/article/view/112|v. 27 n. 2 (2010)|Notas de pesquisa|Análise comparativa de classificações de causas evitáveis de morte em capitais brasileiras: o caso das doenças cerebrovasculares
+https://rebep.org.br/revista/article/view/113|v. 27 n. 2 (2010)|Resenha|Reforma previdenciária: uma questão demográfica?
+https://rebep.org.br/revista/article/view/114|v. 27 n. 2 (2010)|Resenha|Em busca da liberdade do ir-e-vir
+https://rebep.org.br/revista/article/view/115|v. 27 n. 1 (2010)|Editorial|O passado é o prólogo
+https://rebep.org.br/revista/article/view/116|v. 27 n. 1 (2010)|Artigos originais|Ajustando o método da equação geral de balanceamento para migração
+https://rebep.org.br/revista/article/view/117|v. 27 n. 1 (2010)|Artigos originais|Identificabilidade e estabilidade dos parâmetros no método Grade of Membership (GoM): considerações metodológicas e práticas
+https://rebep.org.br/revista/article/view/118|v. 27 n. 1 (2010)|Artigos originais|Estimativas e projeções populacionais para pequenos domínios: uma avaliação da precisão para municípios do Rio de Janeiro em 2000 e 2007
+https://rebep.org.br/revista/article/view/119|v. 27 n. 1 (2010)|Artigos originais|Mortalidade infantil e envolvimento religioso materno no Brasil
+https://rebep.org.br/revista/article/view/120|v. 27 n. 1 (2010)|Artigos originais|A evolução da mortalidade por causas mal definidas na população idosa em quatro capitais brasileiras, 1996-2007
+https://rebep.org.br/revista/article/view/121|v. 27 n. 1 (2010)|Artigos originais|Tendências recentes da mobilidade espacial da população no Estado do Rio de Janeiro
+https://rebep.org.br/revista/article/view/122|v. 27 n. 1 (2010)|Artigos originais|Segregação socioespacial e inserção no mercado de trabalho na Região Metropolitana de Campinas
+https://rebep.org.br/revista/article/view/123|v. 27 n. 1 (2010)|Artigos originais|Dinâmicas de urbanização na hiperperiferia da metrópole de São Paulo: análise dos processos de expansão urbana e das situações de vulnerabilidade socioambiental em escala intraurbana
+https://rebep.org.br/revista/article/view/124|v. 27 n. 1 (2010)|Artigos originais|Um estudo da qualidade da informação censitária em listas nominativas e uma aproximação da estrutura ocupacional da província de Minas Gerais
+https://rebep.org.br/revista/article/view/125|v. 27 n. 1 (2010)|Artigos originais|Histórias de “movimentos”: embarcações e população portuguesas na Amazônia joanina
+https://rebep.org.br/revista/article/view/126|v. 27 n. 1 (2010)|Artigos originais|Idade materna e mortalidade infantil: efeitos nulos, biológicos ou socioeconômicos?
+https://rebep.org.br/revista/article/view/127|v. 27 n. 1 (2010)|Ponto de Vista|Sobre “se perder”, “vacilar” e não encontrar o “homem certo”: mudanças ideacionais, instituições e a fecundidade abaixo do nível de reposição
+https://rebep.org.br/revista/article/view/128|v. 27 n. 1 (2010)|Notas de pesquisa|As instituições de longa permanência para idosos no Brasil
+https://rebep.org.br/revista/article/view/129|v. 27 n. 1 (2010)|Resenha|Mudanças climáticas globais: as dimensões humanas em perspectiva
+https://rebep.org.br/revista/article/view/130|v. 27 n. 1 (2010)|Resenha|Trinta anos após um filho na adolescência
+https://rebep.org.br/revista/article/view/131|v. 26 n. 2 (2009)|Editorial|Editorial
+https://rebep.org.br/revista/article/view/132|v. 26 n. 2 (2009)|Artigos originais|Vulnerabilidade do lugar vs. vulnerabilidade sociodemográfica: implicações metodológicas de uma velha questão
+https://rebep.org.br/revista/article/view/133|v. 26 n. 2 (2009)|Artigos originais|Como tratar os dados da amostra do Censo Demográfico 2000 na obtenção de estimativas para os “indígenas”? Um estudo a partir das Terras Indígenas Xavante, Mato Grosso
+https://rebep.org.br/revista/article/view/134|v. 26 n. 2 (2009)|Artigos originais|População, grupos étnico-raciais e economia cafeeira: São Carlos, 1907
+https://rebep.org.br/revista/article/view/135|v. 26 n. 2 (2009)|Artigos originais|Aborto e Parlamento: um estudo sobre Brasil, Uruguai e Argentina
+https://rebep.org.br/revista/article/view/136|v. 26 n. 2 (2009)|Artigos originais|Impacto das mudanças demográficas nas demandas setoriais na América Latina
+https://rebep.org.br/revista/article/view/137|v. 26 n. 2 (2009)|Artigos originais|Perfil demográfico e epidemiológico dos usuários de medicamentos de alto custo no Sistema Único de Saúde
+https://rebep.org.br/revista/article/view/138|v. 26 n. 2 (2009)|Artigos originais|Insegurança alimentar, condições socioeconômicas e indicadores antropométricos em crianças da Região Metropolitana do Rio de Janeiro/Brasil
+https://rebep.org.br/revista/article/view/139|v. 26 n. 2 (2009)|Artigos originais|Algumas considerações acerca do uso e aplicação de medidas de qualidade de vida associada à saúde, com ênfase em estudos sobre sobreviventes de câncer na infância e adolescência em países em desenvolvimento
+https://rebep.org.br/revista/article/view/140|v. 26 n. 2 (2009)|Notas de pesquisa|Fecundidade na adolescência e religião em Belo Horizonte: um primeiro exercício
+https://rebep.org.br/revista/article/view/141|v. 26 n. 2 (2009)|Resenha|Legado e relegado: notas sobre as contribuições de Bailey ao debate da questão racial no Brasil
+https://rebep.org.br/revista/article/view/142|v. 26 n. 1 (2009)|Editorial|Editorial: escrever, submeter e publicar na Rebep, a nossa revista indexada
+https://rebep.org.br/revista/article/view/143|v. 26 n. 1 (2009)|Artigos originais|Utilização de dados secundários do SIM, Sinasc e SIH na produção científica brasileira de 1990 a 2006
+https://rebep.org.br/revista/article/view/144|v. 26 n. 1 (2009)|Artigos originais|Reconstrução de histórias de nascimentos a partir de dados censitários: uma análise comparativa de duas metodologias
+https://rebep.org.br/revista/article/view/145|v. 26 n. 1 (2009)|Artigos originais|Perfil demográfico dos Hupd’äh, povo Maku da região do Alto Rio Negro, Amazonas (2000-2003)
+https://rebep.org.br/revista/article/view/146|v. 26 n. 1 (2009)|Artigos originais|A população Xakriabá, Minas Gerais: aspectos demográficos, políticos, sociais e econômicos
+https://rebep.org.br/revista/article/view/147|v. 26 n. 1 (2009)|Artigos originais|Notas sobre o comportamento reprodutivo da população autodeclarada indígena – Censos Demográficos 1991 e 2000
+https://rebep.org.br/revista/article/view/148|v. 26 n. 1 (2009)|Artigos originais|Redes sociais em uma investigação de migração indígena: o caso de Manaus
+https://rebep.org.br/revista/article/view/149|v. 26 n. 1 (2009)|Artigos originais|Diferencial de salários entre homens e mulheres segundo a condição de migração
+https://rebep.org.br/revista/article/view/150|v. 26 n. 1 (2009)|Artigos originais|A escolha do cônjuge
+https://rebep.org.br/revista/article/view/151|v. 26 n. 1 (2009)|Ponto de Vista|Seis características das mortes violentas no Brasil
+https://rebep.org.br/revista/article/view/152|v. 26 n. 1 (2009)|Notas de pesquisa|Confiabilidade do informante secundário em inquéritos de saúde
+https://rebep.org.br/revista/article/view/153|v. 26 n. 1 (2009)|Notas de pesquisa|Consistência e identificabilidade no modelo Grade of Membership: uma nota metodológica
+https://rebep.org.br/revista/article/view/154|v. 26 n. 1 (2009)|Resenha|Por um paradigma da(s) mobilidade(s)
+https://rebep.org.br/revista/article/view/155|v. 25 n. 2 (2008)|Editorial|Nota do Editor
+https://rebep.org.br/revista/article/view/156|v. 25 n. 2 (2008)|Artigos originais|Família, pobreza e acesso a programas de transferência de renda nas regiões metropolitanas brasileiras
+https://rebep.org.br/revista/article/view/157|v. 25 n. 2 (2008)|Artigos originais|A mulher na recuperação recente do mercado de trabalho brasileiro
+https://rebep.org.br/revista/article/view/158|v. 25 n. 2 (2008)|Artigos originais|Background familiar versus perfil escolar do município: qual possui maior impacto no resultado educacional dos alunos brasileiros?
+https://rebep.org.br/revista/article/view/159|v. 25 n. 2 (2008)|Artigos originais|Collas e cambas do outro lado da fronteira: aspectos da distribuição diferenciada da imigração boliviana em Corumbá, Mato Grosso do Sul
+https://rebep.org.br/revista/article/view/160|v. 25 n. 2 (2008)|Artigos originais|A presença de imigrantes de países do Cone Sul no Brasil: medidas e reflexões
+https://rebep.org.br/revista/article/view/161|v. 25 n. 2 (2008)|Artigos originais|Emigração internacional de brasileiros para os Estados Unidos: as redes sociais e o papel de intermediação nos deslocamentos exercido pelas agências de turismo
+https://rebep.org.br/revista/article/view/162|v. 25 n. 2 (2008)|Artigos originais|Fecundidade abaixo da reposição, população estacionária por migração e efeitos sobre a estrutura etária
+https://rebep.org.br/revista/article/view/163|v. 25 n. 2 (2008)|Artigos originais|Mortalidade por causas externas em três cidades latino-americanas: Córdoba (Argentina), Campinas (Brasil) e Medellín (Colômbia), 1980-2005
+https://rebep.org.br/revista/article/view/164|v. 25 n. 2 (2008)|Artigos originais|Análise espacial dos acidentes de trânsito com vítimas fatais: comparação entre o local de residência e de ocorrência do acidente no Rio de Janeiro
+https://rebep.org.br/revista/article/view/165|v. 25 n. 2 (2008)|Artigos originais|Fatores associados à prevalência de diabetes auto-referido entre idosos de Minas Gerais
+https://rebep.org.br/revista/article/view/166|v. 25 n. 2 (2008)|Artigos originais|Dinâmica Demográfica dos Kamaiurá, povo Tupi do Parque Indígena do Xingu, Mato Grosso, Brasil, 1970-1999
+https://rebep.org.br/revista/article/view/167|v. 25 n. 2 (2008)|Ponto de Vista|Perspectivas do crescimento das populações indígenas e os direitos constitucionais
+https://rebep.org.br/revista/article/view/168|v. 25 n. 2 (2008)|Notas de pesquisa|Medindo o processo de compressão da mortalidade no Brasil: uma apresentação dos indicadores
+https://rebep.org.br/revista/article/view/169|v. 25 n. 2 (2008)|Resenha|A sociedade (e as pessoas) em movimento
+https://rebep.org.br/revista/article/view/170|v. 25 n. 1 (2008)|Editorial|Editorial
+https://rebep.org.br/revista/article/view/171|v. 25 n. 1 (2008)|Artigos originais|Transição demográfica e desigualdades sociais no Brasil
+https://rebep.org.br/revista/article/view/172|v. 25 n. 1 (2008)|Artigos originais|Transição para a vida adulta no Brasil: análise comparada entre 1970 e 2000
+https://rebep.org.br/revista/article/view/173|v. 25 n. 1 (2008)|Artigos originais|“Vai lá, tira a roupa... e... pronto...”: o acesso a consultas ginecológicas em Belo Horizonte, MG
+https://rebep.org.br/revista/article/view/174|v. 25 n. 1 (2008)|Artigos originais|Sobre regimes demográficos restritos: comportamento reprodutivo e cultura familiar entre os ucranianos no meio rural paranaense (1895-1980)
+https://rebep.org.br/revista/article/view/175|v. 25 n. 1 (2008)|Artigos originais|Adiamento do ingresso no mercado de trabalho sob o enfoque demográfico: uma análise das regiões metropolitanas brasileiras
+https://rebep.org.br/revista/article/view/177|v. 25 n. 1 (2008)|Artigos originais|As cidades e a classe criativa no Brasil: diferenças espaciais na distribuição de indivíduos qualificados nos municípios brasileiros
+https://rebep.org.br/revista/article/view/178|v. 25 n. 1 (2008)|Artigos originais|Movimentos pendulares das cidades interioranas de porte médio de Cascavel e Toledo, no Paraná
+https://rebep.org.br/revista/article/view/179|v. 25 n. 1 (2008)|Artigos originais|O Brasil e a Espanha na dinâmica das migrações internacionais: um breve panorama da situação dos emigrantes brasileiros na Espanha
+https://rebep.org.br/revista/article/view/180|v. 25 n. 1 (2008)|Artigos originais|Contrapontos da história da hanseníase no Brasil: cenários de estigma e confinamento
+https://rebep.org.br/revista/article/view/181|v. 25 n. 1 (2008)|Notas de pesquisa|Linkage entre registros do Sihsus e Sinasc: possíveis vieses decorrentes do não-pareamento
+https://rebep.org.br/revista/article/view/182|v. 25 n. 1 (2008)|Notas de pesquisa|Distribuição espacial e crescimento da população idosa nas capitais brasileiras de 1980 a 2006: um estudo ecológico
+https://rebep.org.br/revista/article/view/183|v. 25 n. 1 (2008)|Resenha|Novos significados da mobilidade
+https://rebep.org.br/revista/article/view/184|v. 24 n. 2 (2007)|Editorial|Nota do Editor
+https://rebep.org.br/revista/article/view/185|v. 24 n. 2 (2007)|Artigos originais|O lugar do espaço na equação população/meio ambiente
+https://rebep.org.br/revista/article/view/186|v. 24 n. 2 (2007)|Artigos originais|Em direção a uma demografia ambiental? Avaliação e tendências dos estudos de população e ambiente no Brasil
+https://rebep.org.br/revista/article/view/187|v. 24 n. 2 (2007)|Artigos originais|Mobilidade populacional, meio ambiente e uso da terra em áreas de fronteira: uma abordagem multiescalar
+https://rebep.org.br/revista/article/view/188|v. 24 n. 2 (2007)|Artigos originais|Meio ambiente e saúde: metodologia para análise espacial da ocorrência de malária em projetos de assentamento
+https://rebep.org.br/revista/article/view/189|v. 24 n. 2 (2007)|Artigos originais|Estratégia para amostragem da população e da paisagem em pesquisas sobre uso e cobertura da terra
+https://rebep.org.br/revista/article/view/190|v. 24 n. 2 (2007)|Artigos originais|Dimensões da urbanização dispersa e proposta metodológica para estudos comparativos: uma abordagem socioespacial em aglomerações urbanas brasileiras
+https://rebep.org.br/revista/article/view/191|v. 24 n. 2 (2007)|Artigos originais|Desigualdade ambiental no município de São Paulo: análise da exposição diferenciada de grupos sociais a situações de risco ambiental através do uso de metodologias de geoprocessamento
+https://rebep.org.br/revista/article/view/192|v. 24 n. 2 (2007)|Artigos originais|Dinâmica imobiliária e regulação ambiental: uma discussão a partir do eixo-sul da Região Metropolitana de Belo Horizonte
+https://rebep.org.br/revista/article/view/193|v. 24 n. 2 (2007)|Notas de pesquisa|Avaliação dos riscos para ocupação urbana: proposição metodológica baseada em geotecnologias
+https://rebep.org.br/revista/article/view/194|v. 24 n. 2 (2007)|Notas de pesquisa|Aplicação do Índice de Qualidade de Vida Humana (IQVH) nas regiões metropolitanas do Brasil
+https://rebep.org.br/revista/article/view/195|v. 24 n. 2 (2007)|Notas de pesquisa|Acesso à contracepção e ao diagnóstico do câncer de colo uterino em Belo Horizonte: uma contribuição metodológica aos estudos quanti-quali
+https://rebep.org.br/revista/article/view/196|v. 24 n. 2 (2007)|Resenha|As cidades invisíveis: a favela como desafio para urbanização mundial
+https://rebep.org.br/revista/article/view/198|v. 24 n. 1 (2007)|Editorial|Nota do Editor
+https://rebep.org.br/revista/article/view/199|v. 24 n. 1 (2007)|Artigos originais|Reconstituir famílias e demarcar diferenças: virtualidades da metodologia para o estudo de grupos étnicos
+https://rebep.org.br/revista/article/view/200|v. 24 n. 1 (2007)|Artigos originais|Esposas como principais provedoras de renda familiar
+https://rebep.org.br/revista/article/view/201|v. 24 n. 1 (2007)|Artigos originais|A relação entre renda e morar sozinho para idosos paulistanos – 2000
+https://rebep.org.br/revista/article/view/202|v. 24 n. 1 (2007)|Artigos originais|Tipologia dos estabelecimentos escolares brasileiros
+https://rebep.org.br/revista/article/view/203|v. 24 n. 1 (2007)|Artigos originais|Análise do dividendo demográfico na matrícula escolar no Brasil numa abordagem hierárquica e hierárquica-espacial
+https://rebep.org.br/revista/article/view/207|v. 24 n. 1 (2007)|Resenha|Uma breve síntese do livro pioneiro sobre a transição para a vida adulta no Brasil
+https://rebep.org.br/revista/article/view/208|v. 24 n. 1 (2007)|Notas de pesquisa|A construção da base de dados nacional em Terapia Renal Substitutiva (TRS) centrada no indivíduo: aplicação do método de linkage determinístico-probabilístico
+https://rebep.org.br/revista/article/view/210|v. 23 n. 2 (2006)|Editorial|Nota do Editor
+https://rebep.org.br/revista/article/view/211|v. 24 n. 1 (2007)|Artigos originais|Tábuas de mortalidade dos aposentados por invalidez pelo Regime Geral da Previdência Social – 1999-2002
+https://rebep.org.br/revista/article/view/212|v. 24 n. 1 (2007)|Artigos originais|Cenários futuros e projeções populacionais para pequenas áreas:método e aplicação para distritos paulistanos 2000-2010
+https://rebep.org.br/revista/article/view/213|v. 24 n. 1 (2007)|Artigos originais|A caracterização da pobreza urbana ao longo do tempo: aplicação do modelo idade-períodocoorte na estimação das tendências de privações crônica e transitória no Brasil
+https://rebep.org.br/revista/article/view/214|v. 23 n. 2 (2006)|Artigos originais|Impactos do desemprego e da precarização sobre famílias metropolitanas
+https://rebep.org.br/revista/article/view/215|v. 23 n. 2 (2006)|Artigos originais|Provedoras e co-provedoras: mulheres-cônjuge e mulheres-chefe de família sob a precarização do trabalho e o desemprego
+https://rebep.org.br/revista/article/view/216|v. 23 n. 2 (2006)|Artigos originais|Mudanças recentes no perfil da distribuição ocupacional da população brasileira
+https://rebep.org.br/revista/article/view/217|v. 23 n. 2 (2006)|Artigos originais|Análise dos determinantes da participação no mercado de trabalho dos idosos em São Paulo
+https://rebep.org.br/revista/article/view/218|v. 23 n. 2 (2006)|Artigos originais|Força de trabalho e desemprego na Região Metropolitana do Rio de Janeiro nos anos 1990: o efeito dos fatores demográficos
+https://rebep.org.br/revista/article/view/219|v. 23 n. 2 (2006)|Artigos originais|Crescimento populacional, ocupação e desemprego dos jovens: a experiência recente da Região Metropolitana de Porto Alegre
+https://rebep.org.br/revista/article/view/220|v. 23 n. 2 (2006)|Artigos originais|Salário mínimo, benefício previdenciário e as famílias de baixa renda
+https://rebep.org.br/revista/article/view/221|v. 23 n. 2 (2006)|Artigos originais|Trabalho doméstico: inatividade econômica ou trabalho não-remunerado?
+https://rebep.org.br/revista/article/view/222|v. 23 n. 2 (2006)|Artigos originais|Diferenças de rendimento do trabalho de homens e mulheres com educação superior nas metrópoles
+https://rebep.org.br/revista/article/view/223|v. 23 n. 2 (2006)|Notas de pesquisa|A discussão política sobre aborto no Brasil: uma síntese
+https://rebep.org.br/revista/article/view/224|v. 23 n. 2 (2006)|Resenha|Somos racistas
+https://rebep.org.br/revista/article/view/225|v. 23 n. 1 (2006)|Editorial|Nota do Editor
+https://rebep.org.br/revista/article/view/226|v. 23 n. 1 (2006)|Artigos originais|O rápido processo de envelhecimento populacional do Brasil: sérios desafios para as políticas públicas
+https://rebep.org.br/revista/article/view/227|v. 23 n. 1 (2006)|Artigos originais|Demografia urbana e políticas sociais
+https://rebep.org.br/revista/article/view/228|v. 23 n. 1 (2006)|Artigos originais|Vulnerabilidade socioambiental na metrópole paulistana: uma análise sociodemográfica das situações de sobreposição espacial de problemas e riscos sociais e ambientais
+https://rebep.org.br/revista/article/view/229|v. 23 n. 1 (2006)|Artigos originais|Permanentemente temporário: dekasseguis brasileiros no Japão
+https://rebep.org.br/revista/article/view/230|v. 23 n. 1 (2006)|Artigos originais|Dinâmica migratória e o processo de ocupação do Centro-Oeste brasileiro: o caso de Mato Grosso
+https://rebep.org.br/revista/article/view/231|v. 23 n. 1 (2006)|Artigos originais|Transições dos jovens para o mercado de trabalho, primeiro filho e saída da escola: o caso brasileiro
+https://rebep.org.br/revista/article/view/232|v. 23 n. 1 (2006)|Artigos originais|Evolução da educação no Brasil: uma análise das taxas entre 1970 e 2000 segundo o grau da última série concluída
+https://rebep.org.br/revista/article/view/233|v. 23 n. 1 (2006)|Artigos originais|Comparando as idades à primeira relação sexual, à primeira união e ao nascimento do primeiro filho de duas coortes de mulheres brancas e negras em Belo Horizonte: evidências quantitativas
+https://rebep.org.br/revista/article/view/234|v. 23 n. 1 (2006)|Artigos originais|O patriarcalismo possível: relações de poder em uma região do Brasil escravista em que o trabalho familiar era a norma
+https://rebep.org.br/revista/article/view/235|v. 23 n. 1 (2006)|Notas de pesquisa|Pesquisa pioneira recupera casos de Aids no Estado de São Paulo: integração das bases do Sinan-Aids e da Fundação Seade
+https://rebep.org.br/revista/article/view/236|v. 23 n. 1 (2006)|Notas de pesquisa|Espaços migratórios e problemática ambiental no Mercosul
+https://rebep.org.br/revista/article/view/239|v. 22 n. 2 (2005)|Editorial|Nota do Editor
+https://rebep.org.br/revista/article/view/240|v. 22 n. 2 (2005)|Artigos originais|Revista Brasileira de Estudos de População: do nascimento à pós-maioridade
+https://rebep.org.br/revista/article/view/241|v. 22 n. 2 (2005)|Artigos originais|A Abep no contexto político e no desenvolvimento da demografia nas décadas de 1960 e 1970
+https://rebep.org.br/revista/article/view/242|v. 22 n. 2 (2005)|Artigos originais|Registros e memória: algumas observações sobre a demografia brasileira no contexto latino-americano
+https://rebep.org.br/revista/article/view/243|v. 22 n. 2 (2005)|Artigos originais|O papel dos organismos internacionais na evolução dos estudos populacionais no Brasil: notas preliminares
+https://rebep.org.br/revista/article/view/244|v. 22 n. 2 (2005)|Artigos originais|O ensino da demografia e a formação de demógrafos no Brasil
+https://rebep.org.br/revista/article/view/245|v. 22 n. 2 (2005)|Artigos originais|O IBGE e as pesquisas populacionais
+https://rebep.org.br/revista/article/view/246|v. 22 n. 2 (2005)|Artigos originais|Das causas às conseqüências econômicas da transição demográfica no Brasil
+https://rebep.org.br/revista/article/view/247|v. 22 n. 2 (2005)|Artigos originais|Mobilidade populacional, sustentabilidade ambiental e vulnerabilidade social
+https://rebep.org.br/revista/article/view/248|v. 22 n. 2 (2005)|Artigos originais|Quarenta anos de demografia histórica
+https://rebep.org.br/revista/article/view/249|v. 22 n. 2 (2005)|Artigos originais|A demografia brasileira e o declínio da fecundidade no Brasil: contribuições, equívocos e silêncios
+https://rebep.org.br/revista/article/view/250|v. 22 n. 2 (2005)|Artigos originais|Questões emergentes na análise demográfica: o caso brasileiro
+https://rebep.org.br/revista/article/view/251|v. 22 n. 1 (2005)|Editorial|Nota do Editor
+https://rebep.org.br/revista/article/view/252|v. 22 n. 1 (2005)|Artigos originais|Estranhamentos e identidades Direitos humanos, cidadania e o sujeito migrante Representações em textos diversos
+https://rebep.org.br/revista/article/view/253|v. 22 n. 1 (2005)|Artigos originais|Vulnerabilidades e riscos: entre geografia e demografia
+https://rebep.org.br/revista/article/view/254|v. 22 n. 1 (2005)|Artigos originais|Estruturação intra-urbana na região do Distrito Federal e entorno: a mobilidade e a segregação socioespacial da população
+https://rebep.org.br/revista/article/view/255|v. 22 n. 1 (2005)|Artigos originais|Estimativas de indicadores de escolarização com base na compatibilização de diferentes fontes de dados
+https://rebep.org.br/revista/article/view/256|v. 22 n. 1 (2005)|Artigos originais|Mensuração e perfis de demanda insatisfeita por contracepção nos municípios de Belo Horizonte e Recife, 2002
+https://rebep.org.br/revista/article/view/257|v. 22 n. 1 (2005)|Artigos originais|Evolução do comportamento reprodutivo da mulher brasileira – 1991-2000 Cálculo da Taxa de Fecundidade Total em nível municipal
+https://rebep.org.br/revista/article/view/258|v. 22 n. 1 (2005)|Artigos originais|Avaliação da qualidade das informações sobre fecundidade provenientes do SINASC no Nordeste, 2000
+https://rebep.org.br/revista/article/view/262|v. 22 n. 1 (2005)|Artigos originais|Movimentos migratórios em Minas Gerais: efeitos diretos e indiretos da migração de retorno – 1970-1980, 1981-1991 e 1990-2000
+https://rebep.org.br/revista/article/view/263|v. 22 n. 1 (2005)|Ponto de Vista|As Metas de Desenvolvimento do Milênio: grandes limites, oportunidades estreitas?
+https://rebep.org.br/revista/article/view/264|v. 22 n. 1 (2005)|Notas de pesquisa|Transferências intergeracionais: uma análise internacional
+https://rebep.org.br/revista/article/view/265|v. 22 n. 1 (2005)|Notas de pesquisa|Da agressão à assistência, da infração à correção: menoridade e violência urbana (Porto Alegre, 1890-1920)
+https://rebep.org.br/revista/article/view/266|v. 22 n. 1 (2005)|Resenha|Construindo a demografia dos povos indígenas
+https://rebep.org.br/revista/article/view/267|v. 21 n. 2 (2004)|Editorial|Nota da Editora
+https://rebep.org.br/revista/article/view/268|v. 21 n. 2 (2004)|Artigos originais|Economia e sociedade escravista: Minas Gerais e São Paulo em 1830
+https://rebep.org.br/revista/article/view/269|v. 21 n. 2 (2004)|Artigos originais|Rearranjos familiares de inserção, precarização do trabalho e empobrecimento
+https://rebep.org.br/revista/article/view/270|v. 21 n. 2 (2004)|Artigos originais|Imigrantes brasileiros adolescentes e de segunda geração em Massachusetts, EUA
+https://rebep.org.br/revista/article/view/271|v. 21 n. 2 (2004)|Artigos originais|Os caminhos de São Paulo: migrações e trabalho urbano de agricultores mineiros
+https://rebep.org.br/revista/article/view/272|v. 21 n. 2 (2004)|Artigos originais|As transformações das áreas de influência migratória dos pólos econômicos brasileiros nos períodos 1980-1991 e 1991-2000
+https://rebep.org.br/revista/article/view/273|v. 21 n. 2 (2004)|Artigos originais|Métodos e técnicas de mensuração de movimentos migratórios: Goiás e Distrito Federal, 1975-1979 e 1986-1990
+https://rebep.org.br/revista/article/view/274|v. 21 n. 2 (2004)|Artigos originais|Idade, incapacidade e o número de pessoas com deficiência
+https://rebep.org.br/revista/article/view/275|v. 21 n. 2 (2004)|Artigos originais|Ritmo de declínio nas taxas de mortalidade dos idosos nos estados do Sudeste, 1980-2000
+https://rebep.org.br/revista/article/view/276|v. 21 n. 2 (2004)|Notas de pesquisa|Um sentido para a vulnerabilidade sociodemográfica nas metrópoles paulistas
+https://rebep.org.br/revista/article/view/277|v. 21 n. 2 (2004)|Resenha|As outras faces da família brasileira
+https://rebep.org.br/revista/article/view/278|v. 21 n. 1 (2004)|Editorial|Nota da Editora
+https://rebep.org.br/revista/article/view/279|v. 21 n. 1 (2004)|Artigos originais|Crescimento demográfico e migrações na transição para o trabalho assalariado no Brasil
+https://rebep.org.br/revista/article/view/280|v. 21 n. 1 (2004)|Artigos originais|Modelos idade-período-coorte aplicados à participação na força de trabalho: em busca de uma versão parcimoniosa
+https://rebep.org.br/revista/article/view/281|v. 21 n. 1 (2004)|Artigos originais|Migração, trabalho e renda nos anos 90: o caso da Região Metropolitana de São Paulo
+https://rebep.org.br/revista/article/view/282|v. 21 n. 1 (2004)|Artigos originais|Reorganização do espaço produtivo e a “recuperação” da economia fluminense: uma análise a partir dos migrantes altamente qualificados
+https://rebep.org.br/revista/article/view/283|v. 21 n. 1 (2004)|Artigos originais|Inserção ocupacional de emigrantes das Áreas Metropolitanas de São Paulo e Rio de Janeiro
+https://rebep.org.br/revista/article/view/284|v. 21 n. 1 (2004)|Artigos originais|Análise de redes sociais e os fundamentos teóricos da migração internacional
+https://rebep.org.br/revista/article/view/285|v. 21 n. 1 (2004)|Artigos originais|A dinâmica intra-urbana do Município de Santos vista sob o prisma dos Censos Demográficos de 1991 e 2000
+https://rebep.org.br/revista/article/view/286|v. 21 n. 1 (2004)|Artigos originais|Uma abordagem multinível para análise da mobilidade residencial na Região Metropolitana de Belo Horizonte
+https://rebep.org.br/revista/article/view/287|v. 21 n. 1 (2004)|Notas de pesquisa|Trabalho infantil e famílias em regiões metropolitanas brasileiras
+https://rebep.org.br/revista/article/view/288|v. 21 n. 1 (2004)|Resenha|Plus ça change…
+https://rebep.org.br/revista/article/view/289|v. 20 n. 2 (2003)|Editorial|Nota da Editora
+https://rebep.org.br/revista/article/view/290|v. 20 n. 2 (2003)|Artigos originais|Demografia e ideologia: trajetos históricos e os desafios do Cairo + 10
+https://rebep.org.br/revista/article/view/291|v. 20 n. 2 (2003)|Artigos originais|Trabalho feminino e mudanças na família no Brasil (1984-1996): explorando relações
+https://rebep.org.br/revista/article/view/292|v. 20 n. 2 (2003)|Artigos originais|Construindo uma medida do total de anos vividos pelas diferentes coortes de mulheres brasileiras com filhos menores de 7 anos de idade
+https://rebep.org.br/revista/article/view/293|v. 20 n. 2 (2003)|Artigos originais|A escolha por localização dos domicílios com idosos: o caso do Município de Belo Horizonte
+https://rebep.org.br/revista/article/view/294|v. 20 n. 2 (2003)|Artigos originais|Algumas considerações sobre a circulação de crianças no Brasil e sua distribuição por regiões
+https://rebep.org.br/revista/article/view/295|v. 20 n. 2 (2003)|Artigos originais|AIDS: a vulnerabilidade social e a evolução da epidemia nos municípios das regiões Nordeste e Sudeste do Brasil
+https://rebep.org.br/revista/article/view/296|v. 20 n. 2 (2003)|Artigos originais|Vítimas fatais da violência e mercado de drogas na Região Metropolitana de São Paulo
+https://rebep.org.br/revista/article/view/297|v. 20 n. 2 (2003)|Artigos originais|O impacto das causas violentas no perfil de mortalidade da população residente no Município de Campinas: 1980 a 2000
+https://rebep.org.br/revista/article/view/298|v. 20 n. 2 (2003)|Notas de pesquisa|O Programa SRSR
+https://rebep.org.br/revista/article/view/299|v. 20 n. 2 (2003)|Resenha|Raça e racismo no Brasil
+https://rebep.org.br/revista/article/view/300|v. 20 n. 1 (2003)|Editorial|Nota da Editora
+https://rebep.org.br/revista/article/view/301|v. 20 n. 1 (2003)|Artigos originais|Padrões de sucessão das gerações. Persistências e mudanças históricas
+https://rebep.org.br/revista/article/view/302|v. 20 n. 1 (2003)|Artigos originais|Notas acerca das categorias de cor dos censos e sobre a classificação subjetiva de cor no Brasil: 1980/90
+https://rebep.org.br/revista/article/view/303|v. 20 n. 1 (2003)|Artigos originais|A vez da mulher camponesa: movimento social, identidade e saúde no Maranhão (um relato hirschmaniano)
+https://rebep.org.br/revista/article/view/304|v. 20 n. 1 (2003)|Artigos originais|Homens e contracepção: análise estatística de dados qualitativos
+https://rebep.org.br/revista/article/view/305|v. 20 n. 1 (2003)|Artigos originais|Saúde e masculinidade: reflexões de uma perspectiva de gênero
+https://rebep.org.br/revista/article/view/306|v. 20 n. 1 (2003)|Artigos originais|Serviços de saúde, gastos e envelhecimento da população brasileira
+https://rebep.org.br/revista/article/view/307|v. 20 n. 1 (2003)|Notas de pesquisa|Questões da anticoncepção e do aborto na Espanha: procedimentos metodológicos de uma pesquisa
+https://rebep.org.br/revista/article/view/308|v. 20 n. 1 (2003)|Resenha|A mídia e a produção de significados
+https://rebep.org.br/revista/article/view/309|v. 19 n. 2 (2002)|Editorial|Nota da Editora
+https://rebep.org.br/revista/article/view/310|v. 19 n. 2 (2002)|Artigos originais|A cidadania vulnerabilizada na América Latina
+https://rebep.org.br/revista/article/view/311|v. 19 n. 2 (2002)|Artigos originais|Por um novo paradigma do fazer políticas – políticas de/para/com juventudes
+https://rebep.org.br/revista/article/view/312|v. 19 n. 2 (2002)|Artigos originais|Análise da situação ocupacional de crianças e adolescentes nas regiões Sudeste e Nordeste do Brasil utilizando informações da PNAD 1999
+https://rebep.org.br/revista/article/view/313|v. 19 n. 2 (2002)|Artigos originais|As descontinuidades demográficas exercem efeitos sobre o mercado de trabalho metropolitano dos jovens?
+https://rebep.org.br/revista/article/view/314|v. 19 n. 2 (2002)|Artigos originais|A exclusão social dos jovens no mercado de trabalho brasileiro
+https://rebep.org.br/revista/article/view/315|v. 19 n. 2 (2002)|Artigos originais|Nada para fazer? Um estudo sobre atividades no tempo livre entre jovens de periferia no Recife
+https://rebep.org.br/revista/article/view/316|v. 19 n. 2 (2002)|Artigos originais|Ensino fundamental: diferenças regionais
+https://rebep.org.br/revista/article/view/317|v. 19 n. 2 (2002)|Artigos originais|O papel do tamanho da família na escolaridade dos jovens
+https://rebep.org.br/revista/article/view/318|v. 19 n. 2 (2002)|Artigos originais|“Gravidez na adolescência” e identidade masculina: repercussões sobre a trajetória escolar e profissional do jovem
+https://rebep.org.br/revista/article/view/319|v. 19 n. 2 (2002)|Artigos originais|Gravidez adolescente: a diversidade das situações
+https://rebep.org.br/revista/article/view/320|v. 19 n. 2 (2002)|Artigos originais|Juventude e contracepção: um estudo dos fatores que influenciam o comportamento contraceptivo das jovens brasileiras de 15 a 24 anos
+https://rebep.org.br/revista/article/view/321|v. 19 n. 2 (2002)|Artigos originais|Jovens populares urbanos e gênero na identificação de demandas de saúde reprodutiva
+https://rebep.org.br/revista/article/view/322|v. 19 n. 2 (2002)|Artigos originais|Especulações sobre o papel do aborto provocado no comportamento reprodutivo das jovens brasileiras
+https://rebep.org.br/revista/article/view/323|v. 19 n. 2 (2002)|Artigos originais|Já nas bancas: a saúde reprodutiva das adolescentes vista através das revistas Querida e Capricho
+https://rebep.org.br/revista/article/view/325|v. 19 n. 2 (2002)|Artigos originais|Juventudes, raça e vulnerabilidades
+https://rebep.org.br/revista/article/view/326|v. 19 n. 2 (2002)|Notas de pesquisa|Juventude, educação e campo simbólico
+https://rebep.org.br/revista/article/view/327|v. 19 n. 1 (2002)|Editorial|Nota da Editora
+https://rebep.org.br/revista/article/view/328|v. 19 n. 1 (2002)|Artigos originais|Violências, juventudes e educação: notas sobre o estado do conhecimento
+https://rebep.org.br/revista/article/view/329|v. 19 n. 1 (2002)|Artigos originais|Família, gênero e políticas: famílias brasileiras nos anos 90 e seus desafios como fator de proteção
+https://rebep.org.br/revista/article/view/330|v. 19 n. 1 (2002)|Artigos originais|A contribuição dos imigrantes em áreas de desconcentração demográfica do Brasil contemporâneo
+https://rebep.org.br/revista/article/view/331|v. 19 n. 1 (2002)|Artigos originais|O processo migratório na formação de Campinas: 1765-1830
+https://rebep.org.br/revista/article/view/332|v. 19 n. 1 (2002)|Artigos originais|Alternativas regionais e locais à emigração para o Brasil no final do século XIX: o exemplo do Concelho de Guimarães
+https://rebep.org.br/revista/article/view/333|v. 19 n. 1 (2002)|Artigos originais|Levantamentos de população publicados da Província de São Paulo no século XIX
+https://rebep.org.br/revista/article/view/334|v. 19 n. 1 (2002)|Artigos originais|Fatores de risco para déficits estaturais no segundo ano de vida: Brasil, PNDS, 1996
+https://rebep.org.br/revista/article/view/335|v. 19 n. 1 (2002)|Ponto de Vista|500 anos de demografia brasileira: uma resenha
+https://rebep.org.br/revista/article/view/336|v. 19 n. 1 (2002)|Notas de pesquisa|As redes sociais nas migrações internacionais: migrantes brasileiros para os Estados Unidos e o Japão
+https://rebep.org.br/revista/article/view/337|v. 19 n. 1 (2002)|Resenha|Demografia e meio ambiente
+https://rebep.org.br/revista/article/view/338|v. 18 n. 1/2 (2001)|Editorial|Nota da Editora
+https://rebep.org.br/revista/article/view/339|v. 18 n. 1/2 (2001)|Discurso|Para onde iremos: algumas tendências populacionais no século XXI
+https://rebep.org.br/revista/article/view/343|v. 18 n. 1/2 (2001)|Artigos originais|Educação infantil e grupo populacional de 0 a 6 anos
+https://rebep.org.br/revista/article/view/344|v. 18 n. 1/2 (2001)|Artigos originais|A transição da escolaridade no Brasil e as desigualdades regionais
+https://rebep.org.br/revista/article/view/345|v. 18 n. 1/2 (2001)|Artigos originais|Diferenciais de ingresso escolar em Minas Gerais em 1991, segundo o status migratório: uma aplicação do modelo Profluxo
+https://rebep.org.br/revista/article/view/346|v. 18 n. 1/2 (2001)|Artigos originais|Desigualdades acadêmicas induzidas pelo contexto escolar
+https://rebep.org.br/revista/article/view/347|v. 18 n. 1/2 (2001)|Artigos originais|O SAEB – Sistema Nacional de Avaliação da Educação Básica: objetivos, características e contribuições na investigação da escola eficaz
+https://rebep.org.br/revista/article/view/348|v. 18 n. 1/2 (2001)|Artigos originais|Proposta metodológica de elaboração de indicador educacional sintético para os municípios
+https://rebep.org.br/revista/article/view/349|v. 18 n. 1/2 (2001)|Artigos originais|Impactos da estrutura etária em indicadores de educação no Brasil, 1991
+https://rebep.org.br/revista/article/view/350|v. 18 n. 1/2 (2001)|Resenha|Atualização do debate sobre população e meio ambiente
+https://rebep.org.br/revista/article/view/351|v. 18 n. 1/2 (2001)|Resenha|Os desafios propostos por uma população que envelhece
+https://rebep.org.br/revista/article/view/352|v. 17 n. 1/2 (2000)|Discurso|Passado, presente e futuro da fecundidade: uma visão de idade, período e coorte
+https://rebep.org.br/revista/article/view/353|v. 17 n. 1/2 (2000)|Editorial|Nota do Editor
+https://rebep.org.br/revista/article/view/354|v. 17 n. 1/2 (2000)|Artigos originais|Alforrias e forros em uma freguesia mineira: São José d’El Rey em 1795
+https://rebep.org.br/revista/article/view/355|v. 17 n. 1/2 (2000)|Artigos originais|As mulheres chefes de domicílios e a formação de famílias monoparentais: Brasil, século XIX
+https://rebep.org.br/revista/article/view/356|v. 17 n. 1/2 (2000)|Artigos originais|Mudanças na composição dos arranjos domiciliares no Brasil – 1978 a 1998
+https://rebep.org.br/revista/article/view/357|v. 17 n. 1/2 (2000)|Artigos originais|Dados de migração de última etapa e data fixa do Censo Demográfico Brasileiro de 1991: uma análise de consistência
+https://rebep.org.br/revista/article/view/358|v. 17 n. 1/2 (2000)|Artigos originais|Migração e trabalho na Região Metropolitana de São Paulo nos anos 90: uma abordagem sem preconceito
+https://rebep.org.br/revista/article/view/359|v. 17 n. 1/2 (2000)|Artigos originais|Estimativas de saldos e fluxos migratórios a partir do Censo Demográfico de 1991: uma aplicação para as mesorregiões de Minas Gerais
+https://rebep.org.br/revista/article/view/360|v. 17 n. 1/2 (2000)|Artigos originais|Modelo alternativo para projeção de força de trabalho: dos condicionantes econômicos às taxas de atividade. Método e resultados para a Grande São Paulo em 2005
+https://rebep.org.br/revista/article/view/361|v. 16 n. 1/2 (1999)|Artigos originais|Da aritmética política à demografia como ciência
+https://rebep.org.br/revista/article/view/362|v. 16 n. 1/2 (1999)|Artigos originais|O recente desempenho das cidades médias no crescimento populacional urbano brasileiro
+https://rebep.org.br/revista/article/view/364|v. 30 n. 2 (2013)|Editorial|Nota da Editora
+https://rebep.org.br/revista/article/view/365|v. 30 n. 2 (2013)|Artigos originais|Análise da vulnerabilidade socioambiental em Cubatão-SP por meio da integração de dados sociodemográficos e ambientais em escala intraurbana
+https://rebep.org.br/revista/article/view/366|v. 30 n. 2 (2013)|Artigos originais|Comunidades ribeirinhas como forma socioespacial de expressão urbana na Amazônia: uma tipologia para a região do Baixo Tapajós (Pará-Brasil)
+https://rebep.org.br/revista/article/view/367|v. 30 n. 2 (2013)|Artigos originais|Estimativa da população em unidades de conservação na Amazônia Legal brasileira – uma aplicação de grades regulares a partir da Contagem 2007
+https://rebep.org.br/revista/article/view/368|v. 30 n. 2 (2013)|Artigos originais|Efeitos da migração sobre o crescimento populacional de longo prazo das províncias cubanas
+https://rebep.org.br/revista/article/view/369|v. 30 n. 2 (2013)|Artigos originais|Formação, sucessão e migração: trajetórias de duas gerações de agricultores do Alto Jequitinhonha, Minas Gerais
+https://rebep.org.br/revista/article/view/370|v. 30 n. 2 (2013)|Artigos originais|Masculinização rural: uma abordagem a partir da regionalização por sistemas agrários no Rio Grande do Sul
+https://rebep.org.br/revista/article/view/371|v. 30 n. 2 (2013)|Artigos originais|O pós-abolição e suas dinâmicas de sociabilidade: lógicas familiares e relações interpessoais no oeste paulista cafeeiro
+https://rebep.org.br/revista/article/view/372|v. 30 n. 2 (2013)|Artigos originais|Fecundidade, taxa de reposição e políticas familiares na América Latina e no Caribe: o que se pode apreender da experiência europeia?
+https://rebep.org.br/revista/article/view/373|v. 30 n. 2 (2013)|Artigos originais|Projeções de mão de obra qualificada no Brasil: cenários para a disponibilidade de engenheiros até 2020
+https://rebep.org.br/revista/article/view/374|v. 30 n. 2 (2013)|Artigos originais|O futuro do ensino superior nos países BRIC: uma perspectiva demográfica
+https://rebep.org.br/revista/article/view/375|v. 30 n. 2 (2013)|Artigos originais|Um estudo das metodologias e funcionalidades dos índices de segregação
+https://rebep.org.br/revista/article/view/376|v. 30 n. 2 (2013)|Notas de pesquisa|Prevalência de parasitoses intestinais e estado nutricional, segundo sexo e idade, entre a população indígena Caxixó, Minas Gerais, Brasil
+https://rebep.org.br/revista/article/view/377|v. 30 n. 2 (2013)|Ponto de Vista|Perspectivas para Cairo+20: como avançar na discussão sobre população e desenvolvimento
+https://rebep.org.br/revista/article/view/378|v. 30 n. 2 (2013)|Resenha|Demografia dos povos indígenas em perspectiva internacional
+https://rebep.org.br/revista/article/view/379|v. 30 n. 2 (2013)|Resenha|População, espaço e ambiente: por uma demografia da adaptação às mudanças climáticas globais
+https://rebep.org.br/revista/article/view/380|v. 30 (2013)|Editorial|Nota da Editora
+https://rebep.org.br/revista/article/view/381|v. 30 (2013)|Artigos originais|O impacto fiscal do envelhecimento populacional no Brasil: 2005-2050
+https://rebep.org.br/revista/article/view/382|v. 30 (2013)|Artigos originais|A relação entre renda e composição domiciliar dos idosos no Brasil: um estudo sobre o impacto do recebimento do Benefício de Prestação Continuada
+https://rebep.org.br/revista/article/view/383|v. 30 (2013)|Artigos originais|Envelhecimento populacional e mudanças no padrão de consumo e na estrutura produtiva brasileira
+https://rebep.org.br/revista/article/view/384|v. 30 (2013)|Artigos originais|Considerações teóricas sobre as migrações de idosos
+https://rebep.org.br/revista/article/view/385|v. 30 (2013)|Artigos originais|Esperança de vida e sua relação com indicadores de longevidade: um estudo demográfico para o Brasil, 1980-2050
+https://rebep.org.br/revista/article/view/386|v. 30 (2013)|Artigos originais|Indicadores de gastos com serviços médicos no setor de saúde suplementar no Brasil
+https://rebep.org.br/revista/article/view/387|v. 30 (2013)|Artigos originais|Diferenciais da carga de doença das condições maternas entre mulheres de 15 a 44 anos no Estado de Minas Gerais, 2004-2006
+https://rebep.org.br/revista/article/view/388|v. 30 (2013)|Artigos originais|Absenteísmo-doença segundo autorrelato de servidores públicos municipais em Belo Horizonte
+https://rebep.org.br/revista/article/view/389|v. 30 (2013)|Artigos originais|Ecologia social do medo: avaliando a associação entre contexto de bairro e medo de crime
+https://rebep.org.br/revista/article/view/390|v. 30 (2013)|Artigos originais|A reorganização espacial dos homicídios no Brasil e a tese da interiorização
+https://rebep.org.br/revista/article/view/391|v. 30 (2013)|Notas de pesquisa|Sobrevivência específica de pacientes com câncer de pulmão tratados no sistema público de saúde no Brasil e uma aplicação da Tábua Associada de Decremento Único
+https://rebep.org.br/revista/article/view/392|v. 30 (2013)|Resenha|Proposta de ações em saúde dos servidores públicos federais à luz das mudanças demográficas
+https://rebep.org.br/revista/article/view/393|v. 16 n. 1/2 (1999)|Artigos originais|Fluxos migratórios, desemprego e diferenciais de renda
+https://rebep.org.br/revista/article/view/394|v. 16 n. 1/2 (1999)|Artigos originais|Mobilidade social e migração no Brasil: revisão bibliográfica e elementos empíricos para análise
+https://rebep.org.br/revista/article/view/395|v. 16 n. 1/2 (1999)|Artigos originais|(Des)continuidades no padrão demográfico do fluxo São Paulo/Bahia no período de 1970/1991: qual o efeito da crise?
+https://rebep.org.br/revista/article/view/396|v. 16 n. 1/2 (1999)|Artigos originais|A imigração para Minas Gerais no período de 1981/1991, com especial enfoque na migração de retorno
+https://rebep.org.br/revista/article/view/397|v. 16 n. 1/2 (1999)|Artigos originais|Estigma e mobilidade: o imigrante boliviano nas confecções de São Paulo
+https://rebep.org.br/revista/article/view/398|v. 16 n. 1/2 (1999)|Artigos originais|Mudança religiosa no Brasil: uma visão demográfica
+https://rebep.org.br/revista/article/view/399|v. 16 n. 1/2 (1999)|Notas de pesquisa|São Paulo do passado - dados demográficos (1836-2920)
+https://rebep.org.br/revista/article/view/400|v. 16 n. 1/2 (1999)|Ponto de Vista|Acompanhando as Conferências da ONU: notas sobre indicadores de desenvolvimento
+https://rebep.org.br/revista/article/view/401|v. 15 n. 2 (1998)|Introdução|Introdução
+https://rebep.org.br/revista/article/view/402|v. 15 n. 2 (1998)|Artigos originais|Os dados censitários brasileiros sobre migrações internas: algumas sugestões para análise
+https://rebep.org.br/revista/article/view/403|v. 15 n. 2 (1998)|Artigos originais|Perfis etários da migração por motivos e acompanhanntes da mudança: evidências empíricas para São Paulo entre 1980 e 1993
+https://rebep.org.br/revista/article/view/404|v. 15 n. 2 (1998)|Artigos originais|Exodo rural, envelhecimento e masculinização no Brasil: panorama dos últimos cinquenta anos
+https://rebep.org.br/revista/article/view/405|v. 15 n. 2 (1998)|Artigos originais|Deslocamentos populacionais, urbanização e regionalização
+https://rebep.org.br/revista/article/view/406|v. 15 n. 2 (1998)|Artigos originais|Mobilidade populacional e meio ambiente
+https://rebep.org.br/revista/article/view/407|v. 15 n. 2 (1998)|Notas de pesquisa|Sobre os processos de seleção e estimação utilizados na Pesquisa Nacional por Amostra de Domicílios
+https://rebep.org.br/revista/article/view/408|v. 15 n. 2 (1998)|Notas de pesquisa|A pesquisa nacional por amosta de domicílios - PNAD Síntese Metodológica
+https://rebep.org.br/revista/article/view/409|v. 15 n. 2 (1998)|Resenha|Imigrantes brasileiros na Argentina: um perfil sociodemográfico
+https://rebep.org.br/revista/article/view/410|v. 15 n. 1 (1998)|Artigos originais|A produção científica sobre a esterilização feminina no Brasil nos anos 80 e no início dos 90: um debate em aberto
+https://rebep.org.br/revista/article/view/411|v. 15 n. 1 (1998)|Artigos originais|Achados e perdidos sobre saúde reprodutiva na PNDS - 1996
+https://rebep.org.br/revista/article/view/412|v. 15 n. 1 (1998)|Artigos originais|Contraconcepção e declínio da fecundidade na Região Nordeste, 1980-1996
+https://rebep.org.br/revista/article/view/413|v. 15 n. 1 (1998)|Artigos originais|Vida em família e institucionalização em um contexto de envelhecimento populacional - o caso do México
+https://rebep.org.br/revista/article/view/414|v. 15 n. 1 (1998)|Artigos originais|O envelhecimento da população brasileira: intensidade, feminização e dependência
+https://rebep.org.br/revista/article/view/415|v. 15 n. 1 (1998)|Artigos originais|Modelando e projetando a mortalidade no Brasil
+https://rebep.org.br/revista/article/view/416|v. 15 n. 1 (1998)|Notas de pesquisa|A qualidade das estatísticas de óbitos no Brasil
+https://rebep.org.br/revista/article/view/417|v. 15 n. 1 (1998)|Notas de pesquisa|O serviço doméstico remunerado no Brasil: de criadas a trabalhadoras
+https://rebep.org.br/revista/article/view/418|v. 15 n. 1 (1998)|Resenha|As idéias e os números do gênero Argentina, Brasil e Chile no Século XIX
+https://rebep.org.br/revista/article/view/419|v. 14 n. 1/2 (1997)|Artigos originais|Assistência sanitária e condições de saúde na zona rural paulista na Primeira República
+https://rebep.org.br/revista/article/view/420|v. 14 n. 1/2 (1997)|Artigos originais|O Palestra Itália e sua trajetória: associativismo e etnicidade
+https://rebep.org.br/revista/article/view/421|v. 14 n. 1/2 (1997)|Artigos originais|A participação da imigração na formação da população brasileira
+https://rebep.org.br/revista/article/view/422|v. 14 n. 1/2 (1997)|Artigos originais|"A """"questão populacional"""" e a conformação do Estado de Bem-Estar Social na Suécia"
+https://rebep.org.br/revista/article/view/423|v. 14 n. 1/2 (1997)|Dossiê|Repensando a demografia histórica
+https://rebep.org.br/revista/article/view/424|v. 14 n. 1/2 (1997)|Dossiê|Desafios e conquistas da demografia histórica no final do século
+https://rebep.org.br/revista/article/view/425|v. 14 n. 1/2 (1997)|Dossiê|A demografia histórica brasileira nesse final de milênio
+https://rebep.org.br/revista/article/view/426|v. 14 n. 1/2 (1997)|Dossiê|A propósito de um balanço da demografia histórica: notas para um debate
+https://rebep.org.br/revista/article/view/427|v. 14 n. 1/2 (1997)|Dossiê|Demografia histórica: da semeadura à colheita
+https://rebep.org.br/revista/article/view/428|v. 14 n. 1/2 (1997)|Notas de pesquisa|Transferência de apoio entre o idoso e a família no Nordeste e no Sudeste do Brasil
+https://rebep.org.br/revista/article/view/429|v. 14 n. 1/2 (1997)|Notas de pesquisa|Situação social e demográfica dos beneficiários da reforma agrária
+https://rebep.org.br/revista/article/view/430|v. 14 n. 1/2 (1997)|Ponto de Vista|Seminário de migrações internas
+https://rebep.org.br/revista/article/view/431|v. 14 n. 1/2 (1997)|Resenha|SRETZER, Simon. Fertility, class and gender in Britain 1860-1940, Cambridge Studies in Population, Economy and Society in Pas Time. Cambridge University Press, 1996
+https://rebep.org.br/revista/article/view/432|v. 14 n. 1/2 (1997)|Resenha|Políticas, instituições e AIDS
+https://rebep.org.br/revista/article/view/433|v. 13 n. 2 (1996)|Artigos originais|Renda e pobreza: os impactos do Plano real
+https://rebep.org.br/revista/article/view/434|v. 13 n. 2 (1996)|Artigos originais|A crise migratória do verão de 1994. Balanço e perspectivas do fluxo emigratório cubano: 1984-1996
+https://rebep.org.br/revista/article/view/435|v. 13 n. 2 (1996)|Artigos originais|Representação de modelos padrões de mortalidade
+https://rebep.org.br/revista/article/view/436|v. 13 n. 2 (1996)|Artigos originais|Parentesco, estabilidade familiar e ocupação entre os escravos: o caso do meio rural fluminense entre 1790 e 1830
+https://rebep.org.br/revista/article/view/437|v. 13 n. 2 (1996)|Artigos originais|A questão dos registros administrativos vis-à-vis a geração de estatísticas
+https://rebep.org.br/revista/article/view/438|v. 13 n. 2 (1996)|Notas de pesquisa|Laços de família: um estudo sobre as relações de parentesco entre escravos na cidade do Rio de Janeiro, 1730-1814
+https://rebep.org.br/revista/article/view/439|v. 13 n. 2 (1996)|Resenha|A badalação recente sobre capacidade de carga: novas ideias ou nova roupagem?
+https://rebep.org.br/revista/article/view/440|v. 13 n. 2 (1996)|Resenha|Dando boas-vindas aos indesejáveis
+https://rebep.org.br/revista/article/view/441|v. 13 n. 2 (1996)|Resenha|A família como espelho
+https://rebep.org.br/revista/article/view/442|v. 13 n. 1 (1996)|Artigos originais|O saldo dos fluxos migratórios internacionais do Brasil na década de 80 - uma tentativa de estimação
+https://rebep.org.br/revista/article/view/443|v. 13 n. 1 (1996)|Artigos originais|Cem anos de movimentos populacionais: São Paulo em destaque
+https://rebep.org.br/revista/article/view/444|v. 13 n. 1 (1996)|Artigos originais|Os médicos italianos em São Paulo (1890-1930) - um projeto de ascensão social
+https://rebep.org.br/revista/article/view/445|v. 13 n. 1 (1996)|Artigos originais|Os movimento migratórios e as diferenças de renda per capita entre os estados no Brasil (1970-1980)
+https://rebep.org.br/revista/article/view/446|v. 13 n. 1 (1996)|Notas de pesquisa|Migração, emprego e projeções demográficas para o Estado de São Paulo: pesquisa regional por amostra domiciliar
+https://rebep.org.br/revista/article/view/447|v. 13 n. 1 (1996)|Notas de pesquisa|Migrações de fronteira entre o Brasil e os países do Mercosul
+https://rebep.org.br/revista/article/view/448|v. 13 n. 1 (1996)|Notas de pesquisa|Os dekasseguis retornados
+https://rebep.org.br/revista/article/view/449|v. 13 n. 1 (1996)|Resenha|A inserção do Brasil no novo ciclo internacional de migrações
+https://rebep.org.br/revista/article/view/450|v. 13 n. 1 (1996)|Resenha|Globalização e urbanização: tendências e desafios para a virada do século
+https://rebep.org.br/revista/article/view/451|v. 13 n. 1 (1996)|Ponto de Vista|Migrações internacionais: uma nova questão demográfica
+https://rebep.org.br/revista/article/view/452|v. 12 n. 1/2 (1995)|Artigos originais|A conferência do cairo sobre População e Desenvolvimento e o paradigma de Huntington
+https://rebep.org.br/revista/article/view/453|v. 12 n. 1/2 (1995)|Artigos originais|Ensaio sobre as migrações internacionais no desenvolvimento do capitalismo
+https://rebep.org.br/revista/article/view/454|v. 12 n. 1/2 (1995)|Artigos originais|Questões teóricas acerca dos processos de concentração e desconcentração da população no espaço
+https://rebep.org.br/revista/article/view/455|v. 12 n. 1/2 (1995)|Artigos originais|Migração intrametropolitana: movimentos dos pobres?
+https://rebep.org.br/revista/article/view/456|v. 12 n. 1/2 (1995)|Artigos originais|Dinâmica demográfica por nível de renda
+https://rebep.org.br/revista/article/view/457|v. 12 n. 1/2 (1995)|Artigos originais|Geração de um modelo de tábuas de vida representativo da mortalidade do Estado de São Paulo
+https://rebep.org.br/revista/article/view/458|v. 12 n. 1/2 (1995)|Artigos originais|A demografia histórica no Brasil: contribuições à historiografia
+https://rebep.org.br/revista/article/view/459|v. 12 n. 1/2 (1995)|Artigos originais|Parentesco e família entre os escravos no século XIX: um estudo de caso
+https://rebep.org.br/revista/article/view/460|v. 12 n. 1/2 (1995)|Artigos originais|Um ensaio sobre o tema da fecundidade diferencial: famílias estáveis e famílias (i)migrantes
+https://rebep.org.br/revista/article/view/461|v. 12 n. 1/2 (1995)|Notas de pesquisa|Gestão e análise da população: por uma hitória demográfica dos contatos culturais em Curitiba: 1866-1939
+https://rebep.org.br/revista/article/view/462|v. 12 n. 1/2 (1995)|Notas de pesquisa|Reconstrução de famílias no microcomputador: o SYGAP
+https://rebep.org.br/revista/article/view/463|v. 12 n. 1/2 (1995)|Resenha|O desafio do desenvolvimento humano
+https://rebep.org.br/revista/article/view/464|v. 12 n. 1/2 (1995)|Ponto de Vista|Pronunciamento de Elza Berquó na solenidade de posse da presidência da Comissão Nacional de População e Desenvolvimento
+https://rebep.org.br/revista/article/view/465|v. 11 n. 2 (1994)|Artigos originais|Um modelo para estimar a mortalidade materna:  a relação entre a razão de mortalidade materna e outros parâmentros demográficos
+https://rebep.org.br/revista/article/view/466|v. 11 n. 2 (1994)|Artigos originais|O mínimo demográfico de um sistema de metades exogâmicas (uma simulação em computador)
+https://rebep.org.br/revista/article/view/467|v. 11 n. 2 (1994)|Artigos originais|Trabalho e reprodução cotidiana: apresentação
+https://rebep.org.br/revista/article/view/468|v. 11 n. 2 (1994)|Artigos originais|Novos olhares sobre a família
+https://rebep.org.br/revista/article/view/469|v. 11 n. 2 (1994)|Artigos originais|As articulações possíveis: família e reprodução em um segmento operário
+https://rebep.org.br/revista/article/view/470|v. 11 n. 2 (1994)|Artigos originais|Família e trabalho: precariedade e pauperismo na Grande São Paulo
+https://rebep.org.br/revista/article/view/471|v. 11 n. 2 (1994)|Artigos originais|Trabalho e reprodução cotidiana: novas evidências empríricas e tematizações emergentes no debate brasileiro
+https://rebep.org.br/revista/article/view/472|v. 11 n. 2 (1994)|Notas de pesquisa|Demografia dos povos indígenas do Alto Rio Negro
+https://rebep.org.br/revista/article/view/473|v. 11 n. 2 (1994)|Notas de pesquisa|Pobreza e trabalho no Brasil: uma análise das condições de vida e ocupação das famílias agrícolas nos anos 80
+https://rebep.org.br/revista/article/view/474|v. 11 n. 2 (1994)|Notas de pesquisa|O uso da  estatística na pesquisa em Ciências Humanas no Brasil: o caso da Demografia
+https://rebep.org.br/revista/article/view/475|v. 11 n. 2 (1994)|Notas de pesquisa|Estimativa da frequencia de abortos induzidos: teste de uma metodologia
+https://rebep.org.br/revista/article/view/476|v. 11 n. 2 (1994)|Resenha|Limits of citizenship - migrants and post-national membership in Europe
+https://rebep.org.br/revista/article/view/477|v. 11 n. 2 (1994)|Ponto de Vista|A demografia e os povos indígenas no Brasil
+https://rebep.org.br/revista/article/view/478|v. 11 n. 1 (1994)|Artigos originais|Categorias do censo e classificação subjetiva de cor no Brasil
+https://rebep.org.br/revista/article/view/479|v. 11 n. 1 (1994)|Artigos originais|Esterilização e raça em São Paulo
+https://rebep.org.br/revista/article/view/480|v. 11 n. 1 (1994)|Artigos originais|Transição demográfica: novas evidências, velhos desafios
+https://rebep.org.br/revista/article/view/481|v. 11 n. 1 (1994)|Artigos originais|Estado, economia e mobilidade geográfica: retrospectiva e perspectivas para o fim do século
+https://rebep.org.br/revista/article/view/482|v. 11 n. 1 (1994)|Artigos originais|O cenário da colonização no Brasil Meridional e a família imigrante
+https://rebep.org.br/revista/article/view/483|v. 11 n. 1 (1994)|Notas de pesquisa|Os homens, esses desconhecidos...
+https://rebep.org.br/revista/article/view/484|v. 11 n. 1 (1994)|Notas de pesquisa|Disseminação de informação populacional para públicos mais abrangentes
+https://rebep.org.br/revista/article/view/485|v. 11 n. 1 (1994)|Notas de pesquisa|Antigos imaginários, transnacionalidade e a nova política de espaços
+https://rebep.org.br/revista/article/view/486|v. 11 n. 1 (1994)|Resenha|The mobility of labor and capital
+https://rebep.org.br/revista/article/view/487|v. 11 n. 1 (1994)|Ponto de Vista|Cairo: o sucesso da arte do diálogo
+https://rebep.org.br/revista/article/view/488|v. 10 n. 1/2 (1993)|Artigos originais|PAISM: uma história sem fim
+https://rebep.org.br/revista/article/view/489|v. 10 n. 1/2 (1993)|Artigos originais|Vivendo a dois: arranjos conjugais em comparação
+https://rebep.org.br/revista/article/view/490|v. 10 n. 1/2 (1993)|Artigos originais|A esterilização feminina no Brasil: diferenciais por escolaridade e renda
+https://rebep.org.br/revista/article/view/491|v. 10 n. 1/2 (1993)|Artigos originais|O uso da técnica de resposta ao Azar (TRA) na caracterização do aborto ilegal
+https://rebep.org.br/revista/article/view/492|v. 10 n. 1/2 (1993)|Artigos originais|Ligação de trompas e imaginário feminino
+https://rebep.org.br/revista/article/view/493|v. 10 n. 1/2 (1993)|Artigos originais|Rainha das águas, dona do mangue: um estudo do trabalho feminino no meio ambiente marinho
+https://rebep.org.br/revista/article/view/494|v. 10 n. 1/2 (1993)|Artigos originais|Relações de gênero nos espaços público e privado: a experiência das trabalhadoras na CUT
+https://rebep.org.br/revista/article/view/495|v. 10 n. 1/2 (1993)|Artigos originais|Renda e pobreza no Brasil
+https://rebep.org.br/revista/article/view/496|v. 10 n. 1/2 (1993)|Artigos originais|Fecundidade e família: os tamanhos das famílias das mulheres e das crianças no Brasil
+https://rebep.org.br/revista/article/view/497|v. 10 n. 1/2 (1993)|Artigos originais|Características regionais da população idosa no Brasil
+https://rebep.org.br/revista/article/view/498|v. 10 n. 1/2 (1993)|Artigos originais|Secularização do registro dos eventos vitais no Estado de São Paulo
+https://rebep.org.br/revista/article/view/499|v. 10 n. 1/2 (1993)|Notas de pesquisa|Histórias femininas: memórias e experiências
+https://rebep.org.br/revista/article/view/500|v. 10 n. 1/2 (1993)|Notas de pesquisa|Mobilidade intrametropolitana: questões metodológicas para o seu estudo
+https://rebep.org.br/revista/article/view/501|v. 10 n. 1/2 (1993)|Ponto de Vista|A questão do aborto - um projeto de lei para disciplinar sua prática no Brasil
+https://rebep.org.br/revista/article/view/502|v. 9 n. 2 (1992)|Artigos originais|Mobilidade intra-urbana no Rio de Janeiro: da estratificação social à segregação residencial no espaço
+https://rebep.org.br/revista/article/view/503|v. 9 n. 2 (1992)|Artigos originais|Mortalidade infantil por causas na Região Metropolitana do Rio de Janeiro, 1976-1986: associação com variáveis socioeconômicas, climáticas e ligadas à poluição do ar
+https://rebep.org.br/revista/article/view/504|v. 9 n. 2 (1992)|Artigos originais|Os negros que dão certo: mercado de trabalho, mobilidade e desigualdades ocupacionais
+https://rebep.org.br/revista/article/view/505|v. 9 n. 2 (1992)|Artigos originais|Casamento em tempos de crise
+https://rebep.org.br/revista/article/view/506|v. 9 n. 2 (1992)|Artigos originais|A compressão do mercado matrimonial e o aumento das uniões consensuais no Brasil
+https://rebep.org.br/revista/article/view/507|v. 9 n. 2 (1992)|Ponto de Vista|Às mulheres, os hormônios!
+https://rebep.org.br/revista/article/view/508|v. 9 n. 2 (1992)|Resenha|Contested frontiers in Amazonia
+https://rebep.org.br/revista/article/view/509|v. 9 n. 2 (1992)|Notas de pesquisa|Uma avaliação da fecundidade no Brasil, ao início do século
+https://rebep.org.br/revista/article/view/510|v. 9 n. 2 (1992)|Notas de pesquisa|À procura das origens ou a expectativa do enriquecimento rápido: o exemplo dos dekasseguis do Brasil em direção ao Japão
+https://rebep.org.br/revista/article/view/511|v. 9 n. 1 (1992)|Artigos originais|"Expulsando os pobres e redistribuindo os ricos: """" dinâmica imobiliária"""" e segregação residencial na cidade do Rio de Janeiro"
+https://rebep.org.br/revista/article/view/512|v. 9 n. 1 (1992)|Artigos originais|Quesitos sobre migrações no Censo Demográfico de 1991
+https://rebep.org.br/revista/article/view/513|v. 9 n. 1 (1992)|Artigos originais|Saudade, imigração e a construção de uma nação (portuguesa) desterritorializada
+https://rebep.org.br/revista/article/view/514|v. 9 n. 1 (1992)|Artigos originais|Imigrantes estrangeiros, imigrantes brasileiros: uma revisão bibliográfica e algumas anotações para pesquisa
+https://rebep.org.br/revista/article/view/515|v. 9 n. 1 (1992)|Artigos originais|A imigração brasileira na América do Norte
+https://rebep.org.br/revista/article/view/516|v. 9 n. 1 (1992)|Ponto de Vista|Mercado de trabalho brasileiro: uma visão prospectiva
+https://rebep.org.br/revista/article/view/517|v. 9 n. 1 (1992)|Resenha|Morte materna: uma tragédia evitável
+https://rebep.org.br/revista/article/view/518|v. 9 n. 1 (1992)|Resenha|Dilemas socioambientais do desenvolvimento sustentável
+https://rebep.org.br/revista/article/view/519|v. 9 n. 1 (1992)|Notas de pesquisa|Mortalidade infantil por pneumonias na região metropolitana do Rio de Janeiro: 1976-1986
+https://rebep.org.br/revista/article/view/520|v. 8 n. 1/2 (1991)|Artigos originais|A imigração internacional e a fecundidade
+https://rebep.org.br/revista/article/view/521|v. 8 n. 1/2 (1991)|Artigos originais|Novos fluxos migratórios da população brasileira
+https://rebep.org.br/revista/article/view/522|v. 8 n. 1/2 (1991)|Artigos originais|Mobilidade de migrantes: autonomia ou subordinação na Amazônia legal?
+https://rebep.org.br/revista/article/view/523|v. 8 n. 1/2 (1991)|Artigos originais|Algumas questões para a demografia dos anos noventa
+https://rebep.org.br/revista/article/view/524|v. 8 n. 1/2 (1991)|Artigos originais|Crescimento demográfico e meio ambiente
+https://rebep.org.br/revista/article/view/525|v. 8 n. 1/2 (1991)|Artigos originais|Níveis, tendências e diferenciais de fecundidade no Brasil a partir da década de 30
+https://rebep.org.br/revista/article/view/526|v. 8 n. 1/2 (1991)|Artigos originais|Agrupamento de países segundo indicadores básicos e econômicos
+https://rebep.org.br/revista/article/view/527|v. 8 n. 1/2 (1991)|Ponto de Vista|Os estudos populacionais e a agenda ambiental brasileira: um ponto de vista
+https://rebep.org.br/revista/article/view/528|v. 8 n. 1/2 (1991)|Resenha|Refúgio num mundo sem coração. A família: santuário ou instituição sitiada?
+https://rebep.org.br/revista/article/view/529|v. 8 n. 1/2 (1991)|Notas de pesquisa|Extensão do intervalo intergestacional e retorno da menstruação: influência do aleitamento materno
+https://rebep.org.br/revista/article/view/530|v. 8 n. 1/2 (1991)|Notas de pesquisa|Perspectivas atuais do papel da família frente ao envelhecimento populacional: um estudo de caso
+https://rebep.org.br/revista/article/view/531|v. 8 n. 1/2 (1991)|Notas de pesquisa|Nova área de atração populacional no Oeste Paulista: a região de governo de São José do Rio Preto
+https://rebep.org.br/revista/article/view/532|v. 8 n. 1/2 (1991)|Notas de pesquisa|Estado e Ecologia: novos dilemas e desafios (A política ambiental no estado de São Paulo)
+https://rebep.org.br/revista/article/view/533|v. 8 n. 1/2 (1991)|Registros de interesse|Seminário sobre transição da fecundidade na América Latina (Buenos Aires, Argentina, 3-6 abril, 1990)
+https://rebep.org.br/revista/article/view/534|v. 7 n. 2 (1990)|Artigos originais|A força de trabalho paulista: análise crítica das fontes
+https://rebep.org.br/revista/article/view/535|v. 7 n. 2 (1990)|Artigos originais|Oferta de trabalho e flutuações econômicas: Brasil, 1979-1986
+https://rebep.org.br/revista/article/view/536|v. 7 n. 2 (1990)|Artigos originais|Avaliação da política de produção, processamento e divulgação de informações no Brasil
+https://rebep.org.br/revista/article/view/537|v. 7 n. 2 (1990)|Artigos originais|""""" QUO VADIS"""" sistema estatístico?"
+https://rebep.org.br/revista/article/view/538|v. 7 n. 2 (1990)|Artigos originais|Sistema estatístico, planejamento e sociedade no Brasil (notas para uma discussão)
+https://rebep.org.br/revista/article/view/539|v. 7 n. 2 (1990)|Artigos originais|Informações demográficas: o que se tem, o que se usa e como se usa?
+https://rebep.org.br/revista/article/view/540|v. 7 n. 2 (1990)|Artigos originais|Uma discussão sobre a produção e uso dos dados sobre o mercado de trabalho
+https://rebep.org.br/revista/article/view/541|v. 7 n. 2 (1990)|Ponto de Vista|Jean Bougeois - Pichat
+https://rebep.org.br/revista/article/view/542|v. 7 n. 2 (1990)|Resenha|O planejamento familiar e o Nordeste
+https://rebep.org.br/revista/article/view/543|v. 7 n. 2 (1990)|Notas de pesquisa|Família e transição. Famílias negras em Paraíba do Sul, 1872-1920
+https://rebep.org.br/revista/article/view/544|v. 7 n. 2 (1990)|Notas de pesquisa|Uma alternativa metodológica para captação de quesitos estigmatizantes
+https://rebep.org.br/revista/article/view/545|v. 7 n. 1 (1990)|Artigos originais|Habitação e demografia intra-urbana em São Paulo
+https://rebep.org.br/revista/article/view/546|v. 7 n. 1 (1990)|Artigos originais|Migração, família e campesito
+https://rebep.org.br/revista/article/view/547|v. 7 n. 1 (1990)|Artigos originais|As condições de saúde de mães e crianças do Ceará
+https://rebep.org.br/revista/article/view/548|v. 7 n. 1 (1990)|Artigos originais|O efeito da educação materna sobre o risco da mortalidade infantil
+https://rebep.org.br/revista/article/view/549|v. 7 n. 1 (1990)|Ponto de Vista|Uma nova onda para atropelar os direitos reprodutivos
+https://rebep.org.br/revista/article/view/550|v. 7 n. 1 (1990)|Resenha|O Idoso na grande São Paulo
+https://rebep.org.br/revista/article/view/551|v. 7 n. 1 (1990)|Resenha|História do casamento e do Amor. Inglaterra, 1300-1840
+https://rebep.org.br/revista/article/view/552|v. 7 n. 1 (1990)|Notas de pesquisa|A concepção controlada: práticas anticoncetivas em uma área do Recôncavo Baiano
+https://rebep.org.br/revista/article/view/553|v. 7 n. 1 (1990)|Notas de pesquisa|A história da população na América Latina: Congresso de Ouro Preto
+https://rebep.org.br/revista/article/view/554|v. 6 n. 2 (1989)|Artigos originais|A família no século XXI: um enfoque demográfico
+https://rebep.org.br/revista/article/view/555|v. 6 n. 2 (1989)|Artigos originais|A integração social e econômica dos imigrantes portugueses no Brasil no fim do século XIX e no século XX
+https://rebep.org.br/revista/article/view/556|v. 6 n. 2 (1989)|Artigos originais|Dados, medidas e técnicas indiretas de estimação de mortalidade
+https://rebep.org.br/revista/article/view/557|v. 6 n. 2 (1989)|Artigos originais|Migrações anuais rural-urbano-rural período 70/80
+https://rebep.org.br/revista/article/view/558|v. 6 n. 2 (1989)|Resenha|La famille incertaine
+https://rebep.org.br/revista/article/view/559|v. 6 n. 2 (1989)|Resenha|Homens esquecidos: escravos e trabalhadores livres no Brasil - séculos XVIII e XIX
+https://rebep.org.br/revista/article/view/560|v. 6 n. 2 (1989)|Notas de pesquisa|Migrantes em busca de uma teoria
+https://rebep.org.br/revista/article/view/561|v. 6 n. 2 (1989)|Notas de pesquisa|A estrutura ocupacional brasileira em um ano de crise: uma abordagem inter-regional
+https://rebep.org.br/revista/article/view/562|v. 6 n. 1 (1989)|Artigos originais|Uma abordagem sociológica de família
+https://rebep.org.br/revista/article/view/563|v. 6 n. 1 (1989)|Artigos originais|Trabalho, família e condição feminina: considerações sobre a demanda por filhos
+https://rebep.org.br/revista/article/view/564|v. 6 n. 1 (1989)|Artigos originais|As pesquisas sobre o aborto na América Latina e os estudos de mulher
+https://rebep.org.br/revista/article/view/567|v. 6 n. 1 (1989)|Artigos originais|Considerações sobre a fecundidade da população negra no Brasil
+https://rebep.org.br/revista/article/view/568|v. 6 n. 1 (1989)|Resenha|Demos, carta demográfica sobre o México, 1988
+https://rebep.org.br/revista/article/view/569|v. 6 n. 1 (1989)|Resenha|Princípios e métodos de análise da demografia portuguesa
+https://rebep.org.br/revista/article/view/570|v. 6 n. 1 (1989)|Notas de pesquisa|Estatísticas históricas para estudos de população: o acervo do arquivo público estadual do Ceará
+https://rebep.org.br/revista/article/view/571|v. 6 n. 1 (1989)|Notas de pesquisa|A fundação Rockefeller e o estado nacional (história e política de uma missão médica e sanitária no Brasil)
+https://rebep.org.br/revista/article/view/572|v. 5 n. 2 (1988)|Artigos originais|Uma análise exploratória da informação sobre a migração inter e intramunicipal no censo demográfico de 1980
+https://rebep.org.br/revista/article/view/573|v. 5 n. 2 (1988)|Artigos originais|População, reprodução e saúde: anotações sobre a questão de uma política social
+https://rebep.org.br/revista/article/view/574|v. 5 n. 2 (1988)|Artigos originais|Família na transição demográfica: o caso de São Paulo
+https://rebep.org.br/revista/article/view/575|v. 5 n. 2 (1988)|Artigos originais|Sexualidade, casamento e reprodução
+https://rebep.org.br/revista/article/view/576|v. 5 n. 2 (1988)|Resenha|Naissance d´une population
+https://rebep.org.br/revista/article/view/577|v. 5 n. 2 (1988)|Resenha|Muchachas no more: household workers in Latin America and the Caribbean
+https://rebep.org.br/revista/article/view/578|v. 5 n. 1 (1988)|Artigos originais|Sugestões para uma análise comparativa da fecundidade em populações indígenas
+https://rebep.org.br/revista/article/view/579|v. 5 n. 1 (1988)|Artigos originais|Keim e parentesco: reflexões sobre uma categoria cultural de colonos teuto-brasileiros
+https://rebep.org.br/revista/article/view/580|v. 5 n. 1 (1988)|Artigos originais|A evolução do emprego no campo - 2ª parte
+https://rebep.org.br/revista/article/view/581|v. 5 n. 1 (1988)|Artigos originais|A família escrava e a penetração do café em Bananal, 1801-1829
+https://rebep.org.br/revista/article/view/582|v. 5 n. 1 (1988)|Artigos originais|Código familiar: uma versão sobre o significado da família em camadas médias urbanas
+https://rebep.org.br/revista/article/view/583|v. 5 n. 1 (1988)|Resenha|Medidas e análise da mortalidade: novas abordagens
+https://rebep.org.br/revista/article/view/584|v. 5 n. 1 (1988)|Resumo de Pesquisas Concluídas|O jovem na grande São Paulo
+https://rebep.org.br/revista/article/view/585|v. 4 n. 2 (1987)|Artigos originais|Formação de um novo proletariado: as operárias do distrito industrial de Manaus
+https://rebep.org.br/revista/article/view/586|v. 4 n. 2 (1987)|Artigos originais|A evolução do emprego no campo
+https://rebep.org.br/revista/article/view/587|v. 4 n. 2 (1987)|Artigos originais|A migração nas regiões administrativas da grande São Paulo segundo o censo de 1980
+https://rebep.org.br/revista/article/view/588|v. 4 n. 2 (1987)|Resenha|Nuevas fronteras de la demografia
+https://rebep.org.br/revista/article/view/589|v. 4 n. 2 (1987)|Resumo de Pesquisas Concluídas|Desemprego, papéis sexuais e fecundidade
+https://rebep.org.br/revista/article/view/590|v. 4 n. 2 (1987)|Prêmio|Propriedade da terra e saúde infantil no Rio Grande do Sul: as relações entre produção agrícola, desnutrição e mortalidade
+https://rebep.org.br/revista/article/view/591|v. 4 n. 1 (1987)|Discurso|Discurso de abertura do V Encontro Nacional
+https://rebep.org.br/revista/article/view/592|v. 4 n. 1 (1987)|Discurso|Discurso de abertura do V Encontro Nacional
+https://rebep.org.br/revista/article/view/593|v. 4 n. 1 (1987)|Discurso|Discurso de abertura do V Encontro Nacional
+https://rebep.org.br/revista/article/view/594|v. 4 n. 1 (1987)|Discurso|Discurso de abertura do V Encontro Nacional
+https://rebep.org.br/revista/article/view/595|v. 4 n. 1 (1987)|Discurso|Discurso de abertura do V Encontro Nacional
+https://rebep.org.br/revista/article/view/596|v. 4 n. 1 (1987)|Mesa|Política de população em Cuba
+https://rebep.org.br/revista/article/view/597|v. 4 n. 1 (1987)|Mesa|E agora o que fazemos
+https://rebep.org.br/revista/article/view/598|v. 4 n. 1 (1987)|Debate|Debates
+https://rebep.org.br/revista/article/view/599|v. 4 n. 1 (1987)|Painel|As implicações sociais da fecundidade abaixo do nível de substituição
+https://rebep.org.br/revista/article/view/600|v. 4 n. 1 (1987)|Painel|Políticas de população em alguns países asiáticos
+https://rebep.org.br/revista/article/view/601|v. 4 n. 1 (1987)|Painel|Os casos de China e Brasil
+https://rebep.org.br/revista/article/view/602|v. 4 n. 1 (1987)|Painel|Políticas de população na América Latina em meados de 1985: um panorama confuso
+https://rebep.org.br/revista/article/view/603|v. 4 n. 1 (1987)|Painel|Sobre a política de planejamento familiar no Brasil
+https://rebep.org.br/revista/article/view/604|v. 4 n. 1 (1987)|Prêmio|As dimensões da mortalidade infantil em São Paulo
+https://rebep.org.br/revista/article/view/605|v. 3 n. 2 (1986)|Artigos originais|Os órfãos e a mortalidade dos adultos: o exemplo francês de 1740 a 1829
+https://rebep.org.br/revista/article/view/606|v. 3 n. 2 (1986)|Artigos originais|Migração e estrutura produtiva: o caso das regiões metropolitanas nordestinas
+https://rebep.org.br/revista/article/view/607|v. 3 n. 2 (1986)|Artigos originais|Mecanismos subjacentes à relação entre a mortalidade infanto-juvenil e a educação dos pais
+https://rebep.org.br/revista/article/view/608|v. 3 n. 2 (1986)|Artigos originais|A evolução da fecundidade no Brasil, período 1957-1979. Aplicação da técnica dos filhos próprios para se estimar a fecundidade ano a ano
+https://rebep.org.br/revista/article/view/609|v. 3 n. 2 (1986)|Artigos originais|Mobilidade espacial da população brasileira: aspectos e tendências
+https://rebep.org.br/revista/article/view/610|v. 3 n. 1 (1986)|Artigos originais|Contexto social da política e da pesquisa em população no Brasil
+https://rebep.org.br/revista/article/view/611|v. 3 n. 1 (1986)|Artigos originais|Proletário e migrante: livre para a subordinação
+https://rebep.org.br/revista/article/view/612|v. 3 n. 1 (1986)|Artigos originais|População e força de trabalho: o caso da cafeicultura no oeste paulista
+https://rebep.org.br/revista/article/view/613|v. 3 n. 1 (1986)|Artigos originais|Cinquenta anos de crescimento populacional e absorção de mão-de-obra no Brasil: de 1950 a 2000
+https://rebep.org.br/revista/article/view/614|v. 3 n. 1 (1986)|Resumo de Pesquisas Concluídas|Sociedade contemporânea, família no Brasil e valores: alterações e permanências
+https://rebep.org.br/revista/article/view/615|v. 3 n. 1 (1986)|Resumo de Pesquisas Concluídas|Migrações inter-regionais e estratégia doméstica
+https://rebep.org.br/revista/article/view/616|v. 2 n. 2 (1985)|Artigos originais|Planejamento familiar nos planos governamentais
+https://rebep.org.br/revista/article/view/617|v. 2 n. 2 (1985)|Artigos originais|Redescobrindo o Brasil: viagem à demografia de Giorgio Mortara
+https://rebep.org.br/revista/article/view/618|v. 2 n. 2 (1985)|Artigos originais|SP 80: o trabalho na máquina agrária paulista nos 70
+https://rebep.org.br/revista/article/view/619|v. 2 n. 2 (1985)|Artigos originais|A questão da ocupação no registro civil
+https://rebep.org.br/revista/article/view/620|v. 2 n. 2 (1985)|Artigos originais|"A conversão da mulher em mãe: uma leitura do """"a mãi de família"""""
+https://rebep.org.br/revista/article/view/621|v. 2 n. 2 (1985)|Artigos originais|Estudos de população pré-histórica
+https://rebep.org.br/revista/article/view/622|v. 2 n. 2 (1985)|Resenha|Pour la démogrphie historique e histoire de la démographie
+https://rebep.org.br/revista/article/view/623|v. 2 n. 2 (1985)|Resumo de Pesquisas Concluídas|Capitalismo na Amazônia: utopia (e miséria) da ascensão social
+https://rebep.org.br/revista/article/view/624|v. 2 n. 1 (1985)|Artigos originais|Demografia e Conjuntura: Reflexões Metodológicas
+https://rebep.org.br/revista/article/view/625|v. 2 n. 1 (1985)|Artigos originais|Repensando a questão das favelas
+https://rebep.org.br/revista/article/view/626|v. 2 n. 1 (1985)|Artigos originais|Estimativas indiretas e dados sobre migrações: uma avaliação conceitual e metodológica das informações censitárias recentes
+https://rebep.org.br/revista/article/view/627|v. 2 n. 1 (1985)|Artigos originais|Tendência recente da fecundidade no Estado de São Paulo
+https://rebep.org.br/revista/article/view/628|v. 2 n. 1 (1985)|Artigos originais|O casamento e as estratégias de sobrevivência da família operária na agricultura paulista
+https://rebep.org.br/revista/article/view/629|v. 2 n. 1 (1985)|Artigos originais|Ajuste, por mínimos quadrados, de uma Distribuição Beta às taxas de fecundidade por idade
+https://rebep.org.br/revista/article/view/630|v. 2 n. 1 (1985)|Resenha|World development report, 1984
+https://rebep.org.br/revista/article/view/631|v. 2 n. 1 (1985)|Resumo de Pesquisas Concluídas|O outro lado da Colônia: contradições e formas de resistência popular na Colônia Agrícola de Goiás
+https://rebep.org.br/revista/article/view/632|v. 2 n. 1 (1985)|Resumo de Pesquisas Concluídas|Pesquisa de emprego e desemprego na Grande São Paulo
+https://rebep.org.br/revista/article/view/638|v. 31 n. 1 (2014)|Editorial|Nota da Editora
+https://rebep.org.br/revista/article/view/639|v. 31 n. 1 (2014)|Artigos originais|Os efeitos do alfabetismo funcional sobre a empregabilidade dos trabalhadores brasileiros
+https://rebep.org.br/revista/article/view/640|v. 31 n. 1 (2014)|Artigos originais|O efeito trabalhador adicional para filhos no Brasil
+https://rebep.org.br/revista/article/view/642|v. 31 n. 1 (2014)|Artigos originais|Tomada de decisão conjunta: construção e validação de uma proxy-chave para o estudo das relações de gênero de casais contemporâneos
+https://rebep.org.br/revista/article/view/643|v. 31 n. 1 (2014)|Artigos originais|Um estudo sobre a filiação religiosa no Brasil entre 1980 e 2010: efeitos de idade, período e coorte
+https://rebep.org.br/revista/article/view/644|v. 31 n. 1 (2014)|Artigos originais|Pentecostalismo e iniciação sexual pré-marital no Brasil
+https://rebep.org.br/revista/article/view/645|v. 31 n. 1 (2014)|Artigos originais|Análise longitudinal do comportamento reprodutivo de uma população Toba em transição
+https://rebep.org.br/revista/article/view/646|v. 31 n. 1 (2014)|Artigos originais|Família, religiosidade e identidade étnica nas práticas de transmissão de nomes de batismo em um grupo de imigrantes italianos
+https://rebep.org.br/revista/article/view/647|v. 31 n. 1 (2014)|Artigos originais|A imigração polonesa para São Paulo no pós-Segunda Guerra Mundial no quadro das entradas dos “deslocados de guerra”: 1947 a 1951
+https://rebep.org.br/revista/article/view/648|v. 31 n. 1 (2014)|Artigos originais|Transição demográfica e transição do consumo urbano de água no Brasil
+https://rebep.org.br/revista/article/view/649|v. 31 n. 1 (2014)|Artigos originais|Dinâmicas no uso e cobertura da terra: perspectivas e desafios da Demografia
+https://rebep.org.br/revista/article/view/650|v. 31 n. 1 (2014)|Notas de pesquisa|Instituições de longa permanência para idosos: um estudo sobre a necessidade de vagas
+https://rebep.org.br/revista/article/view/651|v. 31 n. 1 (2014)|Ponto de Vista|População, desenvolvimento e sustentabilidade: perspectivas para a CIPD pós-2014
+https://rebep.org.br/revista/article/view/652|v. 31 n. 1 (2014)|Ponto de Vista|Ciência, cultura e a estagnação da agenda ambiental
+https://rebep.org.br/revista/article/view/653|v. 31 n. 1 (2014)|Resenha|Migrações internas no Brasil: um panorama analítico e alguns percursos teóricos
+https://rebep.org.br/revista/article/view/654|v. 31 n. 1 (2014)|Resenha|Incorporating social theory into demography and family research
+https://rebep.org.br/revista/article/view/666|v. 31 n. 2 (2014)|Editorial|Nota da Editora
+https://rebep.org.br/revista/article/view/667|v. 31 n. 2 (2014)|Artigos originais|O uso das taxas de crescimento por idade para identificação das principais etapas da transição demográfica no Brasil
+https://rebep.org.br/revista/article/view/668|v. 31 n. 2 (2014)|Artigos originais|Incertezas nas projeções populacionais: o estado da arte
+https://rebep.org.br/revista/article/view/670|v. 31 n. 2 (2014)|Artigos originais|Estimadores splines calibrados: estimativas de taxas detalhadas de fecundidade a partir de dados agrupados por idade
+https://rebep.org.br/revista/article/view/671|v. 31 n. 2 (2014)|Artigos originais|Esterilização cirúrgica feminina no Brasil, 2000 a 2006: aderência à lei de planejamento familiar e demanda frustrada
+https://rebep.org.br/revista/article/view/672|v. 31 n. 2 (2014)|Artigos originais|Religião, religiosidade e iniciação sexual na adolescência e juventude: lições de uma revisão bibliográfica sistemática de mais de meio século de pesquisas
+https://rebep.org.br/revista/article/view/673|v. 31 n. 2 (2014)|Artigos originais|Fatores associados ao desempenho escolar: uma análise da proficiência em matemática dos alunos do 5º ano do ensino fundamental da rede municipal do Rio de Janeiro
+https://rebep.org.br/revista/article/view/677|v. 31 n. 2 (2014)|Artigos originais|Construtos de incapacidade presentes na Pesquisa Nacional por Amostra de Domicílio (PNAD): uma análise baseada na Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF)
+https://rebep.org.br/revista/article/view/678|v. 31 n. 2 (2014)|Artigos originais|Pobreza e remessas internacionais Sul-Sul no Paraguai
+https://rebep.org.br/revista/article/view/679|v. 31 n. 2 (2014)|Artigos originais|Características da participação das pessoas com deficiência e/ou limitação funcional no mercado de trabalho brasileiro
+https://rebep.org.br/revista/article/view/680|v. 31 n. 2 (2014)|Artigos originais|Referenciais teóricos da migração internacional e a questão da mobilidade espacial dos cortadores de cana
+https://rebep.org.br/revista/article/view/681|v. 31 n. 2 (2014)|Notas de pesquisa|Notas sobre os diferenciais educacionais e econômicos da fecundidade no Brasil
+https://rebep.org.br/revista/article/view/682|v. 31 n. 2 (2014)|Resenha|As permanências dos desafios ambientais nos espaços urbanos
+https://rebep.org.br/revista/article/view/683|v. 31 n. 2 (2014)|Resenha|Crescimento demoeconômico e desigualdade no século XXI
+https://rebep.org.br/revista/article/view/691|v. 32 n. 1 (2015)|Editorial|Nota da Editora
+https://rebep.org.br/revista/article/view/692|v. 32 n. 1 (2015)|Artigos originais|O impacto da crise econômica espanhola na mão de obra imigrante
+https://rebep.org.br/revista/article/view/693|v. 32 n. 1 (2015)|Artigos originais|Um olhar sobre as autorizações de permanência a estrangeiros no Brasil, entre 2005 e 2011
+https://rebep.org.br/revista/article/view/694|v. 32 n. 1 (2015)|Artigos originais|Tendências da mortalidade por atropelamentos e colisões de trânsito na Argentina entre 2000-2002 e 2009-2011
+https://rebep.org.br/revista/article/view/695|v. 32 n. 1 (2015)|Artigos originais|Morte nos Andes: sociedade colonial e mortalidade nas fazendas andinas (Equador, 1743-1857)
+https://rebep.org.br/revista/article/view/696|v. 32 n. 1 (2015)|Artigos originais|Envelhecimento populacional, gratuidades no transporte público e seus efeitos sobre as tarifas na Região Metropolitana de São Paulo
+https://rebep.org.br/revista/article/view/697|v. 32 n. 1 (2015)|Artigos originais|Padrões de seletividade relacionados aos casais homossexuais e heterossexuais no Brasil
+https://rebep.org.br/revista/article/view/698|v. 32 n. 1 (2015)|Artigos originais|Projeções populacionais em pequenas áreas: uma avaliação comparativa de técnicas de extrapolação matemática
+https://rebep.org.br/revista/article/view/699|v. 32 n. 1 (2015)|Artigos originais|A distribuição de renda nas pesquisas domiciliares brasileiras: harmonização e comparação entre Censos, PNADs e POFs
+https://rebep.org.br/revista/article/view/700|v. 32 n. 1 (2015)|Notas de pesquisa|Conhecimento da comunidade local para a elaboração e implementação de programas intergeracionais
+https://rebep.org.br/revista/article/view/701|v. 32 n. 1 (2015)|Resenha|O futuro urbano nas economias emergentes
+https://rebep.org.br/revista/article/view/711|v. 32 n. 2 (2015)|Editorial|Nota da Editora
+https://rebep.org.br/revista/article/view/712|v. 32 n. 2 (2015)|Artigos originais|Comutação ampliada na Região Metropolitana de Belo Horizonte: evidências à mobilidade pendular inversa
+https://rebep.org.br/revista/article/view/713|v. 32 n. 2 (2015)|Artigos originais|As migrações nas cidades médias de Minas Gerais e seus impactos no crescimento e na composição por sexo e idade da população no período 1980-2010
+https://rebep.org.br/revista/article/view/714|v. 32 n. 2 (2015)|Artigos originais|Mobilidade cotidiana e as taxas de vitimização por acidentes de trânsito: o que é possível enxergar a partir dos dados censitários?
+https://rebep.org.br/revista/article/view/715|v. 32 n. 2 (2015)|Artigos originais|Mortalidade atribuível ao sobrepeso e à obesidade na Argentina: comparação entre 2005 e 2009
+https://rebep.org.br/revista/article/view/716|v. 32 n. 2 (2015)|Artigos originais|Epidemia de sarampo e trabalho escravo no Grão-Pará (1748-1778)
+https://rebep.org.br/revista/article/view/717|v. 32 n. 2 (2015)|Artigos originais|Uma análise da pobreza multidimensional do Nordeste metropolitano com uso de modelo de equações estruturais
+https://rebep.org.br/revista/article/view/718|v. 32 n. 2 (2015)|Artigos originais|Mundos distintos e realidades semelhantes: empregabilidade dos jovens no Nordeste e Sudeste brasileiros
+https://rebep.org.br/revista/article/view/719|v. 32 n. 2 (2015)|Artigos originais|A demografia ambiental e a emergência dos estudos sobre população e consumo
+https://rebep.org.br/revista/article/view/720|v. 32 n. 2 (2015)|Ponto de Vista|Sobre resenhas científicas
+https://rebep.org.br/revista/article/view/721|v. 32 n. 2 (2015)|Notas de pesquisa|Nascimentos não planejados no Brasil eram 46% em 2006. Diminuíram?
+https://rebep.org.br/revista/article/view/722|v. 32 n. 2 (2015)|Notas de pesquisa|30 anos de DHS: o que andamos pesquisando sobre fecundidade no Brasil
+https://rebep.org.br/revista/article/view/723|v. 32 n. 2 (2015)|Resenha|O futuro da dinâmica demográfica: rupturas ou continuidades?
+https://rebep.org.br/revista/article/view/734|v. 32 n. 3 (2015)|Editorial|Nota da Editora
+https://rebep.org.br/revista/article/view/735|v. 32 n. 3 (2015)|Editorial|Nota Editoral Temática - GT População, Espaço e Ambiente: 25 anos abrindo novas fronteiras do conhecimento
+https://rebep.org.br/revista/article/view/736|v. 32 n. 3 (2015)|Artigos originais|Economia, sociedade e meio ambiente no século 21: tripé ou trilema da sustentabilidade?
+https://rebep.org.br/revista/article/view/738|v. 32 n. 3 (2015)|Artigos originais|Transições populacionais e mudança de temperatura em Minas Gerais, Brasil: uma abordagem multidimensional
+https://rebep.org.br/revista/article/view/739|v. 32 n. 3 (2015)|Artigos originais|Projeção da mortalidade e internações hospitalares na rede pública de saúde atribuíveis à poluição atmosférica no Estado de São Paulo entre 2012 e 2030
+https://rebep.org.br/revista/article/view/740|v. 32 n. 3 (2015)|Artigos originais|Simulação da quantidade máxima de domicílios permitida por quadras em Belo Horizonte
+https://rebep.org.br/revista/article/view/743|v. 32 n. 3 (2015)|Artigos originais|Impactos de desastres socioambientais em saúde pública: estudos dos casos dos Estados de Santa Catarina em 2008 e Pernambuco em 2010
+https://rebep.org.br/revista/article/view/744|v. 32 n. 3 (2015)|Artigos originais|Distribuição da população e cobertura da terra: o lugar das Áreas Protegidas no Pará, Brasil em 2010
+https://rebep.org.br/revista/article/view/745|v. 32 n. 3 (2015)|Ponto de Vista|Os 70 anos da ONU e a agenda global para o segundo quindênio (2015-2030) do século XXI
+https://rebep.org.br/revista/article/view/746|v. 32 n. 3 (2015)|Ponto de Vista|Sustentabilidad y equidad: reflexiones en torno a la agenda latinoamericana post 2015
+https://rebep.org.br/revista/article/view/747|v. 32 n. 3 (2015)|Ponto de Vista|About mitigation, adaptation and the UNFCCC’s 21st Conference of the Parties
+https://rebep.org.br/revista/article/view/748|v. 32 n. 3 (2015)|Notas de pesquisa|Mudanças climáticas e mitigação no setor florestal: REDD+, políticas nacionais e desenvolvimento sustentável local na Amazônia Legal
+https://rebep.org.br/revista/article/view/749|v. 32 n. 3 (2015)|Resenha|Reviving or interring global governance on sustainability? Sachs, the UN and the SDGs
+https://rebep.org.br/revista/article/view/750|v. 32 n. 3 (2015)|Divulgação de livros|A experiência vivida junto ao livro Habitar em risco
+https://rebep.org.br/revista/article/view/756|v. 33 n. 3 (2016)|Artigos originais|Um estudo sobre os aspectos da dinâmica migratória internacional entre a microrregião de Governador Valadares e os Estados Unidos, 2000-2010
+https://rebep.org.br/revista/article/view/764|v. 33 n. 3 (2016)|Artigos originais|Análise de paradados do Censo Demográfico 2010: uma investigação de fatores associados a erros não amostrais do levantamento de dados
+https://rebep.org.br/revista/article/view/770|v. 33 n. 3 (2016)|Artigos originais|Envelhecimento populacional e gastos com internação do SUS: uma análise realizada para o Brasil entre 2000 e 2010
+https://rebep.org.br/revista/article/view/779|v. 33 n. 3 (2016)|Artigos originais|Estimativa de taxas de mortalidade por idade e sexo para pequenas áreas com regressão de TOPALS: uma aplicação para o Brasil em 2010
+https://rebep.org.br/revista/article/view/794|v. 33 n. 3 (2016)|Artigos originais|Custos da ampliação da licença-paternidade no Brasil
+https://rebep.org.br/revista/article/view/809|v. 33 n. 1 (2016)|Editorial|Transformações e descompassos
+https://rebep.org.br/revista/article/view/810|v. 33 n. 1 (2016)|Artigos originais|Disponibilidade de irmãos no Brasil: um estudo metodológico sobre relações de parentesco
+https://rebep.org.br/revista/article/view/811|v. 33 n. 1 (2016)|Artigos originais|Trajetórias de local de moradia, estudo e trabalho dos jovens brasileiros entre 2003 e 2011: uma análise de entropia
+https://rebep.org.br/revista/article/view/812|v. 33 n. 1 (2016)|Artigos originais|Características socioeconômicas e culturais das uniões consensuais no Brasil
+https://rebep.org.br/revista/article/view/813|v. 33 n. 1 (2016)|Artigos originais|Relação entre tamanho e estrutura da rede de apoio e o tempo individual dedicado à atenção ao idoso na cidade de São Paulo, 2000
+https://rebep.org.br/revista/article/view/814|v. 33 n. 1 (2016)|Artigos originais|Aglomerações urbanas e mobilidade populacional: o caso da Região Metropolitana de Campinas
+https://rebep.org.br/revista/article/view/815|v. 33 n. 1 (2016)|Artigos originais|A imigração brasileira na França: do tipo histórico às modalidades migratórias contemporâneas
+https://rebep.org.br/revista/article/view/816|v. 33 n. 1 (2016)|Artigos originais|Comparação de métodos para o tratamento das medidas antropométricas da POF 2008-2009
+https://rebep.org.br/revista/article/view/817|v. 33 n. 1 (2016)|Notas de pesquisa|Aterros sanitários para geração de energia elétrica a partir da produção de biogás no Brasil: comparação dos modelos LandGEM (EPA) e Biogás (Cetesb)
+https://rebep.org.br/revista/article/view/818|v. 33 n. 1 (2016)|Notas de pesquisa|Qualidade das informações sobre fecundidade no Censo Demográfico de 2010
+https://rebep.org.br/revista/article/view/820|v. 33 n. 1 (2016)|Resenha|Uma agenda inacabada: monitorando os avanços e desafios dos direitos reprodutivos
+https://rebep.org.br/revista/article/view/822|v. 33 n. 3 (2016)|Artigos originais|Chegou a hora de usar indicadores ajustados para estudar a fecundidade na América Latina?
+https://rebep.org.br/revista/article/view/826|v. 33 n. 3 (2016)|Artigos originais|Bolsa Família e assimetrias de gênero: reforço ou mitigação?
+https://rebep.org.br/revista/article/view/837|v. 34 n. 1 (2017)|Artigos originais|Os fluxos migratórios mistos e os entraves à proteção aos refugiados
+https://rebep.org.br/revista/article/view/847|v. 33 n. 3 (2016)|Artigos originais|Risco de comprometimento cognitivo em pessoas idosas nas sub-regiões de Antioquia, Colômbia
+https://rebep.org.br/revista/article/view/870|v. 34 n. 1 (2017)|Artigos originais|Barreiras fronteiriças contra o princípio de non-refoulement: a inacessibilidade do território e da determinação do status de refugiado
+https://rebep.org.br/revista/article/view/873|v. 34 n. 1 (2017)|Artigos originais|Imigração e redes de acolhimento: o caso dos haitianos no Brasil
+https://rebep.org.br/revista/article/view/886|v. 34 n. 1 (2017)|Artigos originais|A geodinâmica recente da migração haitiana nas Américas: refugiados ou migrantes econômicos?
+https://rebep.org.br/revista/article/view/887|v. 34 n. 1 (2017)|Artigos originais|Migração de Crise: a migração haitiana para o Brasil
+https://rebep.org.br/revista/article/view/889|v. 34 n. 1 (2017)|Resenha|Desafios teórico-metodológicos para a interpretação da migração internacional na sociedade contemporânea
+https://rebep.org.br/revista/article/view/890|v. 34 n. 2 (2017)|Artigos originais|Qualidade de vida relacionada à saúde dos cuidadores formais de idosos institucionalizados em Natal, Rio Grande do Norte
+https://rebep.org.br/revista/article/view/897|v. 33 n. 3 (2016)|Resenha|Relações Raciais nas Famílias Brasileiras
+https://rebep.org.br/revista/article/view/910|v. 33 n. 2 (2016)|Artigos originais|À espera da seca que vem: capacidade adaptativa em comunidades rurais do semiárido
+https://rebep.org.br/revista/article/view/917|v. 34 n. 1 (2017)|Ponto de Vista|O fenômeno dos refugiados no mundo e o atual cenário complexo das migrações forçadas
+https://rebep.org.br/revista/article/view/927|v. 33 n. 3 (2016)|Artigos originais|Tábuas de mortalidade para a população brasileira de segurados
+https://rebep.org.br/revista/article/view/928|v. 34 n. 2 (2017)|Artigos originais|Participação no setor não agrícola no México rural: uma perspectiva de gênero
+https://rebep.org.br/revista/article/view/935|v. 33 n. 2 (2016)|Artigos originais|Estrutura social e desigualdade de renda: uma comparação entre os municípios metropolitanos e os não metropolitanos do Brasil entre 2000 e 2010
+https://rebep.org.br/revista/article/view/936|v. 33 n. 2 (2016)|Artigos originais|Evidências da relação entre a frequência no ensino infantil e o desempenho dos alunos do ensino fundamental público no Brasil
+https://rebep.org.br/revista/article/view/937|v. 33 n. 2 (2016)|Dossiê|Dinâmica demográfica da população indígena em áreas urbanas: o caso da cidade de Altamira, Pará
+https://rebep.org.br/revista/article/view/938|v. 33 n. 2 (2016)|Dossiê|Demografia e antropologia em contraponto: os Enawene-Nawe e suas derivas matrimoniais
+https://rebep.org.br/revista/article/view/939|v. 33 n. 2 (2016)|Notas de pesquisa|Avanços na captação de dados sobre a população indígena no Censo Demográfico 2010
+https://rebep.org.br/revista/article/view/944|v. 33 n. 2 (2016)|Ponto de Vista|Censos nacionais e perspectivas políticas para as línguas brasileiras
+https://rebep.org.br/revista/article/view/960|v. 33 n. 2 (2016)|Dossiê|Os indígenas Xavante no Censo Demográfico de 2010
+https://rebep.org.br/revista/article/view/961|v. 33 n. 2 (2016)|Dossiê|Tendências da fecundidade dos povos indígenas nos Censos Demográficos brasileiros de 1991 a 2010
+https://rebep.org.br/revista/article/view/962|v. 33 n. 2 (2016)|Ponto de Vista|Demografia dos povos indígenas: os Censos Demográficos como ponto de vista
+https://rebep.org.br/revista/article/view/963|v. 33 n. 2 (2016)|Resenha|The Xavante in perspective: anthropology and history in the study of indigenous populations
+https://rebep.org.br/revista/article/view/964|v. 33 n. 2 (2016)|Resenha|La construcción de poblaciones utilizando los censos de población en Latinoamérica
+https://rebep.org.br/revista/article/view/968|v. 33 n. 2 (2016)|Dossiê|Nupcialidade indígena: possibilidades e limitações de análise utilizando os dados do Censo Demográfico de 2010
+https://rebep.org.br/revista/article/view/970|v. 33 n. 2 (2016)|Editorial|Dados e mais dados para “não deixar ninguém para trás”
+https://rebep.org.br/revista/article/view/971|v. 33 n. 2 (2016)|Editorial|Prólogo ao dossiê “Demografia dos povos indígenas no Brasil: abordagens socioantropológicas”
+https://rebep.org.br/revista/article/view/983|v. 34 n. 3 (2017)|Artigos originais|As famílias de povoadores em áreas de fronteira da Capitania de São Paulo na segunda metade do século XVIII
+https://rebep.org.br/revista/article/view/985|v. 33 n. 3 (2016)|Artigos originais|Transformações e tendências do mercado de trabalho no Brasil entre 2001 e 2015: paradoxo do baixo desemprego?
+https://rebep.org.br/revista/article/view/986|v. 33 n. 3 (2016)|Editorial|O papel de editores de revistas de associações científicas
+https://rebep.org.br/revista/article/view/992|v. 34 n. 2 (2017)|Artigos originais|Diferencial de ganhos entre migrantes e não migrantes em Minas Gerais
+https://rebep.org.br/revista/article/view/1001|v. 34 n. 2 (2017)|Artigos originais|Mobilidade pendular e a integração metropolitana: uma proposta metodológica para os municípios da Região Metropolitana de Belo Horizonte/MG – 2010
+https://rebep.org.br/revista/article/view/1003|v. 34 n. 3 (2017)|Artigos originais|Minas contada em números – A capitania de Minas Gerais e as fontes demográficas (1776-1821)
+https://rebep.org.br/revista/article/view/1004|v. 34 n. 3 (2017)|Notas de pesquisa|Além do Centro-Sul: por uma história da população colonial nos extremos dos domínios portugueses na América (projeto integrado)
+https://rebep.org.br/revista/article/view/1006|v. 34 n. 3 (2017)|Artigos originais|Livres, libertos e escravos na história da população de Santa Catarina, 1787-1836
+https://rebep.org.br/revista/article/view/1009|v. 34 n. 3 (2017)|Artigos originais|No âmago da africanização: pessoas negras e de cor nos mapas populacionais do Maranhão colonial (1798-1821)
+https://rebep.org.br/revista/article/view/1012|v. 34 n. 3 (2017)|Artigos originais|Um estudo preliminar da demografia do Rio Grande do Norte colonial: fontes, métodos e resultados
+https://rebep.org.br/revista/article/view/1016|v. 34 n. 3 (2017)|Artigos originais|Estimativas de mortalidade para o Rio Grande do Norte em um contexto de pré-transição demográfica
+https://rebep.org.br/revista/article/view/1017|v. 34 n. 3 (2017)|Artigos originais|Os mapas da população no Estado do Grão Pará: consolidação de uma população colonial na segunda metade do século XVIII
+https://rebep.org.br/revista/article/view/1020|v. 34 n. 3 (2017)|Notas de pesquisa|Imaginar, contar e descrever as populações coloniais portuguesas, 1776-1875: notas de uma pesquisa em curso
+https://rebep.org.br/revista/article/view/1027|v. 34 n. 3 (2017)|Resenha|Pelos caminhos passados e futuros da Demografia Histórica
+https://rebep.org.br/revista/article/view/1028|v. 34 n. 2 (2017)|Artigos originais|Do mito malthusiano ao das relações recíprocas – a constituição interdisciplinar do campo de População e Ambiente
+https://rebep.org.br/revista/article/view/1030|v. 34 n. 3 (2017)|Artigos originais|Campinas, uma vila colonial (1774-1822)
+https://rebep.org.br/revista/article/view/1031|v. 34 n. 3 (2017)|Artigos originais|A população do Rio Grande de São Pedro pelos mapas populacionais de 1780 a 1810
+https://rebep.org.br/revista/article/view/1034|v. 34 n. 2 (2017)|Artigos originais|Demografia, planejamento territorial e a questão habitacional: prognóstico da situação habitacional do Litoral Norte Paulista
+https://rebep.org.br/revista/article/view/1049|v. 34 n. 2 (2017)|Notas de pesquisa|Baixada Fluminense como vazio demográfico? População e território no antigo município de Iguaçu (1890/1910)
+https://rebep.org.br/revista/article/view/1050|v. 34 n. 1 (2017)|Artigos originais|A nova crise dos refugiados na Europa: o modelo de repulsão-atração revisitado e os desafios para as políticas migratórias
+https://rebep.org.br/revista/article/view/1055|v. 34 n. 1 (2017)|Artigos originais|O visto humanitário como resposta ao pedido de refúgio dos haitianos
+https://rebep.org.br/revista/article/view/1073|v. 34 n. 2 (2017)|Artigos originais|Composição demográfica domiciliar e dinâmica do uso do solo em Machadinho d’Oeste, Rondônia: evidências baseadas nos estágios iniciais da fronteira
+https://rebep.org.br/revista/article/view/1075|v. 34 n. 2 (2017)|Artigos originais|Casamentos mistos: entre a escravidão e a liberdade Franca-São Paulo/Brasil, século XIX
+https://rebep.org.br/revista/article/view/1076|v. 34 n. 1 (2017)|Resenha|Identidades em construção
+https://rebep.org.br/revista/article/view/1082|v. 34 n. 1 (2017)|Ponto de Vista|Nova lei brasileira de migração: avanços, desafios e ameaças
+https://rebep.org.br/revista/article/view/1083|v. 35 n. 2 (2018)|Artigos originais|O envelhecer e a morte: leituras contemporâneas de psicologia social
+https://rebep.org.br/revista/article/view/1086|v. 34 n. 2 (2017)|Artigos originais|O melting pot venezuelano: 1500-1800
+https://rebep.org.br/revista/article/view/1096|v. 34 n. 1 (2017)|Editorial|Nota da Editora
+https://rebep.org.br/revista/article/view/1097|v. 34 n. 1 (2017)|Editorial|Nota Editorial Temática
+https://rebep.org.br/revista/article/view/1102|v. 35 n. 3 (2018): Revista|Ponto de Vista|Vale a pena manter as perguntas sobre ex-moradores residindo no exterior nos censos demográficos?
+https://rebep.org.br/revista/article/view/1103|v. 35 n. 3 (2018): Revista|Artigos originais|Perfil sociodemográfico e distribuição territorial dos russos em São Paulo: deslocados de guerra da Europa e refugiados da China após a Segunda Guerra Mundial
+https://rebep.org.br/revista/article/view/1106|v. 35 n. 3 (2018): Revista|Artigos originais|Concentração intraurbana de população e empregos: os centros antigos das cidades brasileiras perderam primazia?
+https://rebep.org.br/revista/article/view/1113|v. 35 n. 1 (2018)|Artigos originais|Modelando os determinantes próximos da fecundidade para o Brasil: o advento das preferências competitivas
+https://rebep.org.br/revista/article/view/1130|v. 35 n. 3 (2018): Revista|Artigos originais|Determinantes do emprego secundário e informalidade: evidências adicionais para o mercado de trabalho brasileiro
+https://rebep.org.br/revista/article/view/1136|v. 35 n. 1 (2018)|Artigos originais|Alice no País das Maravilhas: fecundidade não realizada e satisfação com o número de filhos tidos de acordo com o ponto de vista dos casais em uma cidade do Brasil
+https://rebep.org.br/revista/article/view/1140|v. 35 n. 2 (2018)|Artigos originais|Quais são os efeitos do envelhecimento populacional nos sistemas previdenciários de Brasil, Espanha e França?
+https://rebep.org.br/revista/article/view/1147|v. 35 n. 3 (2018): Revista|Artigos originais|Capital social e assimilação ocupacional de migrantes internos no Peru
+https://rebep.org.br/revista/article/view/1150|v. 35 n. 2 (2018)|Artigos originais|Mortalidade relacionada ao consumo de álcool e seu impacto na expectativa de vida da população do noroeste argentino, 2011
+https://rebep.org.br/revista/article/view/1152|v. 35 n. 2 (2018)|Artigos originais|Decomposição das taxas de mortalidade por doenças cardiovasculares na população adulta: um estudo para as microrregiões brasileiras entre 1996 e 2015
+https://rebep.org.br/revista/article/view/1160|v. 34 n. 3 (2017)|Editorial|Nota da Editora
+https://rebep.org.br/revista/article/view/1161|v. 34 n. 3 (2017)|Editorial|Nota Editorial Temática
+https://rebep.org.br/revista/article/view/1170|v. 35 n. 2 (2018)|Ponto de Vista|¿Es relevante incorporar la medición de la mortalidad en los censos de América Latina y el Caribe?
+https://rebep.org.br/revista/article/view/1172|v. 35 n. 3 (2018): Revista|Artigos de revisão|Mulheres imigrantes: presença e ocultamento (interiores de São Paulo, 1880-1930)
+https://rebep.org.br/revista/article/view/1174|v. 35 n. 1 (2018)|Artigos originais|Uma análise da escolha do curso superior no Brasil
+https://rebep.org.br/revista/article/view/1180|v. 35 n. 1 (2018)|Artigos originais|Há convergência da fecundidade no Brasil e na Argentina? Um enfoque em desigualdades
+https://rebep.org.br/revista/article/view/1181|v. 35 n. 1 (2018)|Ponto de Vista|A importância da informação estatística para as políticas sociais no Brasil: breve reflexão sobre a experiência do passado para considerar no presente
+https://rebep.org.br/revista/article/view/1189|v. 35 n. 1 (2018)|Artigos originais|Aplicação da técnica P/F de Brass em um contexto de rápida queda da fecundidade adolescente
+https://rebep.org.br/revista/article/view/1215|v. 35 n. 3 (2018): Revista|Artigos originais|Análise e previsão demográfica utilizando-se matrizes de crescimento e distribuição populacional intermunicipal
+https://rebep.org.br/revista/article/view/1219|v. 35 n. 2 (2018)|Notas de pesquisa|Violência urbana e política pública de prevenção: avaliação do Programa Fica Vivo! no estado de Minas Gerais, Brasil
+https://rebep.org.br/revista/article/view/1220|v. 35 n. 2 (2018)|Artigos originais|Comparação dos diferentes métodos de avaliação da segurança alimentar e nutricional domiciliar na zona rural de uma cidade brasileira
+https://rebep.org.br/revista/article/view/1242|v. 35 n. 1 (2018)|Artigos originais|Sexo da criança e estrutura domiciliar no Brasil: viés dos pais e dos avós?
+https://rebep.org.br/revista/article/view/1243|v. 35 n. 3 (2018): Revista|Nota técnica|Os indígenas nos censos demográficos brasileiros pré-1991
+https://rebep.org.br/revista/article/view/1252|v. 35 n. 3 (2018): Revista|Artigos originais|Os processos de urbanização e conversão florestal na Amazônia paraense – um estudo multiescalar
+https://rebep.org.br/revista/article/view/1254|v. 36 (2019): Revista|Artigos originais|Imigração internacional: uma alternativa para os impactos das mudanças demográficas no Brasil?
+https://rebep.org.br/revista/article/view/1255|v. 35 n. 3 (2018): Revista|Artigos originais|Migrações internacionais no Brasil no período 2005-2010, com ênfase nos efeitos diretos e indiretos da imigração de retorno dos brasileiros
+https://rebep.org.br/revista/article/view/1265|v. 35 n. 1 (2018)|Notas de pesquisa|Métodos para estimação da subenumeração do grupo etário de 0 a 4 anos no Censo Demográfico brasileiro de 2000
+https://rebep.org.br/revista/article/view/1271|v. 35 n. 2 (2018)|Artigos originais|Envelhecimento populacional e gastos com saúde: uma análise das transferências intergeracionais e intrageracionais na saúde suplementar brasileira
+https://rebep.org.br/revista/article/view/1280|v. 35 n. 1 (2018)|Artigos originais|Tendências na alocação do tempo no Brasil: trabalho e lazer
+https://rebep.org.br/revista/article/view/1286|v. 35 n. 1 (2018)|Artigos originais|Os arranjos familiares importam no momento de decidir em qual rede de ensino matricular os filhos?
+https://rebep.org.br/revista/article/view/1289|v. 35 n. 3 (2018): Revista|Resenha|Novos elementos teórico-metodológicos para os estudos migratórios em fronteira
+https://rebep.org.br/revista/article/view/1295|v. 35 n. 3 (2018): Revista|Notas de pesquisa|Rumo à América: passageiros da rota Hamburgo–São Francisco do Sul na segunda metade dos Oitocentos
+https://rebep.org.br/revista/article/view/1299|v. 35 n. 2 (2018)|Artigos originais|Diferenciais de mortalidade em um hospital filantrópico: a Santa Casa de Misericórdia de Campinas (1876-1885)
+https://rebep.org.br/revista/article/view/1303|v. 36 (2019): Revista|Artigos de revisão|Ouvindo silêncios: Daniel Hogan, o mundo rural e a natureza
+https://rebep.org.br/revista/article/view/1307|v. 36 (2019): Revista|Artigos originais|A letalidade dos acidentes de trânsito nas rodovias federais brasileiras
+https://rebep.org.br/revista/article/view/1317|v. 36 (2019): Revista|Artigos originais|Desordem na governança global e o caos nas mudanças climáticas
+https://rebep.org.br/revista/article/view/1328|v. 36 (2019): Revista|Artigos originais|Um espaço, dois momentos epidêmicos: surtos de febre amarela (1896-1897) e de gripe (1918-1919) em Campinas, estado de São Paulo
+https://rebep.org.br/revista/article/view/1339|v. 36 (2019): Revista|Artigos originais|Background familiar e desempenho escolar: uma abordagem com variáveis binárias a partir dos resultados do Saresp
+https://rebep.org.br/revista/article/view/1349|v. 36 (2019): Revista|Artigos originais|O fluxo imigratório do distrito do Porto para o estado do Pará: borracha, conflitos, epidemias e gênero (1834-1930)
+https://rebep.org.br/revista/article/view/1351|v. 36 (2019): Revista|Artigos originais|Estruturas invisíveis de segregação na Região Metropolitana de Goiânia
+https://rebep.org.br/revista/article/view/1352|v. 36 (2019): Revista|Artigos originais|Os fluxos migratórios entre os níveis da hierarquia urbana brasileira no período 1980-2010
+https://rebep.org.br/revista/article/view/1354|v. 36 (2019): Revista|Artigos originais|“Quem leva a pior?” Nordestinos e bolivianos no mercado de trabalho paulista
+https://rebep.org.br/revista/article/view/1357|v. 35 n. 2 (2018)|Editorial|Nota da Editora
+https://rebep.org.br/revista/article/view/1358|v. 35 n. 3 (2018): Revista|Editorial|Nota Editorial
+https://rebep.org.br/revista/article/view/1359|v. 35 n. 1 (2018)|Editorial|Nota da Editora
+https://rebep.org.br/revista/article/view/1362|v. 36 (2019): Revista|Artigos originais|Análise da secularização no Brasil
+https://rebep.org.br/revista/article/view/1364|v. 36 (2019): Revista|Artigos originais|Baixa fecundidade e adiamento do primeiro filho no Brasil
+https://rebep.org.br/revista/article/view/1373|v. 36 (2019): Revista|Artigos originais|Sírios e libaneses no oeste paulista – décadas de 1880 a 1950
+https://rebep.org.br/revista/article/view/1380|v. 36 (2019): Revista|Artigos originais|Estimação indireta da mortalidade infantil em pequenas áreas
+https://rebep.org.br/revista/article/view/1382|v. 36 (2019): Revista|Artigos originais|Empregadas domésticas e cuidadoras profissionais: compartilhando as fronteiras da precariedade
+https://rebep.org.br/revista/article/view/1389|v. 36 (2019): Revista|Artigos originais|Fluidez racial na Região Metropolitana de Belo Horizonte: características individuais e contexto local na construção da raça
+https://rebep.org.br/revista/article/view/1418|v. 36 (2019): Revista|Artigos originais|A penalidade pela maternidade: participação e qualidade da inserção no mercado de trabalho das mulheres com filhos
+https://rebep.org.br/revista/article/view/1432|v. 36 (2019): Revista|Artigos originais|Estudo comparativo das estruturas ocupacionais urbanas: Brasil e Estados Unidos
+https://rebep.org.br/revista/article/view/1435|v. 36 (2019): Revista|Resenha|Entre o ideal e o real: percepções e práticas acerca da divisão de atividades domésticas e de cuidados no Brasil
+https://rebep.org.br/revista/article/view/1443|v. 36 (2019): Revista|Artigos originais|Funções modelo de migração: limites e aplicações
+https://rebep.org.br/revista/article/view/1450|v. 36 (2019): Revista|Artigos originais|Diferenciais de mortalidade por sexo no município de São Paulo em 2005 e 2016: contribuição dos grupos etários e das principais causas de óbito
+https://rebep.org.br/revista/article/view/1458|v. 36 (2019): Revista|Artigos originais|Análise da linha de cuidado para pacientes com diabetes mellitus e hipertensão arterial: a experiência de um município de pequeno porte no Brasil
+https://rebep.org.br/revista/article/view/1461|v. 36 (2019): Revista|Artigos originais|A transição da fecundidade no Brasil ao longo do século XX – uma perspectiva regional
+https://rebep.org.br/revista/article/view/1462|v. 36 (2019): Revista|Artigos originais|Padrões recentes de inserção e mobilidade no trabalho doméstico no Brasil metropolitano: descontinuidades e persistências
+https://rebep.org.br/revista/article/view/1464|v. 36 (2019): Revista|Artigos originais|Qualidade dos registros de óbitos e estimativas de mortalidade adulta no Suriname e regiões
+https://rebep.org.br/revista/article/view/1473|v. 36 (2019): Revista|Nota técnica|Os 25 anos da CIPD: Terra inabitável e o grito da juventude
+https://rebep.org.br/revista/article/view/1474|v. 36 (2019): Revista|Artigos originais|O mix contraceptivo eternamente obsoleto no Brasil e seu legado.
+https://rebep.org.br/revista/article/view/1479|v. 36 (2019): Revista|Ponto de Vista|Palco e bastidores da Conferência Internacional sobre População e Desenvolvimento
+https://rebep.org.br/revista/article/view/1490|v. 36 (2019): Revista|Resenha|Vidas em movimento: da consideração à ética da diferença
+https://rebep.org.br/revista/article/view/1492|v. 36 (2019): Revista|Resenha|Desafios enfrentados pelos regimes de previdência no Brasil: o papel das premissas atuariais nos RPPS municipais
+https://rebep.org.br/revista/article/view/1500|v. 36 (2019): Revista|Ponto de Vista|O Cairo pela metade
+https://rebep.org.br/revista/article/view/1501|v. 36 (2019): Revista|Ponto de Vista|Do Cairo à Nairóbi: 25 anos da agenda de população e desenvolvimento no Brasil
+https://rebep.org.br/revista/article/view/1543|v. 36 (2019): Revista|Editorial|Nota da Editora

@@ -1,0 +1,1505 @@
+link|autor
+https://rebep.org.br/revista/article/view/2|Neide Lopes Patarra
+https://rebep.org.br/revista/article/view/3|Donald R. Saywer
+https://rebep.org.br/revista/article/view/4|Elza Berquó
+https://rebep.org.br/revista/article/view/4|Maria Andréa Loyola
+https://rebep.org.br/revista/article/view/5|George Martine
+https://rebep.org.br/revista/article/view/5|Liscio Camargo
+https://rebep.org.br/revista/article/view/6|Luis Patricio Ortiz
+https://rebep.org.br/revista/article/view/6|Lucia Mayumi Yazaki
+https://rebep.org.br/revista/article/view/7|Ralph Hakkert
+https://rebep.org.br/revista/article/view/8|Candido Procopio Ferreira de Camargo
+https://rebep.org.br/revista/article/view/9|IBGE DESPO
+https://rebep.org.br/revista/article/view/10|Suzana Cavenaghi
+https://rebep.org.br/revista/article/view/12|Tiago Augusto da Cunha
+https://rebep.org.br/revista/article/view/12|José Marcos Pinto da Cunha
+https://rebep.org.br/revista/article/view/12|Alberto Augusto Eichman Jakob
+https://rebep.org.br/revista/article/view/13|Eduardo Marandola Jr.
+https://rebep.org.br/revista/article/view/13|Cesar Marques
+https://rebep.org.br/revista/article/view/13|Luiz Tiago de Paula
+https://rebep.org.br/revista/article/view/13|Letícia Braga Cassaneli
+https://rebep.org.br/revista/article/view/14|Everton Emanuel Campos de Lima
+https://rebep.org.br/revista/article/view/14|Fernando Gomes Braga
+https://rebep.org.br/revista/article/view/15|Fausto Brito
+https://rebep.org.br/revista/article/view/16|Ricardo Alexandrino Garcia
+https://rebep.org.br/revista/article/view/17|José Manuel Morán Faúndes
+https://rebep.org.br/revista/article/view/20|Adriana de Miranda-Ribeiro
+https://rebep.org.br/revista/article/view/20|Eduardo Luiz Gonçalves Rios-Neto
+https://rebep.org.br/revista/article/view/20|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/21|Maria Carolina Tomás
+https://rebep.org.br/revista/article/view/22|Gustavo Henrique Naves Givisiez
+https://rebep.org.br/revista/article/view/22|Elzira Lúcia de Oliveira
+https://rebep.org.br/revista/article/view/23|João Batista Pamplona
+https://rebep.org.br/revista/article/view/24|Aline Nogueira Menezes Mourão
+https://rebep.org.br/revista/article/view/24|Mariana Eugenio Almeida
+https://rebep.org.br/revista/article/view/24|Ernesto Friedrich de Lima Amaral
+https://rebep.org.br/revista/article/view/25|James R. Hull
+https://rebep.org.br/revista/article/view/25|Gilvan Guedes
+https://rebep.org.br/revista/article/view/26|Pedro Herculano Guimarães Ferreira de Souza
+https://rebep.org.br/revista/article/view/27|João Carlos Tedesco
+https://rebep.org.br/revista/article/view/27|Denize Grzybovski
+https://rebep.org.br/revista/article/view/28|Susana Beatriz Adamo
+https://rebep.org.br/revista/article/view/29|Lúcia Avelar
+https://rebep.org.br/revista/article/view/30|Iuri da Costa Leite
+https://rebep.org.br/revista/article/view/30|Carla Jorge Machado
+https://rebep.org.br/revista/article/view/31|Bernardo Lanza Queiroz
+https://rebep.org.br/revista/article/view/31|Diana O. T. Sawyer
+https://rebep.org.br/revista/article/view/32|Tiago Henrique P. M. França
+https://rebep.org.br/revista/article/view/32|Eduardo Luis Gonçalves Rios-Neto
+https://rebep.org.br/revista/article/view/33|Flavia Pereira Xavier
+https://rebep.org.br/revista/article/view/33|Jorge Alexandre Barbosa Neves
+https://rebep.org.br/revista/article/view/34|Letícia J. Marteleto
+https://rebep.org.br/revista/article/view/34|Flavio Carvalhaes
+https://rebep.org.br/revista/article/view/34|Celia Hubert
+https://rebep.org.br/revista/article/view/35|Marco Túlio Aniceto França
+https://rebep.org.br/revista/article/view/35|Flávio de Oliveira Gonçalves
+https://rebep.org.br/revista/article/view/36|Jeronimo Oliveira Muniz
+https://rebep.org.br/revista/article/view/37|Talianne Rodrigues Santos
+https://rebep.org.br/revista/article/view/37|Windsor Ramos da Silva Júnior
+https://rebep.org.br/revista/article/view/37|Inácia Sátiro Xavier de França
+https://rebep.org.br/revista/article/view/37|Alessandro Leite Cavalcanti
+https://rebep.org.br/revista/article/view/37|Maria das Graças Melo Fernandes
+https://rebep.org.br/revista/article/view/38|Ana Cristina Ferreira
+https://rebep.org.br/revista/article/view/38|Madalena Ramos
+https://rebep.org.br/revista/article/view/39|Alessandra Sampaio Chacham
+https://rebep.org.br/revista/article/view/39|Mônica Bara Maia
+https://rebep.org.br/revista/article/view/39|Malco Braga Camargo
+https://rebep.org.br/revista/article/view/40|Rebeca de Souza e Silva
+https://rebep.org.br/revista/article/view/40|Solange Andreoni
+https://rebep.org.br/revista/article/view/41|Harley Silva
+https://rebep.org.br/revista/article/view/41|Alisson Flávio Barbieri
+https://rebep.org.br/revista/article/view/41|Roberto L. Monte-Mór
+https://rebep.org.br/revista/article/view/42|Ralfo Matos
+https://rebep.org.br/revista/article/view/43|Jeniffer Dantas Ferreira
+https://rebep.org.br/revista/article/view/43|Arnaldo Cézar Couto
+https://rebep.org.br/revista/article/view/43|Luciana Correia Alves
+https://rebep.org.br/revista/article/view/43|Maria do Socorro Pombo de Oliveira
+https://rebep.org.br/revista/article/view/43|Sergio Koifman
+https://rebep.org.br/revista/article/view/43|Membros do Brazilian Collaborative Study Group of Infant Acute Leukemia
+https://rebep.org.br/revista/article/view/44|Carla Jorge Machado
+https://rebep.org.br/revista/article/view/44|Mark Drew Crosland Guimarães
+https://rebep.org.br/revista/article/view/45|Fernando Machado Vilhena Dias
+https://rebep.org.br/revista/article/view/45|Ana Paula de Andrade Verona
+https://rebep.org.br/revista/article/view/45|Bárbara Avelar Gontijo
+https://rebep.org.br/revista/article/view/45|Bárbara Roberto Estanislau
+https://rebep.org.br/revista/article/view/45|Cláudio Santiago Dias Júnior
+https://rebep.org.br/revista/article/view/46|Adriane Mesquita de Medeiros
+https://rebep.org.br/revista/article/view/47|Oswaldo M. S. Truzzi
+https://rebep.org.br/revista/article/view/48|Ana Silvia Volpi Scott
+https://rebep.org.br/revista/article/view/49|Eduardo Marandola Jr.
+https://rebep.org.br/revista/article/view/49|Francine Modesto
+https://rebep.org.br/revista/article/view/50|Florencia Molinatti
+https://rebep.org.br/revista/article/view/50|Enrique Peláez
+https://rebep.org.br/revista/article/view/51|Grisell Rodríguez Gómez
+https://rebep.org.br/revista/article/view/52|Marília Patta Ramos
+https://rebep.org.br/revista/article/view/52|Silvio Cezar Arend
+https://rebep.org.br/revista/article/view/53|Josivan Ribeiro Justino
+https://rebep.org.br/revista/article/view/53|Flávio Henrique Miranda de Araújo Freire
+https://rebep.org.br/revista/article/view/53|Paulo Sérgio Lucio
+https://rebep.org.br/revista/article/view/54|Weber Soares
+https://rebep.org.br/revista/article/view/54|Dimitri Fazito
+https://rebep.org.br/revista/article/view/54|Sergio Donizete Faria
+https://rebep.org.br/revista/article/view/55|Gilberto Veras Caldeira
+https://rebep.org.br/revista/article/view/55|Giovanna Medeiros Rataichesck Fiates
+https://rebep.org.br/revista/article/view/55|Bethsáida de Abreu Soares Schmitz
+https://rebep.org.br/revista/article/view/55|Gabriela Dalsasso Ricardo
+https://rebep.org.br/revista/article/view/55|Francisco de Assis Guedes de Vasconcelos
+https://rebep.org.br/revista/article/view/56|Letícia Casado Costa
+https://rebep.org.br/revista/article/view/56|Luiz Claudio Santos Thuler
+https://rebep.org.br/revista/article/view/57|Ada Ávila Assunção
+https://rebep.org.br/revista/article/view/57|Ana Flávia Machado
+https://rebep.org.br/revista/article/view/57|Tânia Maria de Araújo
+https://rebep.org.br/revista/article/view/58|Oswaldo Mário Serra Truzzi
+https://rebep.org.br/revista/article/view/59|Siân L. Curtis
+https://rebep.org.br/revista/article/view/60|Antônio Leite Alves Radicchi
+https://rebep.org.br/revista/article/view/61|Douglas Cole Libby
+https://rebep.org.br/revista/article/view/61|Tarcísio R. Botelho
+https://rebep.org.br/revista/article/view/61|Cristiana Viegas de Andrade
+https://rebep.org.br/revista/article/view/62|Szilvia Simai
+https://rebep.org.br/revista/article/view/62|Rosana Baeninger
+https://rebep.org.br/revista/article/view/63|Flávia da Fonseca Feitosa
+https://rebep.org.br/revista/article/view/64|Maria Carolina Tomás
+https://rebep.org.br/revista/article/view/65|Ralfo Matos
+https://rebep.org.br/revista/article/view/66|Gavin W. Jones
+https://rebep.org.br/revista/article/view/67|Pamila Cristina Lima Siviero
+https://rebep.org.br/revista/article/view/67|Cássio Maldonado Turra
+https://rebep.org.br/revista/article/view/67|Roberto do Nascimento Rodrigues
+https://rebep.org.br/revista/article/view/68|Everton Emanuel Campos de Lima
+https://rebep.org.br/revista/article/view/68|Bernardo Lanza Queiroz
+https://rebep.org.br/revista/article/view/69|María Marta Santillán Pizarro
+https://rebep.org.br/revista/article/view/69|Eleonora Soledad Rojas Cabrera
+https://rebep.org.br/revista/article/view/69|Dora Estela Celton
+https://rebep.org.br/revista/article/view/69|Bruno Ribotta
+https://rebep.org.br/revista/article/view/70|Gilvan Ramalho Guedes
+https://rebep.org.br/revista/article/view/70|Pamila Cristina Lima Siviero
+https://rebep.org.br/revista/article/view/70|André Junqueira Caetano
+https://rebep.org.br/revista/article/view/70|Carla Jorge Machado
+https://rebep.org.br/revista/article/view/70|Eduardo Brondízio
+https://rebep.org.br/revista/article/view/71|Raquel Rangel de Meireles Guimarães
+https://rebep.org.br/revista/article/view/71|Eduardo Luiz Gonçalves Rios-Neto
+https://rebep.org.br/revista/article/view/72|Roberta de Moraes Rocha
+https://rebep.org.br/revista/article/view/72|André Matos Magalhães
+https://rebep.org.br/revista/article/view/73|Ricardo Ojima
+https://rebep.org.br/revista/article/view/74|Diogo de Carvalho Cabral
+https://rebep.org.br/revista/article/view/76|Pery Teixeira
+https://rebep.org.br/revista/article/view/76|Marília Brasil
+https://rebep.org.br/revista/article/view/76|Eliana Mesquita da Silva
+https://rebep.org.br/revista/article/view/77|Gerson Luiz Marinho
+https://rebep.org.br/revista/article/view/77|Ricardo Ventura Santos
+https://rebep.org.br/revista/article/view/77|Nilza de Oliveira Martins Pereira
+https://rebep.org.br/revista/article/view/78|Ernesto Friedrich de Lima Amaral
+https://rebep.org.br/revista/article/view/79|Gilvan Ramalho Guedes
+https://rebep.org.br/revista/article/view/79|Pamila Cristina Lima Siviero
+https://rebep.org.br/revista/article/view/79|Carla Jorge Machado
+https://rebep.org.br/revista/article/view/80|Thais Tartalha do Nascimento Lombardi
+https://rebep.org.br/revista/article/view/81|Paula Miranda-Ribeiro
+https://rebep.org.br/revista/article/view/82|Luiz Antonio Pinto de Oliveira
+https://rebep.org.br/revista/article/view/83|Clarissa Guimarães Rodrigues
+https://rebep.org.br/revista/article/view/83|Eduardo Luiz Gonçalves Rios-Neto
+https://rebep.org.br/revista/article/view/83|Cristine Campos de Xavier Pinto
+https://rebep.org.br/revista/article/view/84|Izabel Guimarães Marri
+https://rebep.org.br/revista/article/view/84|Simone Wajnman
+https://rebep.org.br/revista/article/view/84|Mônica Viegas Andrade
+https://rebep.org.br/revista/article/view/85|Laetícia Rodrigues de Souza
+https://rebep.org.br/revista/article/view/85|Eduardo Luiz Gonçalves Rios-Neto
+https://rebep.org.br/revista/article/view/85|Bernardo Lanza Queiroz
+https://rebep.org.br/revista/article/view/86|Carlos Lobo
+https://rebep.org.br/revista/article/view/86|Ralfo Matos
+https://rebep.org.br/revista/article/view/87|Marcos Leandro Mondardo
+https://rebep.org.br/revista/article/view/88|Renilson Rodrigues da Silva
+https://rebep.org.br/revista/article/view/88|Carlos José Caetano Bacha
+https://rebep.org.br/revista/article/view/89|Rosa Moura
+https://rebep.org.br/revista/article/view/89|Sachiko Araki Lira
+https://rebep.org.br/revista/article/view/90|Marcos Vinicius Sanches Abreu
+https://rebep.org.br/revista/article/view/90|Julio Cesar de Oliveira
+https://rebep.org.br/revista/article/view/90|Viviane Delfino Albuquerque Andrade
+https://rebep.org.br/revista/article/view/90|Anderson Donizete Meira
+https://rebep.org.br/revista/article/view/91|Ana Paula de Andrade Verona
+https://rebep.org.br/revista/article/view/92|Serafim Adriano Alberto
+https://rebep.org.br/revista/article/view/92|Luciana C. de Lima
+https://rebep.org.br/revista/article/view/92|Roberto Nascimento Rodrigues
+https://rebep.org.br/revista/article/view/92|Carla Jorge Machado
+https://rebep.org.br/revista/article/view/93|Mirela Castro Santos Camargos
+https://rebep.org.br/revista/article/view/93|Roberto Nascimento Rodrigues
+https://rebep.org.br/revista/article/view/93|Carla Jorge Machado
+https://rebep.org.br/revista/article/view/94|Gilvan Ramalho Guedes
+https://rebep.org.br/revista/article/view/94|Bernardo Lanza Queiroz
+https://rebep.org.br/revista/article/view/94|Alisson Flávio Barbieri
+https://rebep.org.br/revista/article/view/94|Leah Karin VanWey
+https://rebep.org.br/revista/article/view/95|Maria Carolina Tomás
+https://rebep.org.br/revista/article/view/96|Eduardo Marandola Jr.
+https://rebep.org.br/revista/article/view/97|Ricardo Ojima
+https://rebep.org.br/revista/article/view/98|Álvaro de Oliveira D’Antona
+https://rebep.org.br/revista/article/view/99|Roberto Nascimento Rodrigues
+https://rebep.org.br/revista/article/view/100|Douglas Sathler
+https://rebep.org.br/revista/article/view/100|Roberto L. Monte-Mór
+https://rebep.org.br/revista/article/view/100|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/100|Alfredo Costa
+https://rebep.org.br/revista/article/view/101|Kenya Noronha
+https://rebep.org.br/revista/article/view/101|Lízia de Figueiredo
+https://rebep.org.br/revista/article/view/101|Mônica Viegas Andrade
+https://rebep.org.br/revista/article/view/102|Fabrício Martins Mendonça
+https://rebep.org.br/revista/article/view/102|Eliane Drumond
+https://rebep.org.br/revista/article/view/102|Ana Maria Pereira Cardoso
+https://rebep.org.br/revista/article/view/103|Marília Miranda Forte Gomes
+https://rebep.org.br/revista/article/view/103|Moema Gonçalves Bueno Fígoli
+https://rebep.org.br/revista/article/view/103|Aloísio Joaquim Freitas Ribeiro
+https://rebep.org.br/revista/article/view/104|Aloísio Joaquim Freitas Ribeiro
+https://rebep.org.br/revista/article/view/104|Edna Afonso Reis
+https://rebep.org.br/revista/article/view/104|Joana Barbabela Barbosa
+https://rebep.org.br/revista/article/view/105|Juliana Mara Winther
+https://rebep.org.br/revista/article/view/105|André Braz Golgher
+https://rebep.org.br/revista/article/view/106|Marina Braga Carneiro
+https://rebep.org.br/revista/article/view/106|Paula Roberta Chagas
+https://rebep.org.br/revista/article/view/106|Sergio Odilon Nadalin
+https://rebep.org.br/revista/article/view/107|Ana Maria Goldani
+https://rebep.org.br/revista/article/view/108|Eduardo Marandola Jr.
+https://rebep.org.br/revista/article/view/108|Priscila Marchiori Dal Gallo
+https://rebep.org.br/revista/article/view/109|Claudia Cristina de Aguiar Pereira
+https://rebep.org.br/revista/article/view/109|Mari Palta
+https://rebep.org.br/revista/article/view/109|John Mullahy
+https://rebep.org.br/revista/article/view/110|Neeru Gupta
+https://rebep.org.br/revista/article/view/111|Glaucia dos Santos Marcondes
+https://rebep.org.br/revista/article/view/112|Daisy Maria Xavier de Abreu
+https://rebep.org.br/revista/article/view/112|Eliane de Freitas Drumond
+https://rebep.org.br/revista/article/view/112|Elisabeth Barboza França
+https://rebep.org.br/revista/article/view/112|Lenice Harumi Ishitami
+https://rebep.org.br/revista/article/view/112|Deborah Carvalho Malta
+https://rebep.org.br/revista/article/view/112|Carla Jorge Machado
+https://rebep.org.br/revista/article/view/113|Luana Junqueira Dias Myrrha
+https://rebep.org.br/revista/article/view/113|Pamila Cristina Lima Siviero
+https://rebep.org.br/revista/article/view/114|Eduardo Marandola Jr.
+https://rebep.org.br/revista/article/view/115|Alisson F. Barbieri
+https://rebep.org.br/revista/article/view/115|Ricardo Ojima
+https://rebep.org.br/revista/article/view/116|Kenneth Hill
+https://rebep.org.br/revista/article/view/116|Bernardo Queiroz
+https://rebep.org.br/revista/article/view/117|Gilvan Ramalho Guedes
+https://rebep.org.br/revista/article/view/117|André Junqueira Caetano
+https://rebep.org.br/revista/article/view/117|Carla Jorge Machado
+https://rebep.org.br/revista/article/view/117|Eduardo Sonewend Brondízio
+https://rebep.org.br/revista/article/view/118|Luana Paula Gentil de Brito
+https://rebep.org.br/revista/article/view/118|Suzana Cavenaghi
+https://rebep.org.br/revista/article/view/118|Paulo de Martino Jannuzzi
+https://rebep.org.br/revista/article/view/119|Ana Paula de Andrade Verona
+https://rebep.org.br/revista/article/view/119|Robert Hummer
+https://rebep.org.br/revista/article/view/119|Cláudio Santiago Dias Júnior
+https://rebep.org.br/revista/article/view/119|Luciana Conceição de Lima
+https://rebep.org.br/revista/article/view/120|Daisy Maria Xavier de Abreu
+https://rebep.org.br/revista/article/view/120|Emília Sakurai
+https://rebep.org.br/revista/article/view/120|Lorenza Nogueira Campos
+https://rebep.org.br/revista/article/view/121|Antônio Tadeu Ribeiro de Oliveira
+https://rebep.org.br/revista/article/view/122|José Marcos Pinto da Cunha
+https://rebep.org.br/revista/article/view/122|Alberto Augusto Eichman Jakob
+https://rebep.org.br/revista/article/view/123|Humberto Prates da Fonseca Alves
+https://rebep.org.br/revista/article/view/123|Claudia Durand Alves
+https://rebep.org.br/revista/article/view/123|Madalena Niero Pereira
+https://rebep.org.br/revista/article/view/123|Antonio Miguel Vieira Monteiro
+https://rebep.org.br/revista/article/view/124|Marcelo Magalhães Godoy
+https://rebep.org.br/revista/article/view/124|Clotilde Andrade Paiva
+https://rebep.org.br/revista/article/view/125|Antonio Otaviano Vieira Junior
+https://rebep.org.br/revista/article/view/125|Daniel Souza Barroso
+https://rebep.org.br/revista/article/view/126|Luciana Conceição de Lima
+https://rebep.org.br/revista/article/view/127|Paula Miranda-Ribeiro
+https://rebep.org.br/revista/article/view/127|Joseph Earl Potter
+https://rebep.org.br/revista/article/view/128|Ana Amélia Camarano
+https://rebep.org.br/revista/article/view/128|Solange Kanso
+https://rebep.org.br/revista/article/view/129|Douglas Sathler
+https://rebep.org.br/revista/article/view/129|Ruibran dos Reis
+https://rebep.org.br/revista/article/view/130|Humberto Corrêa
+https://rebep.org.br/revista/article/view/131|Rosana Baeninger
+https://rebep.org.br/revista/article/view/132|Eduardo Marandola Jr.
+https://rebep.org.br/revista/article/view/132|Daniel Joseph Hogan
+https://rebep.org.br/revista/article/view/133|Nilza de Oliveira Martins Pereira
+https://rebep.org.br/revista/article/view/133|José André Moura de Brito
+https://rebep.org.br/revista/article/view/133|Sonia Albieri
+https://rebep.org.br/revista/article/view/133|Antonio José Ribeiro Dias
+https://rebep.org.br/revista/article/view/133|Ricardo Ventura Santos
+https://rebep.org.br/revista/article/view/134|Oswaldo Mário Serra Truzzi
+https://rebep.org.br/revista/article/view/134|Maria Silvia Beozzo Bassanezi
+https://rebep.org.br/revista/article/view/135|Maria Isabel Baltar da Rocha
+https://rebep.org.br/revista/article/view/135|Susana Rostagnol
+https://rebep.org.br/revista/article/view/135|María Alicia Gutiérrez
+https://rebep.org.br/revista/article/view/136|Paulo Murad Saad
+https://rebep.org.br/revista/article/view/136|Tim Miller
+https://rebep.org.br/revista/article/view/136|Ciro Martínez
+https://rebep.org.br/revista/article/view/137|Francisco de Assis Acurcio
+https://rebep.org.br/revista/article/view/137|Cristina Mariano Ruas Brandão
+https://rebep.org.br/revista/article/view/137|Augusto Afonso Guerra Júnior
+https://rebep.org.br/revista/article/view/137|Mariângela Leal Cherchiglia
+https://rebep.org.br/revista/article/view/137|Iola Gurgel Andrade
+https://rebep.org.br/revista/article/view/137|Alessandra Maciel Almeida
+https://rebep.org.br/revista/article/view/137|Grazielle Dias da Silva
+https://rebep.org.br/revista/article/view/137|Odilon Vanni de Queiroz
+https://rebep.org.br/revista/article/view/137|Daniel Resende Faleiros
+https://rebep.org.br/revista/article/view/138|Patricia Gomes Pimentel
+https://rebep.org.br/revista/article/view/138|Rosely Sichieri
+https://rebep.org.br/revista/article/view/138|Rosana Salles-Costa
+https://rebep.org.br/revista/article/view/139|Claudia Cristina de Aguiar Pereira
+https://rebep.org.br/revista/article/view/140|Paula Miranda-Ribeiro
+https://rebep.org.br/revista/article/view/140|Luciene A. Ferreira de Barros Longo
+https://rebep.org.br/revista/article/view/140|Eduardo Luiz Gonçalves Rios-Neto
+https://rebep.org.br/revista/article/view/140|Joseph Earl Potter
+https://rebep.org.br/revista/article/view/141|Paula Miranda-Ribeiro
+https://rebep.org.br/revista/article/view/142|Iuri da Costa Leite
+https://rebep.org.br/revista/article/view/142|Carla Jorge Machado
+https://rebep.org.br/revista/article/view/143|Eliane de Freitas Drumond
+https://rebep.org.br/revista/article/view/143|Carla Jorge Machado
+https://rebep.org.br/revista/article/view/143|Maria do Rosário Vasconcelos
+https://rebep.org.br/revista/article/view/143|Elisabeth França
+https://rebep.org.br/revista/article/view/144|Adriana de Miranda-Ribeiro
+https://rebep.org.br/revista/article/view/144|Eduardo L. G. Rios-Neto
+https://rebep.org.br/revista/article/view/144|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/145|Marina Machado
+https://rebep.org.br/revista/article/view/145|Heloísa Pagliaro
+https://rebep.org.br/revista/article/view/145|Roberto G. Baruzzi
+https://rebep.org.br/revista/article/view/146|João Luiz Pena
+https://rebep.org.br/revista/article/view/146|Leo Heller
+https://rebep.org.br/revista/article/view/146|Cláudio Santiago Dias Júnior
+https://rebep.org.br/revista/article/view/147|Laura L. Rodríguez Wong
+https://rebep.org.br/revista/article/view/147|Maria Graciela González de Morell
+https://rebep.org.br/revista/article/view/147|Regiane Lucinda de Carvalho
+https://rebep.org.br/revista/article/view/148|Leonardo H. G. Fígoli
+https://rebep.org.br/revista/article/view/148|Dimitri Fazito
+https://rebep.org.br/revista/article/view/149|Natalia Nunes Ferreira Batista
+https://rebep.org.br/revista/article/view/149|Maria Cristina Cacciamali
+https://rebep.org.br/revista/article/view/150|Maria Stella Ferreira Levy
+https://rebep.org.br/revista/article/view/151|Maria Cecília de Souza Minayo
+https://rebep.org.br/revista/article/view/152|Renata Jardim
+https://rebep.org.br/revista/article/view/152|Sandhi Maria Barreto
+https://rebep.org.br/revista/article/view/152|Luana Giatti Gonçalves
+https://rebep.org.br/revista/article/view/153|André Junqueira Caetano
+https://rebep.org.br/revista/article/view/153|Carla Jorge Machado
+https://rebep.org.br/revista/article/view/154|Eduardo Marandola Jr.
+https://rebep.org.br/revista/article/view/155|Carlos Eugenio de Carvalho Ferreira
+https://rebep.org.br/revista/article/view/156|Lilia Montali
+https://rebep.org.br/revista/article/view/156|Marcelo Tavares
+https://rebep.org.br/revista/article/view/157|Eugenia Troncoso Leone
+https://rebep.org.br/revista/article/view/157|Paulo Baltar
+https://rebep.org.br/revista/article/view/158|Juliana de Lucena Ruas Riani
+https://rebep.org.br/revista/article/view/158|Eduardo Luiz Gonçalves Rios-Neto
+https://rebep.org.br/revista/article/view/159|Sylvain Souchaud
+https://rebep.org.br/revista/article/view/159|Rosana Baeninger
+https://rebep.org.br/revista/article/view/160|Gabriela Adriana Sala
+https://rebep.org.br/revista/article/view/160|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/161|Dimitri Fazito
+https://rebep.org.br/revista/article/view/161|Eduardo Luiz Gonçalves Rios-Neto
+https://rebep.org.br/revista/article/view/162|André Junqueira Caetano
+https://rebep.org.br/revista/article/view/163|Doris Cardona
+https://rebep.org.br/revista/article/view/163|Enrique Peláez
+https://rebep.org.br/revista/article/view/163|Tirza Aidar
+https://rebep.org.br/revista/article/view/163|Bruno Ribotta
+https://rebep.org.br/revista/article/view/163|María Franci Alvarez
+https://rebep.org.br/revista/article/view/164|Vanessa dos Reis de Souza
+https://rebep.org.br/revista/article/view/164|Suzana Cavenaghi
+https://rebep.org.br/revista/article/view/164|José Eustáquio Diniz Alves
+https://rebep.org.br/revista/article/view/164|Mônica de Avelar Figueiredo Mafra Magalhães
+https://rebep.org.br/revista/article/view/165|Ana Paula Franco Viegas-Pereira
+https://rebep.org.br/revista/article/view/165|Roberto Nascimento Rodrigues
+https://rebep.org.br/revista/article/view/165|Carla Jorge Machado
+https://rebep.org.br/revista/article/view/166|Heloisa Pagliaro
+https://rebep.org.br/revista/article/view/166|Carmen Junqueira
+https://rebep.org.br/revista/article/view/166|Luciana Garrido dos Santos Mendaña
+https://rebep.org.br/revista/article/view/166|Sofia Beatriz Mendonça
+https://rebep.org.br/revista/article/view/166|Roberto Geraldo Baruzzi
+https://rebep.org.br/revista/article/view/167|Maria Stella Ferreira Levy
+https://rebep.org.br/revista/article/view/168|Marcos Roberto Gonzaga
+https://rebep.org.br/revista/article/view/168|Bernardo Lanza Queiroz
+https://rebep.org.br/revista/article/view/168|Carla Jorge Machado
+https://rebep.org.br/revista/article/view/169|Eduardo Marandola Jr.
+https://rebep.org.br/revista/article/view/170|Carlos Eugenio de Carvalho Ferreira
+https://rebep.org.br/revista/article/view/171|Fausto Brito
+https://rebep.org.br/revista/article/view/172|Joice Melo Vieira
+https://rebep.org.br/revista/article/view/173|Maria Eponina de Abreu e Torres
+https://rebep.org.br/revista/article/view/173|Paula Miranda-Ribeiro
+https://rebep.org.br/revista/article/view/173|Carla Jorge Machado
+https://rebep.org.br/revista/article/view/174|Maria Luiza Andreazza
+https://rebep.org.br/revista/article/view/175|Maria Carolina Tomás
+https://rebep.org.br/revista/article/view/175|Ana Maria Hermeto C. de Oliveira
+https://rebep.org.br/revista/article/view/175|Eduardo Luiz G. Rios-Neto
+https://rebep.org.br/revista/article/view/177|André Braz Golgher
+https://rebep.org.br/revista/article/view/178|Cristiano Stamm
+https://rebep.org.br/revista/article/view/178|Jefferson Andronio Ramundo Staduto
+https://rebep.org.br/revista/article/view/179|Erika Masanet Ripoll
+https://rebep.org.br/revista/article/view/180|Luiz Antonio de Castro Santos
+https://rebep.org.br/revista/article/view/180|Lina Faria
+https://rebep.org.br/revista/article/view/180|Ricardo Fernandes de Menezes
+https://rebep.org.br/revista/article/view/181|Eliane de Freitas Drumond
+https://rebep.org.br/revista/article/view/181|Carla Jorge Machado
+https://rebep.org.br/revista/article/view/182|Silvana Lopes Nogueira
+https://rebep.org.br/revista/article/view/182|Júnia Maria Geraldo
+https://rebep.org.br/revista/article/view/182|Juliana Costa Machado
+https://rebep.org.br/revista/article/view/182|Rita de Cássia Lanes Ribeiro
+https://rebep.org.br/revista/article/view/183|Eduardo Marandola Jr.
+https://rebep.org.br/revista/article/view/184|Carlos Eugenio de Carvalho Ferreira
+https://rebep.org.br/revista/article/view/185|George Martine
+https://rebep.org.br/revista/article/view/186|Eduardo Marandola Jr.
+https://rebep.org.br/revista/article/view/186|Daniel Joseph Hogan
+https://rebep.org.br/revista/article/view/187|Alisson Flávio Barbieri
+https://rebep.org.br/revista/article/view/188|Marcia Caldas de Castro
+https://rebep.org.br/revista/article/view/188|Burton Herbert Singer
+https://rebep.org.br/revista/article/view/189|Álvaro de Oliveira D’Antona
+https://rebep.org.br/revista/article/view/189|Leah Karin VanWey
+https://rebep.org.br/revista/article/view/190|Ricardo Ojima
+https://rebep.org.br/revista/article/view/191|Humberto Prates da Fonseca Alves
+https://rebep.org.br/revista/article/view/192|Heloisa Soares de Moura Costa
+https://rebep.org.br/revista/article/view/192|Mônica Campolina Diniz Peixoto
+https://rebep.org.br/revista/article/view/193|Diego Rodrigues Macedo
+https://rebep.org.br/revista/article/view/193|Antônio Pereira Magalhães Jr
+https://rebep.org.br/revista/article/view/194|Glauco José de Matos Umbelino
+https://rebep.org.br/revista/article/view/195|Paula Miranda-Ribeiro
+https://rebep.org.br/revista/article/view/195|Andréa Branco Simão
+https://rebep.org.br/revista/article/view/195|André Junqueira Caetano
+https://rebep.org.br/revista/article/view/195|Ignez Helena Oliva Perpétuo
+https://rebep.org.br/revista/article/view/195|Marisa Alves Lacerda
+https://rebep.org.br/revista/article/view/195|Maria Eponina de Abreu e Torres
+https://rebep.org.br/revista/article/view/196|Ricardo Ojima
+https://rebep.org.br/revista/article/view/198|Carlos Eugenio de Carvalho Ferreira
+https://rebep.org.br/revista/article/view/199|Sergio Odilon Nadalin
+https://rebep.org.br/revista/article/view/200|Izabel Guimarães Marri
+https://rebep.org.br/revista/article/view/200|Simone Wajnman
+https://rebep.org.br/revista/article/view/201|Mirela Castro Santos Camargos
+https://rebep.org.br/revista/article/view/201|Carla Jorge Machado
+https://rebep.org.br/revista/article/view/201|Roberto do Nascimento Rodrigues
+https://rebep.org.br/revista/article/view/202|Cezar Augusto Cerqueira
+https://rebep.org.br/revista/article/view/202|Diana Reiko Oya Tutya Sawyer
+https://rebep.org.br/revista/article/view/203|Juliana de Lucena Ruas Riani
+https://rebep.org.br/revista/article/view/203|Eduardo Luiz Gonçalves Rios-Neto
+https://rebep.org.br/revista/article/view/207|Aída C.G. Verdugo Lazo
+https://rebep.org.br/revista/article/view/208|Mariângela Leal Cherchiglia
+https://rebep.org.br/revista/article/view/208|Augusto Afonso Guerra Júnior
+https://rebep.org.br/revista/article/view/208|Eli Iola Gurgel Andrade
+https://rebep.org.br/revista/article/view/208|Carla Jorge Machado
+https://rebep.org.br/revista/article/view/208|Francisco de Assis Acúrcio
+https://rebep.org.br/revista/article/view/208|Wagner Meira Júnior
+https://rebep.org.br/revista/article/view/208|Bruno Diniz de Paula
+https://rebep.org.br/revista/article/view/208|Odilon Vanni de Queiroz
+https://rebep.org.br/revista/article/view/210|Carlos Eugenio de Carvalho Ferreira
+https://rebep.org.br/revista/article/view/211|Aloísio Joaquim Freitas Ribeiro
+https://rebep.org.br/revista/article/view/211|Moema Gonçalves Bueno Figoli
+https://rebep.org.br/revista/article/view/211|Diana Oya Sawyer
+https://rebep.org.br/revista/article/view/211|Cibele Comini César
+https://rebep.org.br/revista/article/view/212|Paulo de Martino Jannuzzi
+https://rebep.org.br/revista/article/view/213|Rafael Perez Ribas
+https://rebep.org.br/revista/article/view/214|Ângela Borges
+https://rebep.org.br/revista/article/view/215|Lilia Montali
+https://rebep.org.br/revista/article/view/216|Anita Kon
+https://rebep.org.br/revista/article/view/217|Elisenda Rentería Pérez
+https://rebep.org.br/revista/article/view/217|Simone Wajnman
+https://rebep.org.br/revista/article/view/217|Ana Maria Hermeto Camilo de Oliveira
+https://rebep.org.br/revista/article/view/218|Enrico Moreira Martignoni
+https://rebep.org.br/revista/article/view/218|Luiz Marcelo Carvano
+https://rebep.org.br/revista/article/view/218|Paulo de Martino Jannuzzi
+https://rebep.org.br/revista/article/view/219|Raul Luís Assumpção Bastos
+https://rebep.org.br/revista/article/view/220|Cláudio Salvadori Dedecca
+https://rebep.org.br/revista/article/view/220|Eliane Navarro Rosandiski
+https://rebep.org.br/revista/article/view/220|Carolina Veríssimo Barbieri
+https://rebep.org.br/revista/article/view/220|Adriana Jungbluth
+https://rebep.org.br/revista/article/view/221|Cristina Bruschini
+https://rebep.org.br/revista/article/view/222|Eugenia Troncoso Leone
+https://rebep.org.br/revista/article/view/222|Paulo Baltar
+https://rebep.org.br/revista/article/view/223|Maria Isabel Baltar da Rocha
+https://rebep.org.br/revista/article/view/224|Paula Miranda-Ribeiro
+https://rebep.org.br/revista/article/view/225|Carlos Eugenio de Carvalho Ferreira
+https://rebep.org.br/revista/article/view/226|Laura L. Rodríguez Wong
+https://rebep.org.br/revista/article/view/226|José Alberto Carvalho
+https://rebep.org.br/revista/article/view/227|Haroldo da Gama Torres
+https://rebep.org.br/revista/article/view/228|Humberto Prates da Fonseca Alves
+https://rebep.org.br/revista/article/view/229|Kaizô Iwakami Beltrão
+https://rebep.org.br/revista/article/view/229|Sonoe Sugahara
+https://rebep.org.br/revista/article/view/230|José Marcos Pinto da Cunha
+https://rebep.org.br/revista/article/view/231|Elzira Lúcia de Oliveira
+https://rebep.org.br/revista/article/view/231|Eduardo Luiz Gonçalves Rios-Neto
+https://rebep.org.br/revista/article/view/231|Ana Maria Hermeto Camilo de Oliveira
+https://rebep.org.br/revista/article/view/232|Moema Gonçalves Bueno Fígoli
+https://rebep.org.br/revista/article/view/233|Andréa Branco Simão
+https://rebep.org.br/revista/article/view/233|Paula Miranda-Ribeiro
+https://rebep.org.br/revista/article/view/233|André Junqueira Caetano
+https://rebep.org.br/revista/article/view/233|André Junqueira Caetano
+https://rebep.org.br/revista/article/view/233|Cibele Comini César
+https://rebep.org.br/revista/article/view/233|Cibele Comini César
+https://rebep.org.br/revista/article/view/234|Cacilda Machado
+https://rebep.org.br/revista/article/view/235|Bernadette Cunha Waldvogel
+https://rebep.org.br/revista/article/view/236|José Marcos Pinto da Cunha
+https://rebep.org.br/revista/article/view/236|Sylvain Souchaud
+https://rebep.org.br/revista/article/view/236|Rosana Baeninger
+https://rebep.org.br/revista/article/view/236|Roberto Luiz do Carmo
+https://rebep.org.br/revista/article/view/239|Carlos Eugenio de Carvalho Ferreira
+https://rebep.org.br/revista/article/view/240|Neide Lopes Patarra
+https://rebep.org.br/revista/article/view/240|Elisabete Dória Bilac
+https://rebep.org.br/revista/article/view/241|Elza Berquó
+https://rebep.org.br/revista/article/view/241|Maria Isabel Baltar da Rocha
+https://rebep.org.br/revista/article/view/242|Maria Coleta Ferreira Albino de Oliveira
+https://rebep.org.br/revista/article/view/242|Ricardo Antônio Wanderley Tavares
+https://rebep.org.br/revista/article/view/243|George Martine
+https://rebep.org.br/revista/article/view/244|Diana Oya Sawyer
+https://rebep.org.br/revista/article/view/244|Duval Magalhães Fernandes
+https://rebep.org.br/revista/article/view/245|Luiz Antonio Pinto de Oliveira
+https://rebep.org.br/revista/article/view/245|Celso Cardoso da Silva Simões
+https://rebep.org.br/revista/article/view/246|Paulo de Tarso Almeida Paiva
+https://rebep.org.br/revista/article/view/246|Simone Wajnman
+https://rebep.org.br/revista/article/view/247|Daniel Joseph Hogan
+https://rebep.org.br/revista/article/view/248|Carlos de Almeida Prado Bacellar
+https://rebep.org.br/revista/article/view/248|Ana Silvia Volpi Scott
+https://rebep.org.br/revista/article/view/248|Maria Silvia Casagrande Beozzo Bassanezi
+https://rebep.org.br/revista/article/view/249|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/249|Fausto Brito
+https://rebep.org.br/revista/article/view/250|Eduardo Luiz Gonçalvez Rios-Neto
+https://rebep.org.br/revista/article/view/251|Carlos Eugenio de Carvalho Ferreira
+https://rebep.org.br/revista/article/view/252|Mary Garcia Castro
+https://rebep.org.br/revista/article/view/253|Eduardo Marandola Jr.
+https://rebep.org.br/revista/article/view/253|Daniel Joseph Hogan
+https://rebep.org.br/revista/article/view/254|Maria Célia Silva Caiado
+https://rebep.org.br/revista/article/view/255|Gustavo Henrique Naves Givisiez
+https://rebep.org.br/revista/article/view/255|Diana Oya Sawyer
+https://rebep.org.br/revista/article/view/256|Marisa Alves Lacerda
+https://rebep.org.br/revista/article/view/256|Paula Miranda-Ribeiro
+https://rebep.org.br/revista/article/view/256|André Junqueira Caetano
+https://rebep.org.br/revista/article/view/256|Carla Jorge Machado
+https://rebep.org.br/revista/article/view/257|Cláudia Júlia Guimarães Horta
+https://rebep.org.br/revista/article/view/257|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/257|Olinto José Oliveira Nogueira
+https://rebep.org.br/revista/article/view/258|Lára de Melo Barbosa
+https://rebep.org.br/revista/article/view/258|Geraldo Henrique Nascimento de Melo
+https://rebep.org.br/revista/article/view/262|Ricardo Alexandrino Garcia
+https://rebep.org.br/revista/article/view/262|Adriana de Miranda-Ribeiro
+https://rebep.org.br/revista/article/view/263|Sonia Corrêa
+https://rebep.org.br/revista/article/view/263|José Eustáquio Diniz Alves
+https://rebep.org.br/revista/article/view/264|Cássio Maldonado Turra
+https://rebep.org.br/revista/article/view/264|Bernardo Lanza Queiroz
+https://rebep.org.br/revista/article/view/265|Eliane Cristina Deckmann Fleck
+https://rebep.org.br/revista/article/view/265|Ana Paula Korndörfer
+https://rebep.org.br/revista/article/view/265|Aline Kassick Cadaviz
+https://rebep.org.br/revista/article/view/266|Carlos Eugenio de Carvalho Ferreira
+https://rebep.org.br/revista/article/view/267|Elisabete Dória Bilac
+https://rebep.org.br/revista/article/view/268|Francisco Vidal Luna
+https://rebep.org.br/revista/article/view/268|Herbert S. Klein
+https://rebep.org.br/revista/article/view/269|Lilia Montali
+https://rebep.org.br/revista/article/view/270|Teresa Sales
+https://rebep.org.br/revista/article/view/270|Márcia Loureiro
+https://rebep.org.br/revista/article/view/271|Eduardo Magalhães Ribeiro
+https://rebep.org.br/revista/article/view/271|Flávia Maria Galizoni
+https://rebep.org.br/revista/article/view/271|Thiago de Paula Assis
+https://rebep.org.br/revista/article/view/272|Ricardo Alexandrino Garcia
+https://rebep.org.br/revista/article/view/272|Mauro Borges Lemos
+https://rebep.org.br/revista/article/view/272|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/273|Ernesto Friedrich de Lima Amaral
+https://rebep.org.br/revista/article/view/273|Roberto do Nascimento Rodrigues
+https://rebep.org.br/revista/article/view/273|Moema Gonçalves Bueno Fígoli
+https://rebep.org.br/revista/article/view/274|Marcelo Côrtes Neri
+https://rebep.org.br/revista/article/view/274|Wagner Lopes Soares
+https://rebep.org.br/revista/article/view/275|Nelson Otávio Beltrão Campos
+https://rebep.org.br/revista/article/view/275|Roberto do Nascimento Rodrigues
+https://rebep.org.br/revista/article/view/276|José Marcos Pinto da Cunha
+https://rebep.org.br/revista/article/view/277|Dora Isabel Paiva da Costa
+https://rebep.org.br/revista/article/view/278|Elisabete Dória Bilac
+https://rebep.org.br/revista/article/view/279|Fausto Brito
+https://rebep.org.br/revista/article/view/280|Ana Maria Hermeto Camilo de Oliveira
+https://rebep.org.br/revista/article/view/280|Eduardo Luiz Gonçalves Rios-Neto
+https://rebep.org.br/revista/article/view/281|Cláudio Salvadori Dedecca
+https://rebep.org.br/revista/article/view/281|José Marcos Pinto da Cunha
+https://rebep.org.br/revista/article/view/282|André Geraldo de Moraes Simões
+https://rebep.org.br/revista/article/view/283|Ralfo Matos
+https://rebep.org.br/revista/article/view/283|Rodrigo Nunes Ferreira
+https://rebep.org.br/revista/article/view/284|Weber Soares
+https://rebep.org.br/revista/article/view/285|Alberto Augusto Eichman Jakob
+https://rebep.org.br/revista/article/view/286|David José Ahouagi Vaz de Magalhães
+https://rebep.org.br/revista/article/view/286|Eduardo Luiz Gonçalves Rios-Neto
+https://rebep.org.br/revista/article/view/287|Carmen Siqueira Ribeiro dos Santos Nogueira
+https://rebep.org.br/revista/article/view/288|Elisabete Dória Bilac
+https://rebep.org.br/revista/article/view/289|Elisabete Dória Bilac
+https://rebep.org.br/revista/article/view/290|José Eustáquio Diniz Alves
+https://rebep.org.br/revista/article/view/290|Sônia Corrêa
+https://rebep.org.br/revista/article/view/291|Nathalie Reis Itaboraí
+https://rebep.org.br/revista/article/view/292|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/292|Simone Wajnman
+https://rebep.org.br/revista/article/view/292|Cláudia Júlia Guimarães Horta
+https://rebep.org.br/revista/article/view/293|Frederico Poley Martins Ferreira
+https://rebep.org.br/revista/article/view/294|Márcia Milena Pivatto Serra
+https://rebep.org.br/revista/article/view/295|Lára de Melo Barbosa
+https://rebep.org.br/revista/article/view/295|Diana Oya Sawyer
+https://rebep.org.br/revista/article/view/296|Samuel Kilsztajn
+https://rebep.org.br/revista/article/view/296|Anacláudia Rossbach
+https://rebep.org.br/revista/article/view/296|Manuela Santos Nunes do Carmo
+https://rebep.org.br/revista/article/view/296|Gustavo Toshiaki Lopes Sugahara
+https://rebep.org.br/revista/article/view/296|Leandro Bessa Souza
+https://rebep.org.br/revista/article/view/297|Tirza Aidar
+https://rebep.org.br/revista/article/view/298|Paula Miranda-Ribeiro
+https://rebep.org.br/revista/article/view/298|André Junqueira Caetano
+https://rebep.org.br/revista/article/view/299|Paula Miranda-Ribeiro
+https://rebep.org.br/revista/article/view/299|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/300|Elisabete Dória Bilac
+https://rebep.org.br/revista/article/view/301|Guaraci Adeodato Alves de Souza
+https://rebep.org.br/revista/article/view/302|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/302|Charles H. Wood
+https://rebep.org.br/revista/article/view/302|Flávia Cristina Drumond Andrade
+https://rebep.org.br/revista/article/view/303|Luiz A. de Castro Santos
+https://rebep.org.br/revista/article/view/304|Maria Coleta Oliveira
+https://rebep.org.br/revista/article/view/305|Rosely Gomes Costa
+https://rebep.org.br/revista/article/view/306|Samuel Kilsztajn
+https://rebep.org.br/revista/article/view/306|Anacláudia Rossbach
+https://rebep.org.br/revista/article/view/306|Marcelo Bozzini da Câmara
+https://rebep.org.br/revista/article/view/306|Manuela Santos Nunes do Carmo
+https://rebep.org.br/revista/article/view/307|Maria Isabel Baltar da Rocha
+https://rebep.org.br/revista/article/view/308|Esther Hamburguer
+https://rebep.org.br/revista/article/view/309|Elisabete Dória Bilac
+https://rebep.org.br/revista/article/view/310|Martin Hopenhayn
+https://rebep.org.br/revista/article/view/311|Mary Garcia Castro
+https://rebep.org.br/revista/article/view/311|Miriam Abramovay
+https://rebep.org.br/revista/article/view/312|Phillippe George Pereira Guimarães Leite
+https://rebep.org.br/revista/article/view/312|Denise Britz do Nascimento Silva
+https://rebep.org.br/revista/article/view/313|Jerônimo Oliveira Muniz
+https://rebep.org.br/revista/article/view/314|Nancy de Deus Vieira Silva
+https://rebep.org.br/revista/article/view/314|Ana Lúcia Kassouf
+https://rebep.org.br/revista/article/view/315|Mónica Franch
+https://rebep.org.br/revista/article/view/316|Kaizô Iwakami Beltrão
+https://rebep.org.br/revista/article/view/316|Ana Amélia Camarano
+https://rebep.org.br/revista/article/view/316|Solange Kanso
+https://rebep.org.br/revista/article/view/317|Letícia J. Marteleto
+https://rebep.org.br/revista/article/view/318|Cristiane S. Cabral
+https://rebep.org.br/revista/article/view/319|Margareth Aparecida Santini de Almeida
+https://rebep.org.br/revista/article/view/320|Luciene A. F. de B. Longo
+https://rebep.org.br/revista/article/view/321|Russell Parry Scott
+https://rebep.org.br/revista/article/view/321|Marion Quadros
+https://rebep.org.br/revista/article/view/321|Márcia Longhi
+https://rebep.org.br/revista/article/view/322|Rebeca de Souza e Silva
+https://rebep.org.br/revista/article/view/323|Paula Miranda-Ribeiro
+https://rebep.org.br/revista/article/view/323|Ann Moore
+https://rebep.org.br/revista/article/view/325|Maria Dirce Pinho
+https://rebep.org.br/revista/article/view/325|Elza Berquó
+https://rebep.org.br/revista/article/view/325|Kelly Adriano Oliveira
+https://rebep.org.br/revista/article/view/325|Fernanda Lopes
+https://rebep.org.br/revista/article/view/325|Luís Carlos Araújo Lima
+https://rebep.org.br/revista/article/view/325|Noeli Pereira
+https://rebep.org.br/revista/article/view/326|Maria Teresa Canesin Guimarães
+https://rebep.org.br/revista/article/view/327|Elisabete Dória Bilac
+https://rebep.org.br/revista/article/view/328|Mary Garcia Castro
+https://rebep.org.br/revista/article/view/329|Ana Maria Goldani
+https://rebep.org.br/revista/article/view/330|Ralfo Matos
+https://rebep.org.br/revista/article/view/331|Paulo Eduardo Teixeira
+https://rebep.org.br/revista/article/view/332|Ana Silvia Volpi Scott
+https://rebep.org.br/revista/article/view/333|Maria Silvia C. Beozzo Bassanezi
+https://rebep.org.br/revista/article/view/333|Carlos de Almeida Prado Bacellar
+https://rebep.org.br/revista/article/view/334|Myrian Coelho Cunha da Cruz
+https://rebep.org.br/revista/article/view/334|Iúri da Costa Leite
+https://rebep.org.br/revista/article/view/335|Massimo Livi Bacci
+https://rebep.org.br/revista/article/view/336|Wilson Fusco
+https://rebep.org.br/revista/article/view/337|Pedro Jacobi
+https://rebep.org.br/revista/article/view/338|Elisabete Dória Bilac
+https://rebep.org.br/revista/article/view/339|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/343|Maria Dolores Bombardelli Kappel
+https://rebep.org.br/revista/article/view/344|José Irineu Rangel Rigotti
+https://rebep.org.br/revista/article/view/345|Adriana de Miranda-Ribeiro
+https://rebep.org.br/revista/article/view/346|Cibele Comini César
+https://rebep.org.br/revista/article/view/346|José Francisco Soares
+https://rebep.org.br/revista/article/view/347|Maria Eugenia Ferrão
+https://rebep.org.br/revista/article/view/347|Kaizô Iwakami Beltrão
+https://rebep.org.br/revista/article/view/347|Cristiano Fernandes
+https://rebep.org.br/revista/article/view/347|Denis Santos
+https://rebep.org.br/revista/article/view/347|Mayte Suárez
+https://rebep.org.br/revista/article/view/347|Adler do Couto Andrade
+https://rebep.org.br/revista/article/view/348|José Marcos Pinto da Cunha
+https://rebep.org.br/revista/article/view/348|José Roberto Rus Perez
+https://rebep.org.br/revista/article/view/348|Tirza Aidar
+https://rebep.org.br/revista/article/view/349|Juliana de Lucena Ruas Riani
+https://rebep.org.br/revista/article/view/350|George Martine
+https://rebep.org.br/revista/article/view/351|Paulo Murad Saad
+https://rebep.org.br/revista/article/view/352|Eduardo L.G. Rios-Neto
+https://rebep.org.br/revista/article/view/353|Elisabete Dória Bilac
+https://rebep.org.br/revista/article/view/354|Douglas Cole Libby
+https://rebep.org.br/revista/article/view/354|Clotilde Andrade Paiva
+https://rebep.org.br/revista/article/view/355|Dora Isabel Paiva da Costa
+https://rebep.org.br/revista/article/view/356|Marcelo Medeiros
+https://rebep.org.br/revista/article/view/356|Rafael G. Osório
+https://rebep.org.br/revista/article/view/357|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/357|José Teixeira Lopes Ribeiro
+https://rebep.org.br/revista/article/view/357|Maria Bernardette Araújo
+https://rebep.org.br/revista/article/view/357|Cláudia Júlia Guimarães Horta
+https://rebep.org.br/revista/article/view/358|José Marcos Pinto da Cunha
+https://rebep.org.br/revista/article/view/358|Cláudio Salvadori Dedecca
+https://rebep.org.br/revista/article/view/359|José Irineu Rangel Rigotti
+https://rebep.org.br/revista/article/view/360|Paulo de Martino Jannuzzi
+https://rebep.org.br/revista/article/view/361|Tamás Szmrecsányi
+https://rebep.org.br/revista/article/view/362|Thompson Almeida Andrade
+https://rebep.org.br/revista/article/view/362|Rodrigo Valente Serra
+https://rebep.org.br/revista/article/view/364|Suzana Cavenaghi
+https://rebep.org.br/revista/article/view/365|Humberto Prates da Fonseca Alves
+https://rebep.org.br/revista/article/view/366|Silvana Amaral
+https://rebep.org.br/revista/article/view/366|Ana Paula Dal’Asta
+https://rebep.org.br/revista/article/view/366|Newton Brigatti
+https://rebep.org.br/revista/article/view/366|Carolina Moutinho Duque de Pinho
+https://rebep.org.br/revista/article/view/366|Liliam César de Castro Medeiros
+https://rebep.org.br/revista/article/view/366|Pedro Ribeiro de Andrade
+https://rebep.org.br/revista/article/view/366|Taíse F. Pinheiro
+https://rebep.org.br/revista/article/view/366|Pedro Assumpção Alves
+https://rebep.org.br/revista/article/view/366|Maria Isabel Sobral Escada
+https://rebep.org.br/revista/article/view/366|Antônio Miguel Vieira Monteiro
+https://rebep.org.br/revista/article/view/367|Álvaro de Oliveira D’Antona
+https://rebep.org.br/revista/article/view/367|Maria do Carmo Dias Bueno
+https://rebep.org.br/revista/article/view/367|Ricardo de Sampaio Dagnino
+https://rebep.org.br/revista/article/view/368|Daylin Cecilia Rodriguez Javique
+https://rebep.org.br/revista/article/view/368|Cassio M. Turra
+https://rebep.org.br/revista/article/view/368|Gabriela Marise de Oliveira Bonifácio
+https://rebep.org.br/revista/article/view/368|Simone Wajnman
+https://rebep.org.br/revista/article/view/369|Kenia Fabiana Cota Mendonça
+https://rebep.org.br/revista/article/view/369|Eduardo Magalhães Ribeiro
+https://rebep.org.br/revista/article/view/369|Flávia Maria Galizoni
+https://rebep.org.br/revista/article/view/369|Hélder Anjos Augusto
+https://rebep.org.br/revista/article/view/370|Cassiane da Costa
+https://rebep.org.br/revista/article/view/370|José Marcos Froehlich
+https://rebep.org.br/revista/article/view/370|Ricardo Howes Carpes
+https://rebep.org.br/revista/article/view/371|Rogério da Palma
+https://rebep.org.br/revista/article/view/371|Oswaldo Mário Serra Truzzi
+https://rebep.org.br/revista/article/view/372|Ignacio Pardo
+https://rebep.org.br/revista/article/view/372|Carmen Varela
+https://rebep.org.br/revista/article/view/373|Rafael Henrique Moraes Pereira
+https://rebep.org.br/revista/article/view/373|Paulo A. Meyer M. Nascimento
+https://rebep.org.br/revista/article/view/373|Thiago Costa Araújo
+https://rebep.org.br/revista/article/view/374|Raquel Rangel de Meireles Guimarães
+https://rebep.org.br/revista/article/view/375|Alexandre Xavier Ywata de Carvalho
+https://rebep.org.br/revista/article/view/375|Camilo Rey Laureto
+https://rebep.org.br/revista/article/view/375|Marina Garcia Pena
+https://rebep.org.br/revista/article/view/375|Pedro Henrique Melo Albuquerque
+https://rebep.org.br/revista/article/view/375|Waldery Rodrigues Junior
+https://rebep.org.br/revista/article/view/376|Cláudio Santiago Dias Júnior
+https://rebep.org.br/revista/article/view/376|Cinthia Teixeira de Oliveira
+https://rebep.org.br/revista/article/view/376|Ana Paula de Andrade Verona
+https://rebep.org.br/revista/article/view/376|João Luiz Pena
+https://rebep.org.br/revista/article/view/376|Marília Alfenas de Oliveira Sírio
+https://rebep.org.br/revista/article/view/376|Maria Terezinha Bahia
+https://rebep.org.br/revista/article/view/376|George Luiz Lins Machado-Coelho
+https://rebep.org.br/revista/article/view/377|Ana Amélia Camarano
+https://rebep.org.br/revista/article/view/378|Ricardo Ventura Santos
+https://rebep.org.br/revista/article/view/379|Douglas Sathler
+https://rebep.org.br/revista/article/view/380|Suzana Cavenaghi
+https://rebep.org.br/revista/article/view/381|Tim Miller
+https://rebep.org.br/revista/article/view/381|Helena Cruz Castanheira
+https://rebep.org.br/revista/article/view/382|Maira Andrade Paulo
+https://rebep.org.br/revista/article/view/382|Simone Wajnman
+https://rebep.org.br/revista/article/view/382|Ana Maria Camilo Hermeto de Oliveira
+https://rebep.org.br/revista/article/view/383|Rodrigo Rafael Zanon
+https://rebep.org.br/revista/article/view/383|Antonio Carlos Moretto
+https://rebep.org.br/revista/article/view/383|Rossana Lott Rodrigues
+https://rebep.org.br/revista/article/view/384|Marden Barbosa de Campos
+https://rebep.org.br/revista/article/view/384|Alisson Flávio Barbieri
+https://rebep.org.br/revista/article/view/385|Francismara Fernandes Guerra
+https://rebep.org.br/revista/article/view/385|Moema Bueno Gonçalves Fígoli
+https://rebep.org.br/revista/article/view/386|Mônica Viegas Andrade
+https://rebep.org.br/revista/article/view/386|Ana Carolina Maia
+https://rebep.org.br/revista/article/view/386|Cristina Guimarães Rodrigues
+https://rebep.org.br/revista/article/view/387|Luciane Santiago Tavares
+https://rebep.org.br/revista/article/view/387|Iuri da Costa Leite
+https://rebep.org.br/revista/article/view/387|Marina Ferreira de Noronha
+https://rebep.org.br/revista/article/view/387|Roberto do Nascimento Rodrigues
+https://rebep.org.br/revista/article/view/387|Geraldo Marcelo da Cunha
+https://rebep.org.br/revista/article/view/387|Joaquim Gonçalves Valente
+https://rebep.org.br/revista/article/view/387|Joyce Mendes de Andrade Schramm
+https://rebep.org.br/revista/article/view/387|Maria de Fátima Santos Costa
+https://rebep.org.br/revista/article/view/388|Celeste de Souza Rodrigues
+https://rebep.org.br/revista/article/view/388|Rosiene Maria de Freitas
+https://rebep.org.br/revista/article/view/388|Ada Ávila Assunção
+https://rebep.org.br/revista/article/view/388|Iara Barreto Bassi
+https://rebep.org.br/revista/article/view/388|Adriane Mesquita de Medeiros
+https://rebep.org.br/revista/article/view/389|Bráulio Figueiredo Alves da Silva
+https://rebep.org.br/revista/article/view/389|Claudio Chaves Beato Filho
+https://rebep.org.br/revista/article/view/390|Luciana Teixeira de Andrade
+https://rebep.org.br/revista/article/view/390|Alexandre Magno Alves Diniz
+https://rebep.org.br/revista/article/view/391|Carlos Philipe Barbosa Polato
+https://rebep.org.br/revista/article/view/391|Pamila Siviero
+https://rebep.org.br/revista/article/view/391|Carla Jorge Machado
+https://rebep.org.br/revista/article/view/391|Gisele Macedo da Silva Bonfante
+https://rebep.org.br/revista/article/view/391|Eli Iola Gurgel Andrade
+https://rebep.org.br/revista/article/view/391|Francisco de Assis Acurcio
+https://rebep.org.br/revista/article/view/391|Mariângela Leal Cherchiglia
+https://rebep.org.br/revista/article/view/392|Adriane Mesquita de Medeiros
+https://rebep.org.br/revista/article/view/392|Renata Jardim
+https://rebep.org.br/revista/article/view/393|Herton Ellery Araújo
+https://rebep.org.br/revista/article/view/393|Carlos Alberto Ramos
+https://rebep.org.br/revista/article/view/394|Paulo de Martino Jannuzzi
+https://rebep.org.br/revista/article/view/395|José Marcos Pinto da Cunha
+https://rebep.org.br/revista/article/view/396|José Teixeira Lopes Ribeiro
+https://rebep.org.br/revista/article/view/396|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/397|Sidney Antonio da Silva
+https://rebep.org.br/revista/article/view/398|René D. Decol
+https://rebep.org.br/revista/article/view/399|Maria Silvia C. Beozzo Bassanezi
+https://rebep.org.br/revista/article/view/400|Marcelo Medeiros Coelho de Souza
+https://rebep.org.br/revista/article/view/401|José Marcos Pinto da Cunha
+https://rebep.org.br/revista/article/view/402|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/402|José Irineu Rangel Rigotti
+https://rebep.org.br/revista/article/view/403|Paulo de Martino Jannuzzi
+https://rebep.org.br/revista/article/view/404|Ana Amélia Camarano
+https://rebep.org.br/revista/article/view/404|Ricardo Abramovay
+https://rebep.org.br/revista/article/view/405|Rosana Baeninger
+https://rebep.org.br/revista/article/view/406|Daniel Joseph Hogan
+https://rebep.org.br/revista/article/view/407|Alfonso Rodriguez Arias
+https://rebep.org.br/revista/article/view/408|Claudio Salvadori Dedecca
+https://rebep.org.br/revista/article/view/409|Ana Cristina Braga Martes
+https://rebep.org.br/revista/article/view/410|Luzinete Simões Minella
+https://rebep.org.br/revista/article/view/411|Laura L. Rodriguez Wong
+https://rebep.org.br/revista/article/view/411|Rita Badiani
+https://rebep.org.br/revista/article/view/411|Ines Quental
+https://rebep.org.br/revista/article/view/412|Ignez Helena Oliva Perpétuo
+https://rebep.org.br/revista/article/view/413|Maria Cristina Gomes da Conceição
+https://rebep.org.br/revista/article/view/414|Morvan de Mello Moreira
+https://rebep.org.br/revista/article/view/415|Moema G. Bueno Fígoli
+https://rebep.org.br/revista/article/view/416|Ana Maria Nogales Vasconcelos
+https://rebep.org.br/revista/article/view/417|Hildete Pereira de Melo
+https://rebep.org.br/revista/article/view/418|Elaine Rocha
+https://rebep.org.br/revista/article/view/419|Rodolpho Telarolli Junior
+https://rebep.org.br/revista/article/view/420|José Renato de Campos Araújo
+https://rebep.org.br/revista/article/view/421|Judicael Clevelario Júnior
+https://rebep.org.br/revista/article/view/422|Carlos Aurélio Pimenta de Faria
+https://rebep.org.br/revista/article/view/423|Maria Silvia C. Beozzo Bassanezi
+https://rebep.org.br/revista/article/view/424|David S. Reher
+https://rebep.org.br/revista/article/view/425|Maria Luiza Marcílio
+https://rebep.org.br/revista/article/view/426|Sergio Odilon Nadalin
+https://rebep.org.br/revista/article/view/427|José Flávio Motta
+https://rebep.org.br/revista/article/view/427|Iraci del Nero da Costa
+https://rebep.org.br/revista/article/view/428|Paulo Murad Saad
+https://rebep.org.br/revista/article/view/429|Maria Beatriz de Albuquerque David
+https://rebep.org.br/revista/article/view/429|Philippe Waniez
+https://rebep.org.br/revista/article/view/429|Violette Brustlein
+https://rebep.org.br/revista/article/view/430|Roberto Nascimento
+https://rebep.org.br/revista/article/view/431|Isabela Gomes Carneiro
+https://rebep.org.br/revista/article/view/431|Ana Amélia Camarano
+https://rebep.org.br/revista/article/view/432|Rita Badiani
+https://rebep.org.br/revista/article/view/433|Sonia Rocha
+https://rebep.org.br/revista/article/view/434|Ernesto Rodríguez Chávez
+https://rebep.org.br/revista/article/view/435|Neir Antunes Paes
+https://rebep.org.br/revista/article/view/436|Manolo Florentino
+https://rebep.org.br/revista/article/view/436|José Roberto Góes
+https://rebep.org.br/revista/article/view/437|Nelson de Castro Senra
+https://rebep.org.br/revista/article/view/438|Alessandra Silveira
+https://rebep.org.br/revista/article/view/439|George Martine
+https://rebep.org.br/revista/article/view/440|René Decol
+https://rebep.org.br/revista/article/view/441|Malvina Muskat
+https://rebep.org.br/revista/article/view/442|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/443|Maria Stella Ferreira Levy
+https://rebep.org.br/revista/article/view/444|Maria do Rosário Rolfsen Salles
+https://rebep.org.br/revista/article/view/445|Afonso Henriques Borges Ferreira
+https://rebep.org.br/revista/article/view/446|Neide Patarra
+https://rebep.org.br/revista/article/view/446|Rosana Baeninger
+https://rebep.org.br/revista/article/view/446|Lucia Maria Machado Bogus
+https://rebep.org.br/revista/article/view/447|Teresa Sales
+https://rebep.org.br/revista/article/view/448|Elisa Massae Sasaki
+https://rebep.org.br/revista/article/view/449|Aurilio Sérgio Costa Caiado
+https://rebep.org.br/revista/article/view/450|Rosana Baeninger
+https://rebep.org.br/revista/article/view/451|Neide Lopes Patarra
+https://rebep.org.br/revista/article/view/452|J. A. Lindgren Alves
+https://rebep.org.br/revista/article/view/453|Fausto Brito
+https://rebep.org.br/revista/article/view/454|Ralfo Matos
+https://rebep.org.br/revista/article/view/455|José Marcos Pinto da Cunha
+https://rebep.org.br/revista/article/view/456|Ana Amélia Camarano
+https://rebep.org.br/revista/article/view/456|Kaizô Beltrão
+https://rebep.org.br/revista/article/view/457|Neir Antunes Paes
+https://rebep.org.br/revista/article/view/458|José Flávio Motta
+https://rebep.org.br/revista/article/view/459|Manolo Garcia Florentino
+https://rebep.org.br/revista/article/view/459|José Roberto Góes
+https://rebep.org.br/revista/article/view/460|Alain Bideau
+https://rebep.org.br/revista/article/view/460|Sergio Odilon Nadalin
+https://rebep.org.br/revista/article/view/461|Sergio Odilon Nadalin
+https://rebep.org.br/revista/article/view/462|Marco Aurélio Monteiro Pereira
+https://rebep.org.br/revista/article/view/463|Roberto Luiz do Carmo
+https://rebep.org.br/revista/article/view/463|Daniel Joseph Hogan
+https://rebep.org.br/revista/article/view/464|Elza Berquó
+https://rebep.org.br/revista/article/view/465|Laura L. Rodríguez Wong
+https://rebep.org.br/revista/article/view/466|Jorge Pozzobon
+https://rebep.org.br/revista/article/view/467|Elisabete Dória Bilac
+https://rebep.org.br/revista/article/view/468|Vania Salles
+https://rebep.org.br/revista/article/view/469|Iracema Brandão Guimarães
+https://rebep.org.br/revista/article/view/470|Vera da Silva Telles
+https://rebep.org.br/revista/article/view/471|Nadya Araujo Castro
+https://rebep.org.br/revista/article/view/472|Marta Maria Azevedo
+https://rebep.org.br/revista/article/view/473|Eugenia Troncoso Leone
+https://rebep.org.br/revista/article/view/474|Paulo de Martino Jannuzzi
+https://rebep.org.br/revista/article/view/475|Maria Teresa A. Olinto
+https://rebep.org.br/revista/article/view/476|Ana Cristina Braga Marte
+https://rebep.org.br/revista/article/view/477|Marcio Ferreira da Silva
+https://rebep.org.br/revista/article/view/478|Charles H. Wood
+https://rebep.org.br/revista/article/view/478|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/479|Elza Berquó
+https://rebep.org.br/revista/article/view/480|Neide Patarra
+https://rebep.org.br/revista/article/view/481|George Martine
+https://rebep.org.br/revista/article/view/482|Maria Luiza Andreazza
+https://rebep.org.br/revista/article/view/482|Sérgio Odilon Nadalin
+https://rebep.org.br/revista/article/view/483|Maria Coleta de Oliveira
+https://rebep.org.br/revista/article/view/483|Elizabete D. Bilac
+https://rebep.org.br/revista/article/view/483|Malvina Muszkat
+https://rebep.org.br/revista/article/view/484|Haroldo Torres
+https://rebep.org.br/revista/article/view/484|John Sydenstricker-Neto
+https://rebep.org.br/revista/article/view/485|Bela Feldman-Bianco
+https://rebep.org.br/revista/article/view/486|Teresa Sales
+https://rebep.org.br/revista/article/view/487|Elza Berquó
+https://rebep.org.br/revista/article/view/488|Sonia Correa
+https://rebep.org.br/revista/article/view/489|Maria Luiza Heilborn
+https://rebep.org.br/revista/article/view/490|Ignez Helena Oliva Perpétuo
+https://rebep.org.br/revista/article/view/490|Simone Wajnman
+https://rebep.org.br/revista/article/view/491|Rebeca de Souza e Silva
+https://rebep.org.br/revista/article/view/492|Suzanne Serruya
+https://rebep.org.br/revista/article/view/493|Neuza Maria de Oliveira
+https://rebep.org.br/revista/article/view/494|Magda de Almeida Neves
+https://rebep.org.br/revista/article/view/495|Sonia Rocha
+https://rebep.org.br/revista/article/view/496|Suzana Marta Cavenaghi
+https://rebep.org.br/revista/article/view/496|Ana Maria Goldani
+https://rebep.org.br/revista/article/view/497|Alicia Marta Bercovich
+https://rebep.org.br/revista/article/view/498|Rodolpho Telarolli Junior
+https://rebep.org.br/revista/article/view/499|Mariza Corrêa  e equipe
+https://rebep.org.br/revista/article/view/500|José Marcos Pinto da Cunha
+https://rebep.org.br/revista/article/view/501|Eva Blay
+https://rebep.org.br/revista/article/view/502|Martim O. Smolka
+https://rebep.org.br/revista/article/view/503|Milena Piracchini Duchlade
+https://rebep.org.br/revista/article/view/503|Kaizô Iwakami Beltrão
+https://rebep.org.br/revista/article/view/504|Nadya Araujo Castro
+https://rebep.org.br/revista/article/view/504|Vanda Sampaio de Sá Barreto
+https://rebep.org.br/revista/article/view/505|Elza Berquó
+https://rebep.org.br/revista/article/view/505|Maria Coleta F. A. de Oliveira
+https://rebep.org.br/revista/article/view/506|Margaret E. Greene
+https://rebep.org.br/revista/article/view/506|Vijayendra Rao
+https://rebep.org.br/revista/article/view/507|Maria Coleta F. A. de Oliveira
+https://rebep.org.br/revista/article/view/508|Donald Sawyer
+https://rebep.org.br/revista/article/view/509|Luiz Armando de Medeiros Frias
+https://rebep.org.br/revista/article/view/509|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/510|Rosa Ester Rossini
+https://rebep.org.br/revista/article/view/511|Martim O. Smolka
+https://rebep.org.br/revista/article/view/512|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/512|Cláudio Caetano Machado
+https://rebep.org.br/revista/article/view/513|Bela Feldman-Bianco
+https://rebep.org.br/revista/article/view/514|Teresa Sales
+https://rebep.org.br/revista/article/view/515|Franklin Goza
+https://rebep.org.br/revista/article/view/516|Claudio Salm
+https://rebep.org.br/revista/article/view/517|Carlos Eugenio de Carvalho Ferreira
+https://rebep.org.br/revista/article/view/518|Haroldo da Gama Torres
+https://rebep.org.br/revista/article/view/519|Márcia Milena Piraccini Duchiade
+https://rebep.org.br/revista/article/view/520|Maria Stella Ferreira Levy
+https://rebep.org.br/revista/article/view/521|Teresa Sales
+https://rebep.org.br/revista/article/view/522|John M. Sydenstricker
+https://rebep.org.br/revista/article/view/522|Haroldo G. Torres
+https://rebep.org.br/revista/article/view/523|Elza Berquó
+https://rebep.org.br/revista/article/view/524|Daniel Joseph Hogan
+https://rebep.org.br/revista/article/view/525|Luiz Armando de Medeiros Frias
+https://rebep.org.br/revista/article/view/525|Juarez de Castro Oliveira
+https://rebep.org.br/revista/article/view/526|Paulo Roberto Curi
+https://rebep.org.br/revista/article/view/527|George Martine
+https://rebep.org.br/revista/article/view/528|Maria Cristina Bruschini
+https://rebep.org.br/revista/article/view/529|Ellen E. Hardy
+https://rebep.org.br/revista/article/view/529|Juan Díaz
+https://rebep.org.br/revista/article/view/529|Teresinha M. Moraes
+https://rebep.org.br/revista/article/view/530|Lúcia Mayumi Yazaki
+https://rebep.org.br/revista/article/view/531|Sonia Regina Perillo
+https://rebep.org.br/revista/article/view/532|Leila da Costa Ferreira
+https://rebep.org.br/revista/article/view/533|Lúcia Mayumi Yazaki
+https://rebep.org.br/revista/article/view/534|Leticia B. Costa
+https://rebep.org.br/revista/article/view/535|Jorge Jatobá
+https://rebep.org.br/revista/article/view/536|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/537|Isaac Kerstenetzky
+https://rebep.org.br/revista/article/view/538|André Cézar Médici
+https://rebep.org.br/revista/article/view/539|Ana Amélia Camarano
+https://rebep.org.br/revista/article/view/540|Alfonso Rodrigues Árias
+https://rebep.org.br/revista/article/view/540|Sônia Helena Taveira de Camargo Cordeiro
+https://rebep.org.br/revista/article/view/541|Carmen Arretx
+https://rebep.org.br/revista/article/view/541|Jorge L. Somoza
+https://rebep.org.br/revista/article/view/542|Morvan de Mello Moreira
+https://rebep.org.br/revista/article/view/543|Ana Maria Lugão Rios
+https://rebep.org.br/revista/article/view/544|Rebeca de Souza e Silva
+https://rebep.org.br/revista/article/view/545|Suzana Pasternak Taschner
+https://rebep.org.br/revista/article/view/546|Klaas Woortmann
+https://rebep.org.br/revista/article/view/547|Luis Patrício Ortiz
+https://rebep.org.br/revista/article/view/548|Mario F. G. Monteiro
+https://rebep.org.br/revista/article/view/549|Elza Berquó
+https://rebep.org.br/revista/article/view/550|Alexandre Kalache
+https://rebep.org.br/revista/article/view/551|Elisabete Dória Bilac
+https://rebep.org.br/revista/article/view/552|Ceci Vilar Noronha
+https://rebep.org.br/revista/article/view/552|Greice Maria de Souza Menezes
+https://rebep.org.br/revista/article/view/552|Sebastião Loureiro
+https://rebep.org.br/revista/article/view/552|Maria Ines Costa Dourado
+https://rebep.org.br/revista/article/view/553|Cecília Rabell
+https://rebep.org.br/revista/article/view/554|Elza Berquó
+https://rebep.org.br/revista/article/view/555|Herbert S. Klein
+https://rebep.org.br/revista/article/view/556|Diana Oya Sawyer
+https://rebep.org.br/revista/article/view/556|Francisco Martin Castilla
+https://rebep.org.br/revista/article/view/557|Kaizô Iwakami Beltrão
+https://rebep.org.br/revista/article/view/557|Hélio dos Santos Migon
+https://rebep.org.br/revista/article/view/558|Rosana Catelli
+https://rebep.org.br/revista/article/view/559|Iraci del Nero da Costa
+https://rebep.org.br/revista/article/view/560|Rolando Lazarte
+https://rebep.org.br/revista/article/view/561|Anita Kon
+https://rebep.org.br/revista/article/view/562|Cristina Bruschini
+https://rebep.org.br/revista/article/view/563|Maria Coleta F. A. Oliveira
+https://rebep.org.br/revista/article/view/564|Carmen Barroso
+https://rebep.org.br/revista/article/view/567|Alicia M. Bercovich
+https://rebep.org.br/revista/article/view/568|Paulo Paiva
+https://rebep.org.br/revista/article/view/569|Hélio Moura
+https://rebep.org.br/revista/article/view/570|Eni de Mesquita Samara
+https://rebep.org.br/revista/article/view/570|Maria Silvia C. Beozzo Bassanezi
+https://rebep.org.br/revista/article/view/570|Nelson Hideiki Nozoe
+https://rebep.org.br/revista/article/view/571|Luiz Antonio de Castro Santos
+https://rebep.org.br/revista/article/view/572|Cláudio Caetano Machado
+https://rebep.org.br/revista/article/view/572|Raph Hakkert
+https://rebep.org.br/revista/article/view/573|Maria Isabel Baltar da Rocha
+https://rebep.org.br/revista/article/view/574|Neide L. Patarra
+https://rebep.org.br/revista/article/view/574|Rosana Baeninger
+https://rebep.org.br/revista/article/view/575|Sérgio Odilon Nadalin
+https://rebep.org.br/revista/article/view/576|Altiva Pilatti Balhana
+https://rebep.org.br/revista/article/view/577|Mary Garcia Castro
+https://rebep.org.br/revista/article/view/578|Denise Maldi Meireles
+https://rebep.org.br/revista/article/view/579|Ellen F. Woortmann
+https://rebep.org.br/revista/article/view/580|George Martine
+https://rebep.org.br/revista/article/view/580|Alfonso R. Arias
+https://rebep.org.br/revista/article/view/581|José Flávio Motta
+https://rebep.org.br/revista/article/view/582|Tania Dauster
+https://rebep.org.br/revista/article/view/583|Carlos Eugenio de C. Ferreira
+https://rebep.org.br/revista/article/view/584|Laura Rodriguez Wong
+https://rebep.org.br/revista/article/view/585|Cheywa Rojza Spindel
+https://rebep.org.br/revista/article/view/586|George Martine
+https://rebep.org.br/revista/article/view/586|Alfonso R. Arias
+https://rebep.org.br/revista/article/view/587|José Marcos Pinto da Cunha
+https://rebep.org.br/revista/article/view/588|Letícia B. Costa
+https://rebep.org.br/revista/article/view/589|Ivonete Batista Xavier
+https://rebep.org.br/revista/article/view/590|Cesar G. Victora
+https://rebep.org.br/revista/article/view/590|J. Patrick Vaughan
+https://rebep.org.br/revista/article/view/591|Paulo Paiva
+https://rebep.org.br/revista/article/view/592|Neide Patarra
+https://rebep.org.br/revista/article/view/593|Elza Berquó
+https://rebep.org.br/revista/article/view/594|Axel Mundigo
+https://rebep.org.br/revista/article/view/595|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/596|Eramis Bueno
+https://rebep.org.br/revista/article/view/597|Raul Benitez Zenteno
+https://rebep.org.br/revista/article/view/598|ABEP _abep
+https://rebep.org.br/revista/article/view/599|Ansley J. Coale
+https://rebep.org.br/revista/article/view/600|Mercedes Concepción
+https://rebep.org.br/revista/article/view/601|Axel Mundigo
+https://rebep.org.br/revista/article/view/602|Carmen A. Miró
+https://rebep.org.br/revista/article/view/603|Elza Berquó
+https://rebep.org.br/revista/article/view/604|Carlos Eugenio de C. Ferreira
+https://rebep.org.br/revista/article/view/604|Luis Patricio Ortiz Flores
+https://rebep.org.br/revista/article/view/605|Alain Bideau
+https://rebep.org.br/revista/article/view/606|Ana Amélia Camarano
+https://rebep.org.br/revista/article/view/607|Ralph Hakkert
+https://rebep.org.br/revista/article/view/608|Rogelio E. Fernandez
+https://rebep.org.br/revista/article/view/608|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/609|Susana Pasternak Taschner
+https://rebep.org.br/revista/article/view/609|Lucia Maria Machado Bogus
+https://rebep.org.br/revista/article/view/610|George Martine
+https://rebep.org.br/revista/article/view/610|Vilmar Evangelista Faria
+https://rebep.org.br/revista/article/view/611|Guaraci Adeodato Alves de Souza
+https://rebep.org.br/revista/article/view/612|Maria Coleta F. A. de Oliveira
+https://rebep.org.br/revista/article/view/612|Felícia R Madeira
+https://rebep.org.br/revista/article/view/613|Paulo de Tarso A. Paiva
+https://rebep.org.br/revista/article/view/614|Ivete Ribeiro
+https://rebep.org.br/revista/article/view/615|R. Parry Scott
+https://rebep.org.br/revista/article/view/616|Ana Maria Canesqui
+https://rebep.org.br/revista/article/view/617|Elza Berquó
+https://rebep.org.br/revista/article/view/617|Alicia M. Bercovich
+https://rebep.org.br/revista/article/view/618|Geraldo Muller
+https://rebep.org.br/revista/article/view/619|Letícia B. Costa
+https://rebep.org.br/revista/article/view/620|Sonia Maria Giacomini
+https://rebep.org.br/revista/article/view/621|Zulmara Clara Sauner Posse
+https://rebep.org.br/revista/article/view/622|Altiva Pilatti Balhana
+https://rebep.org.br/revista/article/view/623|Violeta Refkalefsky Loureiro
+https://rebep.org.br/revista/article/view/624|Daniel Hogan
+https://rebep.org.br/revista/article/view/625|Jane Souto de Oliveira
+https://rebep.org.br/revista/article/view/626|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/627|Laura L. Rodriguez Wong
+https://rebep.org.br/revista/article/view/628|Maria Coleta F. A. de Oliveira
+https://rebep.org.br/revista/article/view/629|Rubens Murillo Marques
+https://rebep.org.br/revista/article/view/630|Paulo Paiva
+https://rebep.org.br/revista/article/view/630|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/631|Ivany Câmara Neiva
+https://rebep.org.br/revista/article/view/632|Fundação Seade
+https://rebep.org.br/revista/article/view/638|Suzana Cavenaghi
+https://rebep.org.br/revista/article/view/639|Cristiano Machado Costa
+https://rebep.org.br/revista/article/view/639|José Guilherme Cardoso Correa
+https://rebep.org.br/revista/article/view/640|Elzira Lúcia de Oliveira
+https://rebep.org.br/revista/article/view/640|Eduardo Gonçalves Rios-Neto
+https://rebep.org.br/revista/article/view/640|Ana Maria Hermeto Camilo de Oliveira
+https://rebep.org.br/revista/article/view/642|Maira Covre-Sussai
+https://rebep.org.br/revista/article/view/643|Raquel Zanatta Coutinho
+https://rebep.org.br/revista/article/view/643|André Braz Golgher
+https://rebep.org.br/revista/article/view/644|Ana Paula A. Verona
+https://rebep.org.br/revista/article/view/644|Mark Regnerus
+https://rebep.org.br/revista/article/view/645|Norberto Lanza
+https://rebep.org.br/revista/article/view/645|Claudia Valeggia
+https://rebep.org.br/revista/article/view/646|Fábio Augusto Scarpim
+https://rebep.org.br/revista/article/view/647|Sênia Bastos
+https://rebep.org.br/revista/article/view/647|Maria do Rosário Rolfsen Salles
+https://rebep.org.br/revista/article/view/648|Roberto Luiz do Carmo
+https://rebep.org.br/revista/article/view/648|Ricardo de Sampaio Dagnino
+https://rebep.org.br/revista/article/view/648|Igor Cavallini Johansen
+https://rebep.org.br/revista/article/view/649|Julia Corrêa Côrtes
+https://rebep.org.br/revista/article/view/649|Álvaro de Oliveira D’Antona
+https://rebep.org.br/revista/article/view/650|Mirela Castro Santos Camargos
+https://rebep.org.br/revista/article/view/651|José Eustáquio Diniz Alves
+https://rebep.org.br/revista/article/view/652|George Martine
+https://rebep.org.br/revista/article/view/653|Tiago Carlos Lima do Nascimento
+https://rebep.org.br/revista/article/view/653|Ricardo Ojima
+https://rebep.org.br/revista/article/view/654|Raquel Zanatta Coutinho
+https://rebep.org.br/revista/article/view/666|Suzana Cavenaghi
+https://rebep.org.br/revista/article/view/667|Luana Junqueira Dias Myrrha
+https://rebep.org.br/revista/article/view/667|Pamila Cristina Lima Siviero
+https://rebep.org.br/revista/article/view/667|Simone Wajnman
+https://rebep.org.br/revista/article/view/667|Cássio M. Turra
+https://rebep.org.br/revista/article/view/668|Raquel Rangel de Meireles Guimarães
+https://rebep.org.br/revista/article/view/670|Carl P. Schmertmann
+https://rebep.org.br/revista/article/view/671|André Junqueira Caetano
+https://rebep.org.br/revista/article/view/672|Raquel Zanatta Coutinho
+https://rebep.org.br/revista/article/view/672|Paula Miranda-Ribeiro
+https://rebep.org.br/revista/article/view/673|Gabrielle A, Palermo
+https://rebep.org.br/revista/article/view/673|Denise Britz do Nascimento Silva
+https://rebep.org.br/revista/article/view/673|Maria Salet Ferreira Novellino
+https://rebep.org.br/revista/article/view/677|Luciana Castaneda
+https://rebep.org.br/revista/article/view/677|Shamyr Sulyvan de Castro
+https://rebep.org.br/revista/article/view/677|Ligia Bahia
+https://rebep.org.br/revista/article/view/678|Pablo Sebastián Gómez
+https://rebep.org.br/revista/article/view/678|Eduardo Bologna
+https://rebep.org.br/revista/article/view/679|Vinicius Gaspar Garcia
+https://rebep.org.br/revista/article/view/679|Alexandre Gori Maia
+https://rebep.org.br/revista/article/view/680|Ricardo Antunes Dantas de Oliveira
+https://rebep.org.br/revista/article/view/681|Elza S. Berquó
+https://rebep.org.br/revista/article/view/681|Suzana M. Cavenaghi
+https://rebep.org.br/revista/article/view/682|César Marques
+https://rebep.org.br/revista/article/view/683|José Eustáquio Diniz Alves
+https://rebep.org.br/revista/article/view/683|Miguel Antônio Pinho Bruno
+https://rebep.org.br/revista/article/view/691|Suzana Cavenaghi
+https://rebep.org.br/revista/article/view/692|Nilton Cezar Pereira Pinto
+https://rebep.org.br/revista/article/view/693|Elaine Meire Vilela
+https://rebep.org.br/revista/article/view/693|Daniela Portella Sampaio
+https://rebep.org.br/revista/article/view/694|Gabriel Escanés
+https://rebep.org.br/revista/article/view/695|María José Vilalta
+https://rebep.org.br/revista/article/view/696|Rafael Henrique Moraes Pereira
+https://rebep.org.br/revista/article/view/696|Carlos Henrique Ribeiro de Carvalho
+https://rebep.org.br/revista/article/view/696|Pedro Herculano G. Ferreira de Souza
+https://rebep.org.br/revista/article/view/696|Ana Amelia Camarano
+https://rebep.org.br/revista/article/view/697|Fernanda Fortes de Lena
+https://rebep.org.br/revista/article/view/697|Ana Maria Hermeto Camilo de Oliveira
+https://rebep.org.br/revista/article/view/698|Reinaldo Onofre dos Santos
+https://rebep.org.br/revista/article/view/698|Alisson Flávio Barbieri
+https://rebep.org.br/revista/article/view/699|Pedro Herculano Guimarães Ferreira de Souza
+https://rebep.org.br/revista/article/view/700|Susana Villas-Boas
+https://rebep.org.br/revista/article/view/700|Albertina L. Oliveira
+https://rebep.org.br/revista/article/view/700|Natália Ramos
+https://rebep.org.br/revista/article/view/700|Inmaculada Montero
+https://rebep.org.br/revista/article/view/701|Ricardo Ojima
+https://rebep.org.br/revista/article/view/711|Suzana Cavenaghi
+https://rebep.org.br/revista/article/view/712|Carlos Lobo
+https://rebep.org.br/revista/article/view/712|Ralfo Matos
+https://rebep.org.br/revista/article/view/712|Leandro Cardoso
+https://rebep.org.br/revista/article/view/712|Lídia Comini
+https://rebep.org.br/revista/article/view/712|Guilherme Pinto
+https://rebep.org.br/revista/article/view/713|Rodrigo Coelho de Carvalho
+https://rebep.org.br/revista/article/view/713|José Irineu Rangel Rigotti
+https://rebep.org.br/revista/article/view/714|Ana Carolina Soares Bertho
+https://rebep.org.br/revista/article/view/714|Tirza Aidar
+https://rebep.org.br/revista/article/view/715|Laura Débora Acosta
+https://rebep.org.br/revista/article/view/715|Enrique Peláez
+https://rebep.org.br/revista/article/view/716|Antonio Otaviano Vieira Junior
+https://rebep.org.br/revista/article/view/716|Roberta Sauaia Martins
+https://rebep.org.br/revista/article/view/717|Lucilena Ferraz Castanheira Corrêa
+https://rebep.org.br/revista/article/view/717|João Policarpo Rodrigues Lima
+https://rebep.org.br/revista/article/view/717|Luís Henrique Romani de Campos
+https://rebep.org.br/revista/article/view/718|Mateus de Carvalho Reis Neves
+https://rebep.org.br/revista/article/view/718|Marcos Falcão Gonçalves
+https://rebep.org.br/revista/article/view/718|João Eustáquio de Lima
+https://rebep.org.br/revista/article/view/719|Leonardo Freire de Mello
+https://rebep.org.br/revista/article/view/719|Douglas Sathler
+https://rebep.org.br/revista/article/view/720|Clovis Ultramari
+https://rebep.org.br/revista/article/view/720|Manoela Massuchetto Jazar
+https://rebep.org.br/revista/article/view/721|Tania Di Giacomo do Lago
+https://rebep.org.br/revista/article/view/722|Raquel Zanatta Coutinho
+https://rebep.org.br/revista/article/view/722|Juliana Vasconcelos de Souza Barros
+https://rebep.org.br/revista/article/view/722|Angelita Alves de Carvalho
+https://rebep.org.br/revista/article/view/723|César Marques
+https://rebep.org.br/revista/article/view/723|Ana Carolina Soares Bertho
+https://rebep.org.br/revista/article/view/734|Suzana Cavenaghi
+https://rebep.org.br/revista/article/view/735|Douglas Sathler
+https://rebep.org.br/revista/article/view/735|César Marques
+https://rebep.org.br/revista/article/view/736|George Martine
+https://rebep.org.br/revista/article/view/736|José Eustáquio Diniz Alves
+https://rebep.org.br/revista/article/view/738|Alisson F. Barbieri
+https://rebep.org.br/revista/article/view/738|Gilvan R. Guedes
+https://rebep.org.br/revista/article/view/738|Kenya Noronha
+https://rebep.org.br/revista/article/view/738|Bernardo L. Queiroz
+https://rebep.org.br/revista/article/view/738|Edson P. Domingues
+https://rebep.org.br/revista/article/view/738|José Irineu R. Rigotti
+https://rebep.org.br/revista/article/view/738|Glaucia P. da Motta
+https://rebep.org.br/revista/article/view/738|Flavia Chein
+https://rebep.org.br/revista/article/view/738|Francisco Cortezzi
+https://rebep.org.br/revista/article/view/738|Ulisses E. Confalonieri
+https://rebep.org.br/revista/article/view/738|Kenia de Souza
+https://rebep.org.br/revista/article/view/739|Cristina Guimarães Rodrigues
+https://rebep.org.br/revista/article/view/739|Evangelina da Motta Pacheco Araújo Vormittag
+https://rebep.org.br/revista/article/view/739|Julia Affonso Cavalcante
+https://rebep.org.br/revista/article/view/739|Paulo Hilário Nascimento Saldiva
+https://rebep.org.br/revista/article/view/740|Glauco Umbelino
+https://rebep.org.br/revista/article/view/740|Clodoveu Davis Jr.
+https://rebep.org.br/revista/article/view/743|Luciana de Resende Londe
+https://rebep.org.br/revista/article/view/743|Victor Marchezini
+https://rebep.org.br/revista/article/view/743|Rodrigo Silva da Conceição
+https://rebep.org.br/revista/article/view/743|Katia Cristina Bortoletto
+https://rebep.org.br/revista/article/view/743|Ana Elisa Pereira Silva
+https://rebep.org.br/revista/article/view/743|Elisa Volker dos Santos
+https://rebep.org.br/revista/article/view/743|Regina Tortorella Reani
+https://rebep.org.br/revista/article/view/744|Álvaro de Oliveira D’Antona
+https://rebep.org.br/revista/article/view/744|Ricardo de Sampaio Dagnino
+https://rebep.org.br/revista/article/view/744|Maria do Carmo Dias Bueno
+https://rebep.org.br/revista/article/view/745|José Eustáquio Diniz Alves
+https://rebep.org.br/revista/article/view/746|Landy Sánchez Peña
+https://rebep.org.br/revista/article/view/747|Susana B. Adamo
+https://rebep.org.br/revista/article/view/748|Douglas Sathler
+https://rebep.org.br/revista/article/view/748|Susana B. Adamo
+https://rebep.org.br/revista/article/view/748|Everton E. C. Lima
+https://rebep.org.br/revista/article/view/749|George Martine
+https://rebep.org.br/revista/article/view/750|Ricardo Ojima
+https://rebep.org.br/revista/article/view/756|Leonardo Gomes de Sousa
+https://rebep.org.br/revista/article/view/756|Dimitri Fazito
+https://rebep.org.br/revista/article/view/764|Luciano Tavares Duarte
+https://rebep.org.br/revista/article/view/764|Denise Britz do Nascimento Silva
+https://rebep.org.br/revista/article/view/764|Jose Andre de Moura Brito
+https://rebep.org.br/revista/article/view/770|Cristiano Sathler dos Reis
+https://rebep.org.br/revista/article/view/770|Kenya Noronha
+https://rebep.org.br/revista/article/view/770|Simone Wajnman
+https://rebep.org.br/revista/article/view/779|Marcos Roberto Gonzaga
+https://rebep.org.br/revista/article/view/779|Carl Paul Schmertmann
+https://rebep.org.br/revista/article/view/794|Sergio Almeida
+https://rebep.org.br/revista/article/view/794|Paula Pereda
+https://rebep.org.br/revista/article/view/794|Rafael Ferreira
+https://rebep.org.br/revista/article/view/809|Suzana Cavenaghi
+https://rebep.org.br/revista/article/view/810|Francismara Fernandes Guerra
+https://rebep.org.br/revista/article/view/810|Simone Wajnman
+https://rebep.org.br/revista/article/view/810|Cássio M. Turra
+https://rebep.org.br/revista/article/view/811|Thiago Dumont Oliveira
+https://rebep.org.br/revista/article/view/811|André Braz Golgher
+https://rebep.org.br/revista/article/view/811|Pedro Mendes Loureiro
+https://rebep.org.br/revista/article/view/812|Maira Covre-Sussai
+https://rebep.org.br/revista/article/view/813|Cristiane Silva Corrêa
+https://rebep.org.br/revista/article/view/813|Bernardo Lanza Queiroz
+https://rebep.org.br/revista/article/view/813|Dimitri Fazito
+https://rebep.org.br/revista/article/view/814|José Marcos Pinto da Cunha
+https://rebep.org.br/revista/article/view/815|Gisele Maria Ribeiro de Almeida
+https://rebep.org.br/revista/article/view/815|Rosana Baeninger
+https://rebep.org.br/revista/article/view/816|Mariana Vieira Martins de Matos
+https://rebep.org.br/revista/article/view/816|Pedro Luis do Nascimento Silva
+https://rebep.org.br/revista/article/view/817|Jean Agustin Velásquez Piñas
+https://rebep.org.br/revista/article/view/817|Osvaldo Jose Venturini
+https://rebep.org.br/revista/article/view/817|Electo Eduardo Silva Lora
+https://rebep.org.br/revista/article/view/817|Michele Aparecida de Oliveira
+https://rebep.org.br/revista/article/view/817|Orly Denisse Calle Roalcaba
+https://rebep.org.br/revista/article/view/818|Suzana M. Cavenaghi
+https://rebep.org.br/revista/article/view/818|José Eustáquio Diniz Alves
+https://rebep.org.br/revista/article/view/820|Raquel Zanatta Coutinho
+https://rebep.org.br/revista/article/view/822|Wanda Cabella
+https://rebep.org.br/revista/article/view/822|Ignacio Pardo
+https://rebep.org.br/revista/article/view/826|Luana Passos De Souza
+https://rebep.org.br/revista/article/view/826|Fábio Domingues Waltenberg
+https://rebep.org.br/revista/article/view/837|João Carlos Jarochinski Silva
+https://rebep.org.br/revista/article/view/837|Lucia Maria Machado Bógus
+https://rebep.org.br/revista/article/view/837|Stéfanie Angélica Gimenez Jarochinski Silva
+https://rebep.org.br/revista/article/view/847|Angela Segura Cardona
+https://rebep.org.br/revista/article/view/847|Maria Garzón Duque
+https://rebep.org.br/revista/article/view/847|Doris Cardona Arango
+https://rebep.org.br/revista/article/view/847|Alejandra Segura Cardona
+https://rebep.org.br/revista/article/view/870|Laís Gonzales de Oliveira
+https://rebep.org.br/revista/article/view/873|Sidney Antonio da Silva
+https://rebep.org.br/revista/article/view/886|Cedric Audebert
+https://rebep.org.br/revista/article/view/887|Rosana Baeninger
+https://rebep.org.br/revista/article/view/887|Roberta Peres
+https://rebep.org.br/revista/article/view/889|Rosana Baeninger
+https://rebep.org.br/revista/article/view/890|Lara de Melo Barbosa
+https://rebep.org.br/revista/article/view/890|Kenya Noronha
+https://rebep.org.br/revista/article/view/890|Maria Helena Constantino Spyrides
+https://rebep.org.br/revista/article/view/890|Cristiane Alessandra Domingos de Araújo
+https://rebep.org.br/revista/article/view/897|Maria Carolina Tomas
+https://rebep.org.br/revista/article/view/910|Ansu Mancal
+https://rebep.org.br/revista/article/view/910|Patrícia Verônica Pinheiro Sales Lima
+https://rebep.org.br/revista/article/view/910|Ahmad Saeed Khan
+https://rebep.org.br/revista/article/view/910|Maria Irles de Oliveira Mayorga
+https://rebep.org.br/revista/article/view/917|Daniela Florêncio Silva
+https://rebep.org.br/revista/article/view/927|Mário Moreira Carvalho de Oliveira
+https://rebep.org.br/revista/article/view/927|Milton Ramos Ramirez
+https://rebep.org.br/revista/article/view/927|Ricardo Milton Frischtak
+https://rebep.org.br/revista/article/view/927|Rafael Brandão de Rezende Borges
+https://rebep.org.br/revista/article/view/927|Bruno Costa
+https://rebep.org.br/revista/article/view/927|Ricardo Cunha Pedroso
+https://rebep.org.br/revista/article/view/928|Jorge Mora-Rivera
+https://rebep.org.br/revista/article/view/928|Marlen Martínez Domínguez
+https://rebep.org.br/revista/article/view/928|José Luis Jaramillo Villanueva
+https://rebep.org.br/revista/article/view/928|María de los Ángeles Chávez Alvarado
+https://rebep.org.br/revista/article/view/935|Marcelo Gomes Ribeiro
+https://rebep.org.br/revista/article/view/936|Walcir Soares da Silva Junior
+https://rebep.org.br/revista/article/view/936|Flávio de Oliveira Gonçalves
+https://rebep.org.br/revista/article/view/937|Alessandra Traldi Simoni
+https://rebep.org.br/revista/article/view/937|Ricardo de Sampaio Dagnino
+https://rebep.org.br/revista/article/view/938|Marcio Silva
+https://rebep.org.br/revista/article/view/939|Nilza de Oliveira Martins Pereira
+https://rebep.org.br/revista/article/view/944|Rosângela Morello
+https://rebep.org.br/revista/article/view/960|Luciene Guimarães de Souza
+https://rebep.org.br/revista/article/view/960|Silvia Angela Gugelmin
+https://rebep.org.br/revista/article/view/960|Barbara Coelho Barbosa da Cunha
+https://rebep.org.br/revista/article/view/960|Marina Atanaka
+https://rebep.org.br/revista/article/view/961|Laura L. Rodríguez Wong
+https://rebep.org.br/revista/article/view/962|Marden Barbosa de Campos
+https://rebep.org.br/revista/article/view/962|Bárbara Roberto Estanislau
+https://rebep.org.br/revista/article/view/963|Rosanna Dent
+https://rebep.org.br/revista/article/view/964|Santiago J. Molina
+https://rebep.org.br/revista/article/view/968|Luciene Aparecida Ferreira de Barros Longo
+https://rebep.org.br/revista/article/view/968|Luciane Ouriques Ferreira
+https://rebep.org.br/revista/article/view/968|Marta Maria do Amaral Azevedo
+https://rebep.org.br/revista/article/view/970|Suzana Cavenaghi
+https://rebep.org.br/revista/article/view/971|Ricardo Ventura Santos
+https://rebep.org.br/revista/article/view/983|Carlos de Almeida Prado Bacellar
+https://rebep.org.br/revista/article/view/985|Pedro Henrique de Castro Simões
+https://rebep.org.br/revista/article/view/985|José Eustáquio Diniz Alves
+https://rebep.org.br/revista/article/view/985|Pedro Luis do Nascimento Silva
+https://rebep.org.br/revista/article/view/986|Suzana Cavenaghi
+https://rebep.org.br/revista/article/view/992|Luiz Carlos Day Gama
+https://rebep.org.br/revista/article/view/992|Ana Maria Hermeto
+https://rebep.org.br/revista/article/view/1001|Carlos Lobo
+https://rebep.org.br/revista/article/view/1001|Leandro Cardoso
+https://rebep.org.br/revista/article/view/1001|Ivânia Linhares de Almeida
+https://rebep.org.br/revista/article/view/1001|Ricardo Alexandrino Garcia
+https://rebep.org.br/revista/article/view/1003|Roberta Giannubilo Stumpf
+https://rebep.org.br/revista/article/view/1004|Sérgio Odilon Nadalin
+https://rebep.org.br/revista/article/view/1004|Dario Scott
+https://rebep.org.br/revista/article/view/1006|Luciano Costa Gomes
+https://rebep.org.br/revista/article/view/1009|Antonia da Silva Mota
+https://rebep.org.br/revista/article/view/1009|Maísa Faleiros da Cunha
+https://rebep.org.br/revista/article/view/1012|Dayane Julia Carvalho Dias
+https://rebep.org.br/revista/article/view/1012|Carmen Margarida Oliveira Alveal
+https://rebep.org.br/revista/article/view/1016|Luciana Conceição de Lima
+https://rebep.org.br/revista/article/view/1016|Dayane Julia Carvalho Dias
+https://rebep.org.br/revista/article/view/1016|Luana Junqueira Dias Myrrha
+https://rebep.org.br/revista/article/view/1017|André Augusto da Fonseca
+https://rebep.org.br/revista/article/view/1020|Paulo Teodoro Matos
+https://rebep.org.br/revista/article/view/1027|Ana Silvia Volpi Scott
+https://rebep.org.br/revista/article/view/1028|Álvaro de Oliveira D'Antona
+https://rebep.org.br/revista/article/view/1030|Paulo Eduardo Teixeira
+https://rebep.org.br/revista/article/view/1031|Dario Scott
+https://rebep.org.br/revista/article/view/1034|Roberta Guerra Rosemback
+https://rebep.org.br/revista/article/view/1034|José Irineu Rangel Rigotti
+https://rebep.org.br/revista/article/view/1034|Flávia da Fonseca Feitosa
+https://rebep.org.br/revista/article/view/1034|Antônio Miguel Vieira Monteiro
+https://rebep.org.br/revista/article/view/1049|Lúcia Helena Pereira da Silva
+https://rebep.org.br/revista/article/view/1050|Catarina Reis Oliveira
+https://rebep.org.br/revista/article/view/1050|João Peixoto
+https://rebep.org.br/revista/article/view/1050|Pedro Góis
+https://rebep.org.br/revista/article/view/1055|Duval Fernandes
+https://rebep.org.br/revista/article/view/1055|Andressa Virgínia de Faria
+https://rebep.org.br/revista/article/view/1073|Gilvan Ramalho Guedes
+https://rebep.org.br/revista/article/view/1073|Alisson Barbieri
+https://rebep.org.br/revista/article/view/1073|Reinaldo Santos
+https://rebep.org.br/revista/article/view/1073|Vanessa Ferreira
+https://rebep.org.br/revista/article/view/1075|Maísa Faleiros Cunha
+https://rebep.org.br/revista/article/view/1076|Maria Silvia Casagrande Beozzo Bassanezi
+https://rebep.org.br/revista/article/view/1082|Antonio Tadeu Ribeiro de Oliveira
+https://rebep.org.br/revista/article/view/1083|Luiz Antonio de Castro Santos
+https://rebep.org.br/revista/article/view/1083|Lina Faria
+https://rebep.org.br/revista/article/view/1083|Rafael Andrés Patiño
+https://rebep.org.br/revista/article/view/1086|Massimo Livi Bacci
+https://rebep.org.br/revista/article/view/1096|Simone Wajnman
+https://rebep.org.br/revista/article/view/1097|Gisela P. Zapata
+https://rebep.org.br/revista/article/view/1097|Gilvan Guedes
+https://rebep.org.br/revista/article/view/1102|Marden Campos
+https://rebep.org.br/revista/article/view/1103|Svetlana Ruseishvili
+https://rebep.org.br/revista/article/view/1106|Vanessa Gapriotti Nadalin
+https://rebep.org.br/revista/article/view/1106|Bernardo Alves Furtado
+https://rebep.org.br/revista/article/view/1106|Matheus Rabetti
+https://rebep.org.br/revista/article/view/1113|Raquel Zanatta Coutinho
+https://rebep.org.br/revista/article/view/1113|Andre Braz Golgher
+https://rebep.org.br/revista/article/view/1130|Rafael Mesquita Pereira
+https://rebep.org.br/revista/article/view/1130|Maria Cristina Galvão
+https://rebep.org.br/revista/article/view/1130|Henrique dos Santos Maxir
+https://rebep.org.br/revista/article/view/1136|Angelita Alves de Carvalho
+https://rebep.org.br/revista/article/view/1136|Laura Rodriguez Wong
+https://rebep.org.br/revista/article/view/1136|Paula Miranda-Ribeiro
+https://rebep.org.br/revista/article/view/1140|Lucas Campos Amaro
+https://rebep.org.br/revista/article/view/1140|Luís Eduardo Afonso
+https://rebep.org.br/revista/article/view/1147|Daniela Mía Campos Ugaz
+https://rebep.org.br/revista/article/view/1150|Carola Leticia Bertone
+https://rebep.org.br/revista/article/view/1150|Víctor Eduardo Torres
+https://rebep.org.br/revista/article/view/1150|Marcos Javier Andrada
+https://rebep.org.br/revista/article/view/1152|Emerson Augusto Baptista
+https://rebep.org.br/revista/article/view/1152|Bernardo Lanza Queiroz
+https://rebep.org.br/revista/article/view/1152|José Irineu Rangel Rigotti
+https://rebep.org.br/revista/article/view/1160|Simone Wajnman
+https://rebep.org.br/revista/article/view/1161|Ana Silvia Volpi Scott
+https://rebep.org.br/revista/article/view/1161|Paulo Teodoro de Matos
+https://rebep.org.br/revista/article/view/1170|Bernardo Lanza Queiroz
+https://rebep.org.br/revista/article/view/1170|Nicolas Sacco
+https://rebep.org.br/revista/article/view/1172|Maria Izilda Santos Matos
+https://rebep.org.br/revista/article/view/1172|Oswaldo Truzzi
+https://rebep.org.br/revista/article/view/1172|Carla Fernandes Conceição
+https://rebep.org.br/revista/article/view/1174|Felipe dos Santos Martins
+https://rebep.org.br/revista/article/view/1174|Danielle Carusi Machado
+https://rebep.org.br/revista/article/view/1180|Nicolás Sacco
+https://rebep.org.br/revista/article/view/1180|Gabriel Borges
+https://rebep.org.br/revista/article/view/1181|Paulo de Martino Jannuzzi
+https://rebep.org.br/revista/article/view/1189|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/1189|Guilherme Quaresma Gonçalves
+https://rebep.org.br/revista/article/view/1189|Luciano Gonçalves de Castro e Silva
+https://rebep.org.br/revista/article/view/1215|Jeronimo Oliveira Muniz
+https://rebep.org.br/revista/article/view/1219|Bráulio Figueiredo Alves Silva
+https://rebep.org.br/revista/article/view/1219|Bernardo Lanza Queiroz
+https://rebep.org.br/revista/article/view/1219|Frederico Couto Marinho
+https://rebep.org.br/revista/article/view/1219|Fabiano Neves Alves Pereira
+https://rebep.org.br/revista/article/view/1219|Pedro Cisalpino
+https://rebep.org.br/revista/article/view/1220|Luiza Veloso Dutra
+https://rebep.org.br/revista/article/view/1220|Dayane de Castro Morais
+https://rebep.org.br/revista/article/view/1220|Ricardo Henrique Silva Santos
+https://rebep.org.br/revista/article/view/1220|Sylvia do Carmo Castro Franceschini
+https://rebep.org.br/revista/article/view/1220|Silvia Eloiza Priore
+https://rebep.org.br/revista/article/view/1242|Sarah Anne Reynolds
+https://rebep.org.br/revista/article/view/1243|Claudio Santiago Dias Jr
+https://rebep.org.br/revista/article/view/1243|Ana Paula Verona
+https://rebep.org.br/revista/article/view/1252|Renata Maciel Ribeiro
+https://rebep.org.br/revista/article/view/1252|Silvana Amaral
+https://rebep.org.br/revista/article/view/1252|Antônio Miguel Vieira Monteiro
+https://rebep.org.br/revista/article/view/1252|Ana Paula Dal'Asta
+https://rebep.org.br/revista/article/view/1254|Helena Nobre de Oliveira
+https://rebep.org.br/revista/article/view/1254|César Augusto Marques da Silva
+https://rebep.org.br/revista/article/view/1254|Antonio Tadeu Ribeiro de Oliveira
+https://rebep.org.br/revista/article/view/1255|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/1255|Járvis Campos
+https://rebep.org.br/revista/article/view/1255|José Irineu Rangel Rigotti
+https://rebep.org.br/revista/article/view/1255|Breno Aloísio Torres Duarte de Pinho
+https://rebep.org.br/revista/article/view/1265|Reinaldo Onofre Santos
+https://rebep.org.br/revista/article/view/1265|Guilherme Quaresma Gonçalves
+https://rebep.org.br/revista/article/view/1271|Samara Lauar Santos
+https://rebep.org.br/revista/article/view/1271|Cássio Turra
+https://rebep.org.br/revista/article/view/1271|Kenya Noronha
+https://rebep.org.br/revista/article/view/1280|Ana Luiza Neves de Holanda Barbosa
+https://rebep.org.br/revista/article/view/1286|Julia Sbroglio Rizzotto
+https://rebep.org.br/revista/article/view/1286|Marco Tulio Aniceto França
+https://rebep.org.br/revista/article/view/1286|Gustavo Saraiva Frio
+https://rebep.org.br/revista/article/view/1289|Marco Aurélio Machado de Oliveira
+https://rebep.org.br/revista/article/view/1295|Sérgio Odilon Nadalin
+https://rebep.org.br/revista/article/view/1299|Matheus Alves Albino
+https://rebep.org.br/revista/article/view/1299|Renato Leite Marcondes
+https://rebep.org.br/revista/article/view/1303|Flavia Maria Galizoni
+https://rebep.org.br/revista/article/view/1303|Eduardo Magalhães Ribeiro
+https://rebep.org.br/revista/article/view/1307|Gilvan Teles Barroso Junior
+https://rebep.org.br/revista/article/view/1307|Ana Carolina Soares Bertho
+https://rebep.org.br/revista/article/view/1307|Alinne de Carvalho Veiga
+https://rebep.org.br/revista/article/view/1317|George Martine
+https://rebep.org.br/revista/article/view/1317|Jose Eustaquio Alves
+https://rebep.org.br/revista/article/view/1328|Maria Silvia Beozzo Bassanezi
+https://rebep.org.br/revista/article/view/1328|Maisa Faleiros Cunha
+https://rebep.org.br/revista/article/view/1339|Camila Fernanda Bassetto
+https://rebep.org.br/revista/article/view/1349|Cristina Donza Cancela
+https://rebep.org.br/revista/article/view/1351|Ernesto Friedrich de Lima Amaral
+https://rebep.org.br/revista/article/view/1351|Camilo Vladimir de Lima Amaral
+https://rebep.org.br/revista/article/view/1352|Rodrigo Coelho de Carvalho
+https://rebep.org.br/revista/article/view/1352|Elin Charles-Edwards
+https://rebep.org.br/revista/article/view/1354|Claudia Ayer Noronha
+https://rebep.org.br/revista/article/view/1354|Elaine Vilela
+https://rebep.org.br/revista/article/view/1354|Marden Campos
+https://rebep.org.br/revista/article/view/1357|Simone Wajnman
+https://rebep.org.br/revista/article/view/1358|Gilvan Guedes
+https://rebep.org.br/revista/article/view/1359|Simone Wajnman
+https://rebep.org.br/revista/article/view/1362|Caroline Carvalho
+https://rebep.org.br/revista/article/view/1362|Guilherme Irffi
+https://rebep.org.br/revista/article/view/1364|Adriana Miranda-Ribeiro
+https://rebep.org.br/revista/article/view/1364|Ricardo Alexandrino Garcia
+https://rebep.org.br/revista/article/view/1364|Tereza Cristina de Azevedo Bernardes Faria
+https://rebep.org.br/revista/article/view/1373|Oswaldo Truzzi
+https://rebep.org.br/revista/article/view/1380|Ricardo Neupert
+https://rebep.org.br/revista/article/view/1380|Rogelio Eduardo Fernandez Menjivar
+https://rebep.org.br/revista/article/view/1380|Rogelio Eduardo Fernandez Castilla
+https://rebep.org.br/revista/article/view/1382|Graciele Pereira Guedes
+https://rebep.org.br/revista/article/view/1382|Elisa Monçores
+https://rebep.org.br/revista/article/view/1389|Leonardo Souza Silveira
+https://rebep.org.br/revista/article/view/1389|Maria Carolina Tomas
+https://rebep.org.br/revista/article/view/1418|Janaína Guiginski
+https://rebep.org.br/revista/article/view/1418|Simone Wajnman
+https://rebep.org.br/revista/article/view/1432|Clauber Scherer
+https://rebep.org.br/revista/article/view/1432|Pedro Vasconcelos Maia do Amaral
+https://rebep.org.br/revista/article/view/1432|David Folch
+https://rebep.org.br/revista/article/view/1435|Andrea Branco Simão
+https://rebep.org.br/revista/article/view/1443|Reinaldo Onofre Santos
+https://rebep.org.br/revista/article/view/1443|Alisson Flávio Barbieri
+https://rebep.org.br/revista/article/view/1450|Pamila Cristina Lima Siviero
+https://rebep.org.br/revista/article/view/1450|Larissa  Gonçalves de Souza
+https://rebep.org.br/revista/article/view/1450|Carla  Jorge Machado
+https://rebep.org.br/revista/article/view/1458|Monica Viegas Andrade
+https://rebep.org.br/revista/article/view/1458|Kenya Noronha
+https://rebep.org.br/revista/article/view/1458|Cláudia  Di Lorenzo Oliveira
+https://rebep.org.br/revista/article/view/1458|Clareci Silva Cardoso
+https://rebep.org.br/revista/article/view/1458|Júlia Almeida Calazans
+https://rebep.org.br/revista/article/view/1458|Nayara Abreu Julião
+https://rebep.org.br/revista/article/view/1458|Aline de Souza
+https://rebep.org.br/revista/article/view/1458|Patrícia  Aguiar Tavares
+https://rebep.org.br/revista/article/view/1461|Guilherme Quaresma Gonçalves
+https://rebep.org.br/revista/article/view/1461|José Alberto Magno de Carvalho
+https://rebep.org.br/revista/article/view/1461|Laura Lídia  Rodríguez Wong
+https://rebep.org.br/revista/article/view/1461|Cássio Maldonado Turra
+https://rebep.org.br/revista/article/view/1462|Larissa Giardini Simões
+https://rebep.org.br/revista/article/view/1462|Ana Maria Hermeto
+https://rebep.org.br/revista/article/view/1464|Andrea Fernand Jubithana
+https://rebep.org.br/revista/article/view/1464|Bernardo Lanza Queiroz
+https://rebep.org.br/revista/article/view/1473|José Eustáquio Diniz Alves
+https://rebep.org.br/revista/article/view/1474|Suzana Cavenaghi
+https://rebep.org.br/revista/article/view/1474|José Eustáquio Diniz Alves
+https://rebep.org.br/revista/article/view/1479|Donald Sawyer
+https://rebep.org.br/revista/article/view/1490|Flávia  Rodrigues de Castro
+https://rebep.org.br/revista/article/view/1490|Carolina Moulin
+https://rebep.org.br/revista/article/view/1492|Pamila Cristina Lima Siviero
+https://rebep.org.br/revista/article/view/1500|George Martine
+https://rebep.org.br/revista/article/view/1501|Richarlls Martins
+https://rebep.org.br/revista/article/view/1543|Paula Miranda-Ribeiro
